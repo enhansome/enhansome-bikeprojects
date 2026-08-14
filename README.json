@@ -1,0 +1,692 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Verkehrszählung mit Open-Source-Tool OpenDataCam",
+          "description": "Wie viele Autos, Fahrräder oder Schafe täglich die Straße nutzen, lässt sich mit der OpenDataCam ermitteln. Das Tool gibt es nun in Version 3.0. Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-04-23T01:52:02Z",
+            "owner": "opendatacam",
+            "repo": "opendatacam",
+            "stars": 1724
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Streetmix",
+          "description": "Design, remix and share your street. Add cycle paths, widen sidewalks or lanes, and find out how that affects your community (source code).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-08T13:10:55Z",
+            "owner": "streetmix",
+            "repo": "streetmix",
+            "stars": 740
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CityBikes",
+          "description": "Visualizations and APIs for many bike sharing systems around the globe (source code).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-30T11:53:20Z",
+            "owner": "eskerda",
+            "repo": "pybikes",
+            "stars": 605
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "weg-li",
+          "description": "Website for citizens to report parking violations on sidewalks and bike paths. weg-li is opensource, uses OCR and image-recognition to do ALPR (automated license plate recognition) and other automations to make the process as simple and fast as possible. Falschparkeranzeige erstellen (mit Kennzeichenerkennung, benutzt Google)",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Github",
+              "description": "Unter Verwendung des Google::Cloud::Vision::ImageAnnotator https://cloud.google.com/vision/docs/request?hl=de siehe https://twitter.com/ulid000/status/1174061217477996546?s=20",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Ruby",
+                "last_commit": "2026-08-14T06:12:21Z",
+                "owner": "weg-li",
+                "repo": "weg-li",
+                "stars": 280
+              }
+            }
+          ],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-08-14T06:12:21Z",
+            "owner": "weg-li",
+            "repo": "weg-li",
+            "stars": 280
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://biking.michael-simons.eu",
+          "description": "Michael Simons's private web tool to manage his bikes and tracks but also a sample application (Repository) to learn both modern server side Java with Spring Boot and software architecture documentation using on the Arc42 template",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2025-10-24T19:15:39Z",
+            "owner": "michael-simons",
+            "repo": "biking2",
+            "stars": 183
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bikedata",
+          "description": "R package to extract data from public hire bicycle systems.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2026-06-25T14:38:48Z",
+            "owner": "ropensci",
+            "repo": "bikedata",
+            "stars": 80
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CommonsBooking",
+          "description": "A Wordpress plugin for management and booking of commons goods especially cargo bikes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-08-14T07:44:00Z",
+            "owner": "wielebenwir",
+            "repo": "commonsbooking",
+            "stars": 57
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OSM Conflator",
+          "description": ". This is a script for merging points from some third-party source with OpenStreetMap data. After merging and uploading, the data can be updated.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-02-01T20:07:41Z",
+            "owner": "mapsme",
+            "repo": "osm_conflate",
+            "stars": 48
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Safe Cycling Map",
+          "description": "GitHub - A map showing how safe a street is for cycling, based on (arbitrary) metrics.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-09-10T07:00:16Z",
+            "owner": "jakecoppinger",
+            "repo": "safe-cycling-map",
+            "stars": 41
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OSM Bike Ottawa Tagging Guide",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-05-09T21:53:06Z",
+            "owner": "BikeOttawa",
+            "repo": "OSM-Bike-Ottawa-Tagging-Guide",
+            "stars": 37
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sport-activities-features",
+          "description": "A minimalistic toolbox for extracting features from sports activity files written in Python",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-22T09:42:39Z",
+            "owner": "firefly-cpp",
+            "repo": "sport-activities-features",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Verkehrswende Wordpress Locations",
+          "description": "This Wordpress plugin can be used to track infrastructural problems like missing sidewalks or bike lanes and provides users with interactive maps. Users can also contribute to the map by uploading coordinates and images.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-08-29T11:44:05Z",
+            "owner": "steampixel",
+            "repo": "RadentscheidWordpressLocations",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bicycle Master Plan",
+          "description": "A tool / web app for displaying various bicycle infrastructure related data on a map",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-08-11T21:24:09Z",
+            "owner": "nekromoff",
+            "repo": "bicycle-master-plan",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sternfahrtplaner",
+          "description": "A web tool to plan, publish and register simple bike demonstrations as well as complex rallies, with multiple start points and one destination (in German called Sternfahrt, like star rally). The web tool is hosted under www.sternfahrtplaner.de.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-19T11:29:56Z",
+            "owner": "SebastianHanfland",
+            "repo": "RallyGPXMerger",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Byke",
+          "description": "This project explores the feasability of quantifying the bicycle lane surface roughness using an accelerometer",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2019-12-02T12:11:35Z",
+            "owner": "schienenersatzverkehr",
+            "repo": "byke",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fahrradwetter",
+          "description": "A script that checks the rain radar to give you a forecast on wether you should ride the bike today.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-05-18T22:41:33Z",
+            "owner": "ulid000",
+            "repo": "Fahrradwetter",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "crashes (Münster)",
+          "description": "Interactive visualisation of crashes data from Münster (Westf., source code)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2021-02-04T15:04:12Z",
+            "owner": "codeformuenster",
+            "repo": "crashes-shiny",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Radlquartier München",
+          "description": "An interactive visualization of Munich's bike sharing system (source code)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-01-05T17:02:43Z",
+            "owner": "codeformunich",
+            "repo": "radlquartier",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pyxelate",
+          "description": "open source GUI script written in Python to partially pixelate images or short video clips. Uses ffmpeg.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2022-01-26T09:51:55Z",
+            "owner": "blackstream-x",
+            "repo": "pyxelate",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Deshaking videos",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2013-11-13T08:29:27Z",
+            "owner": "Wikinaut",
+            "repo": "utils",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AST-Monitor",
+          "description": "A wearable Raspberry Pi computer for cyclists",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T00:54:52Z",
+            "owner": "firefly-cpp",
+            "repo": "AST-Monitor",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Regenampel",
+          "description": "GitHub - A web app that tells you when you need to set off on your bike so you arrive without getting wet.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2022-09-21T23:10:48Z",
+            "owner": "jonnyschaefer",
+            "repo": "radolan",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "traffic dynamics (Münster)",
+          "description": "Interactive visualisation of bike (and car) count data from Münster (Westf., source code)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2019-12-04T15:54:09Z",
+            "owner": "codeformuenster",
+            "repo": "traffic-dynamics",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Abschlapp",
+          "description": "First prototype of a mobile app guiding pedestrians and cyclists to get Berlin Police to tow cars from cycling infrastructure and sidewalks based on the instructions by Autofreies Kreuzberg",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2017-10-12T08:13:41Z",
+            "owner": "stefanw",
+            "repo": "abschlapp",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fahrraddaten-Canvas",
+          "description": "Template for documentation, discovery or ideation of Open Data for cycling and bicyle urbanism on a single sheet of paper. (German)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2019-03-19T22:34:22Z",
+            "owner": "ulid000",
+            "repo": "fahrraddaten-canvas",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "group",
+          "title": "SimRa - Kostenlose SimRa App. TU Berlin-Projekt. Datensparsame Datensammel-App, die Fahrtrouten aufzeichnet und Beschleunigungsdaten zum Detektieren von Gefahrensituationen nutzt wie plötzliches Bremsen, Ausweichen, Stürze. 3-Jahres-Förderung durch die Citizen-Science-Initiative der TU Berlin.",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "GitHub",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Objective-C",
+                "last_commit": "2025-12-25T09:23:33Z",
+                "owner": "simra-project",
+                "repo": "simra-ios",
+                "stars": 4
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Cyface - Software zur Analyse der Qualität und Nutzung von Verkehrswegen. Cyface Android App und Cyface Sensorbox (RaspberryPi) zur Erfassung von Straßen- und Verkehrsdaten. Ausgründung der TU Dresden.",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Github: Android Backend",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Kotlin",
+                "last_commit": "2026-07-12T14:32:34Z",
+                "owner": "cyface-de",
+                "repo": "android-backend",
+                "stars": 1
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Verkehrsunfallstatistik - Parser and maps for Berlin's yearly bike accident reports to get the number of accidents per street.",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "GitHub",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2023-04-17T07:40:19Z",
+                "owner": "stefanw",
+                "repo": "verkehrsunfallstatistik",
+                "stars": 21
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Bikerouter",
+          "description": "Web client for BRouter, a routing engine based on OpenStreetMap.",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "GitHub",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2026-08-12T15:12:47Z",
+                "owner": "nrenner",
+                "repo": "brouter-web",
+                "stars": 495
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Abstandsrechner - A JS tool to measure the distance between car and cyclist. Estimate distance between car overtaking and bike based on camera photos using road markings as reference.",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "GitHub",
+              "description": null,
+              "children": []
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "BikeTag - A photo mystery tag game on bicycles, completely open-source and free to play forever, written in TypeScript and VueJs.",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "GitHub",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "TypeScript",
+                "last_commit": "2026-07-30T07:36:31Z",
+                "owner": "KenEucker",
+                "repo": "biketag-vue",
+                "stars": 26
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Falschparkeranzeige erstellen (experimentell; auf Berliner Bußgeldstelle zugeschnitten, läuft datensparsam im Browser, erstellt E-Mail, benutzt OSM)",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "HTML",
+                "last_commit": "2024-03-01T19:28:41Z",
+                "owner": "Wikinaut",
+                "repo": "bowi",
+                "stars": 6
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Falschparkeranzeige erstellen (experimentell; auf Magdeburger Bußgeldstelle zugeschnitten, läuft datensparsam im Browser, erstellt PDF für E-Mail) https://twitter.com/komaspieler/status/1482100175946407938",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2022-11-16T09:11:19Z",
+                "owner": "komaspieler",
+                "repo": "owianzeige",
+                "stars": 3
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Projects"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Open Data Cam",
+          "description": "'Open Data Cam' is a tool that helps to quantify the world. The best thing about it: You can make it yourself! With computer vision 'Open Data Cam' understands and quantifies what it sees. The simple setup allows everybody to become an urban data miner. Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-04-23T01:52:02Z",
+            "owner": "opendatacam",
+            "repo": "opendatacam",
+            "stars": 1724
+          }
+        },
+        {
+          "node_type": "group",
+          "title": "Telraam",
+          "description": "Verkehrszählungen (lokal und per Netzwerk/Karte) per Raspberrry Pi, Kamera und Software",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/CargoBikoMeter/WZePaperDisplay",
+              "description": "e-Paper based mobility data display. \"WZ\" in \"WZePaperDisplay\" means \"Wir Zählen\".",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "C++",
+                "last_commit": "2023-01-12T10:18:11Z",
+                "owner": "CargoBikoMeter",
+                "repo": "WZePaperDisplay",
+                "stars": 5
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "(Traffic) tally",
+          "description": "\"tally\", engl. counter, list. The tool works in the browser (Desktop, Smartphone…) and lets you count items (for example, when you count traffic the items would be bicycles, cars, busses and so on). The list and also the names of the items can be easily configured and is saved in the browser's local storage (no data is stored on the server).",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Vue",
+                "last_commit": "2021-03-22T09:48:01Z",
+                "owner": "Wikinaut",
+                "repo": "tally",
+                "stars": 0
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Verkehrszählung"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "car-tagging-data-berlin",
+          "description": "This repo is about the data collected by volunteers using a map tagging tool which was developed to tag cars on aerial images from the city of Berlin",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-10-08T07:28:10Z",
+            "owner": "hanshack",
+            "repo": "car-tagging-data-berlin",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tempo 30 würde Fahrzeiten kaum erhöhen",
+          "description": "Auf vielen Straßen in Berlin würde tagsüber Tempo 30 kaum die Fahrzeiten erhöhen: Zu sehen sind Straßenabschnitte, wo aktuell zwar Tempo 50 gilt, aber in der Realität (Uber-Daten 2019Q2) nicht viel schneller als Tempo 30 gefahren wird/gefahren werden kann. In diesem Projekt wurden die Durchschnittsgeschwindigkeiten von Uber-Fahrzeugen aus dem Q2 2019 OSM-Strassenabschnitten zugeordent. Anschließend wurden nur Strassenabschnitten visualisiert, auf denen Tempo 50 gilt (maxspeed=50) und tatsächlich nur <33km/h gefahren wird.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2020-01-21T12:19:11Z",
+            "owner": "vizsim",
+            "repo": "uber_data_analysis",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Berlin"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "MunichWays",
+          "description": "visualization and analyzes of all major roads in Munich according to the traffic light principle. (code), (map)",
+          "children": []
+        },
+        {
+          "node_type": "group",
+          "title": "https://natenom.de/",
+          "description": "Natenoms († 30.01.2024) Blog – mit vielen interessanten Beiträgen.",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://natenom.de/2023/06/eine-headmap-aus-gpx-dateien-erstellen-mit-einem-python-tool/",
+              "description": "Eine Heatmap aus GPX-Daten erstellen (Python) https://github.com/remisalmon/Strava-local-heatmap",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2024-02-02T01:42:13Z",
+                "owner": "remisalmon",
+                "repo": "Strava-local-heatmap",
+                "stars": 182
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Germany"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Ladegeräte Nabendynamo → USB"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Meetups"
+    },
+    {
+      "description": "https://wiki.openstreetmap.org/wiki/Talk:Berlin/Verkehrswende",
+      "items": [],
+      "title": "OSM-Verkehrswende Meetups"
+    },
+    {
+      "description": "https://www.meetup.com/de-DE/Datacycle-Meetup-Fahrraddaten-fur-Berlin/",
+      "items": [],
+      "title": "Berlin Datacycle Meetup Slides and Links"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-14T14:30:12.543Z",
+    "original_repository": "mltbnz/awesome-bikeprojects",
+    "original_repository_sha": "a6de98dc95e57e19d8cdb39ce3c0543c5933eb57",
+    "enhanced_repository": "enhansome/enhansome-bikeprojects",
+    "enhanced_repository_description": null,
+    "title": "Awesome About with stars"
+  }
+}
