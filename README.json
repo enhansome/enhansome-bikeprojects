@@ -110,7 +110,7 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-08-14T07:44:00Z",
+            "last_commit": "2026-08-16T15:53:26Z",
             "owner": "wielebenwir",
             "repo": "commonsbooking",
             "stars": 57
@@ -682,7 +682,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T13:51:31.262Z",
+    "last_updated": "2026-08-17T14:00:34.908Z",
     "original_repository": "mltbnz/awesome-bikeprojects",
     "original_repository_sha": "a6de98dc95e57e19d8cdb39ce3c0543c5933eb57",
     "enhanced_repository": "enhansome/enhansome-bikeprojects",
