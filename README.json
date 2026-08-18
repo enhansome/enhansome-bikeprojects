@@ -14,7 +14,7 @@
             "last_commit": "2026-04-23T01:52:02Z",
             "owner": "opendatacam",
             "repo": "opendatacam",
-            "stars": 1724
+            "stars": 1725
           }
         },
         {
@@ -110,7 +110,7 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-08-16T15:53:26Z",
+            "last_commit": "2026-08-18T14:01:28Z",
             "owner": "wielebenwir",
             "repo": "commonsbooking",
             "stars": 57
@@ -545,7 +545,7 @@
             "last_commit": "2026-04-23T01:52:02Z",
             "owner": "opendatacam",
             "repo": "opendatacam",
-            "stars": 1724
+            "stars": 1725
           }
         },
         {
@@ -682,7 +682,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T14:00:34.908Z",
+    "last_updated": "2026-08-18T14:05:16.236Z",
     "original_repository": "mltbnz/awesome-bikeprojects",
     "original_repository_sha": "a6de98dc95e57e19d8cdb39ce3c0543c5933eb57",
     "enhanced_repository": "enhansome/enhansome-bikeprojects",
