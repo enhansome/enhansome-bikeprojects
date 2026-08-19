@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 101764582,
             "language": "JavaScript",
             "last_commit": "2026-04-23T01:52:02Z",
             "owner": "opendatacam",
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 7708819,
             "language": "TypeScript",
             "last_commit": "2026-08-08T13:10:55Z",
             "owner": "streetmix",
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 778569,
             "language": "Python",
             "last_commit": "2026-08-16T10:24:56Z",
             "owner": "eskerda",
@@ -57,6 +60,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 200227768,
                 "language": "Ruby",
                 "last_commit": "2026-08-14T06:12:21Z",
                 "owner": "weg-li",
@@ -67,6 +71,7 @@
           ],
           "repo_info": {
             "archived": false,
+            "id": 200227768,
             "language": "Ruby",
             "last_commit": "2026-08-14T06:12:21Z",
             "owner": "weg-li",
@@ -81,6 +86,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 17022651,
             "language": "Java",
             "last_commit": "2025-10-24T19:15:39Z",
             "owner": "michael-simons",
@@ -95,6 +101,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 76273350,
             "language": "R",
             "last_commit": "2026-06-25T14:38:48Z",
             "owner": "ropensci",
@@ -109,8 +116,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 253730181,
             "language": "PHP",
-            "last_commit": "2026-08-18T14:01:28Z",
+            "last_commit": "2026-08-18T15:53:18Z",
             "owner": "wielebenwir",
             "repo": "commonsbooking",
             "stars": 57
@@ -123,6 +131,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 82086505,
             "language": "Python",
             "last_commit": "2021-02-01T20:07:41Z",
             "owner": "mapsme",
@@ -137,6 +146,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 585369861,
             "language": "JavaScript",
             "last_commit": "2023-09-10T07:00:16Z",
             "owner": "jakecoppinger",
@@ -151,6 +161,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 101825987,
             "language": "JavaScript",
             "last_commit": "2023-05-09T21:53:06Z",
             "owner": "BikeOttawa",
@@ -165,6 +176,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 316730912,
             "language": "Python",
             "last_commit": "2026-05-22T09:42:39Z",
             "owner": "firefly-cpp",
@@ -179,6 +191,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 211388933,
             "language": "JavaScript",
             "last_commit": "2023-08-29T11:44:05Z",
             "owner": "steampixel",
@@ -193,6 +206,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 176778316,
             "language": "PHP",
             "last_commit": "2026-08-11T21:24:09Z",
             "owner": "nekromoff",
@@ -207,8 +221,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 705637013,
             "language": "TypeScript",
-            "last_commit": "2026-07-19T11:29:56Z",
+            "last_commit": "2026-08-18T16:39:33Z",
             "owner": "SebastianHanfland",
             "repo": "RallyGPXMerger",
             "stars": 10
@@ -221,6 +236,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 166396692,
             "language": "Jupyter Notebook",
             "last_commit": "2019-12-02T12:11:35Z",
             "owner": "schienenersatzverkehr",
@@ -235,6 +251,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 123983344,
             "language": "Python",
             "last_commit": "2019-05-18T22:41:33Z",
             "owner": "ulid000",
@@ -249,6 +266,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 143052116,
             "language": "R",
             "last_commit": "2021-02-04T15:04:12Z",
             "owner": "codeformuenster",
@@ -263,6 +281,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 88619660,
             "language": "JavaScript",
             "last_commit": "2020-01-05T17:02:43Z",
             "owner": "codeformunich",
@@ -277,6 +296,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 401342180,
             "language": "Python",
             "last_commit": "2022-01-26T09:51:55Z",
             "owner": "blackstream-x",
@@ -291,6 +311,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 7195891,
             "language": "Shell",
             "last_commit": "2013-11-13T08:29:27Z",
             "owner": "Wikinaut",
@@ -305,6 +326,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 443354000,
             "language": "Python",
             "last_commit": "2026-08-12T00:54:52Z",
             "owner": "firefly-cpp",
@@ -319,6 +341,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 197220141,
             "language": "Go",
             "last_commit": "2022-09-21T23:10:48Z",
             "owner": "jonnyschaefer",
@@ -333,6 +356,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 98345904,
             "language": "R",
             "last_commit": "2019-12-04T15:54:09Z",
             "owner": "codeformuenster",
@@ -347,6 +371,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 106663896,
             "language": "Vue",
             "last_commit": "2017-10-12T08:13:41Z",
             "owner": "stefanw",
@@ -361,6 +386,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 176607657,
             "language": null,
             "last_commit": "2019-03-19T22:34:22Z",
             "owner": "ulid000",
@@ -380,6 +406,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 179088122,
                 "language": "Objective-C",
                 "last_commit": "2025-12-25T09:23:33Z",
                 "owner": "simra-project",
@@ -401,6 +428,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 110117824,
                 "language": "Kotlin",
                 "last_commit": "2026-07-12T14:32:34Z",
                 "owner": "cyface-de",
@@ -422,6 +450,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 61911804,
                 "language": "Python",
                 "last_commit": "2023-04-17T07:40:19Z",
                 "owner": "stefanw",
@@ -443,25 +472,13 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 16286441,
                 "language": "JavaScript",
                 "last_commit": "2026-08-14T22:51:35Z",
                 "owner": "nrenner",
                 "repo": "brouter-web",
                 "stars": 495
               }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "Abstandsrechner - A JS tool to measure the distance between car and cyclist. Estimate distance between car overtaking and bike based on camera photos using road markings as reference.",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "GitHub",
-              "description": null,
-              "children": []
             }
           ]
         },
@@ -477,6 +494,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 327574065,
                 "language": "TypeScript",
                 "last_commit": "2026-07-30T07:36:31Z",
                 "owner": "KenEucker",
@@ -498,6 +516,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 243381373,
                 "language": "HTML",
                 "last_commit": "2024-03-01T19:28:41Z",
                 "owner": "Wikinaut",
@@ -519,6 +538,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 448107729,
                 "language": "JavaScript",
                 "last_commit": "2022-11-16T09:11:19Z",
                 "owner": "komaspieler",
@@ -532,7 +552,7 @@
       "title": "Projects"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -541,6 +561,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 101764582,
             "language": "JavaScript",
             "last_commit": "2026-04-23T01:52:02Z",
             "owner": "opendatacam",
@@ -560,6 +581,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 437941028,
                 "language": "C++",
                 "last_commit": "2023-01-12T10:18:11Z",
                 "owner": "CargoBikoMeter",
@@ -581,6 +603,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 350113935,
                 "language": "Vue",
                 "last_commit": "2021-03-22T09:48:01Z",
                 "owner": "Wikinaut",
@@ -594,96 +617,82 @@
       "title": "Verkehrszählung"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "car-tagging-data-berlin",
-          "description": "This repo is about the data collected by volunteers using a map tagging tool which was developed to tag cars on aerial images from the city of Berlin",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2022-10-08T07:28:10Z",
-            "owner": "hanshack",
-            "repo": "car-tagging-data-berlin",
-            "stars": 21
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Tempo 30 würde Fahrzeiten kaum erhöhen",
-          "description": "Auf vielen Straßen in Berlin würde tagsüber Tempo 30 kaum die Fahrzeiten erhöhen: Zu sehen sind Straßenabschnitte, wo aktuell zwar Tempo 50 gilt, aber in der Realität (Uber-Daten 2019Q2) nicht viel schneller als Tempo 30 gefahren wird/gefahren werden kann. In diesem Projekt wurden die Durchschnittsgeschwindigkeiten von Uber-Fahrzeugen aus dem Q2 2019 OSM-Strassenabschnitten zugeordent. Anschließend wurden nur Strassenabschnitten visualisiert, auf denen Tempo 50 gilt (maxspeed=50) und tatsächlich nur <33km/h gefahren wird.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2020-01-21T12:19:11Z",
-            "owner": "vizsim",
-            "repo": "uber_data_analysis",
-            "stars": 1
-          }
-        }
-      ],
-      "title": "Berlin"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "MunichWays",
-          "description": "visualization and analyzes of all major roads in Munich according to the traffic light principle. (code), (map)",
-          "children": []
-        },
-        {
-          "node_type": "group",
-          "title": "https://natenom.de/",
-          "description": "Natenoms († 30.01.2024) Blog – mit vielen interessanten Beiträgen.",
           "children": [
             {
               "node_type": "item",
-              "title": "https://natenom.de/2023/06/eine-headmap-aus-gpx-dateien-erstellen-mit-einem-python-tool/",
-              "description": "Eine Heatmap aus GPX-Daten erstellen (Python) https://github.com/remisalmon/Strava-local-heatmap",
+              "title": "car-tagging-data-berlin",
+              "description": "This repo is about the data collected by volunteers using a map tagging tool which was developed to tag cars on aerial images from the city of Berlin",
               "children": [],
               "repo_info": {
                 "archived": false,
-                "language": "Python",
-                "last_commit": "2024-02-02T01:42:13Z",
-                "owner": "remisalmon",
-                "repo": "Strava-local-heatmap",
-                "stars": 182
+                "id": 311562590,
+                "language": null,
+                "last_commit": "2022-10-08T07:28:10Z",
+                "owner": "hanshack",
+                "repo": "car-tagging-data-berlin",
+                "stars": 21
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Tempo 30 würde Fahrzeiten kaum erhöhen",
+              "description": "Auf vielen Straßen in Berlin würde tagsüber Tempo 30 kaum die Fahrzeiten erhöhen: Zu sehen sind Straßenabschnitte, wo aktuell zwar Tempo 50 gilt, aber in der Realität (Uber-Daten 2019Q2) nicht viel schneller als Tempo 30 gefahren wird/gefahren werden kann. In diesem Projekt wurden die Durchschnittsgeschwindigkeiten von Uber-Fahrzeugen aus dem Q2 2019 OSM-Strassenabschnitten zugeordent. Anschließend wurden nur Strassenabschnitten visualisiert, auf denen Tempo 50 gilt (maxspeed=50) und tatsächlich nur <33km/h gefahren wird.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 235296483,
+                "language": "HTML",
+                "last_commit": "2020-01-21T12:19:11Z",
+                "owner": "vizsim",
+                "repo": "uber_data_analysis",
+                "stars": 1
               }
             }
-          ]
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Berlin"
+        },
+        {
+          "children": [
+            {
+              "node_type": "group",
+              "title": "https://natenom.de/",
+              "description": "Natenoms († 30.01.2024) Blog – mit vielen interessanten Beiträgen.",
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "https://natenom.de/2023/06/eine-headmap-aus-gpx-dateien-erstellen-mit-einem-python-tool/",
+                  "description": "Eine Heatmap aus GPX-Daten erstellen (Python) https://github.com/remisalmon/Strava-local-heatmap",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 119312248,
+                    "language": "Python",
+                    "last_commit": "2024-02-02T01:42:13Z",
+                    "owner": "remisalmon",
+                    "repo": "Strava-local-heatmap",
+                    "stars": 182
+                  }
+                }
+              ]
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Germany"
         }
       ],
-      "title": "Germany"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Ladegeräte Nabendynamo → USB"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Meetups"
-    },
-    {
-      "description": "https://wiki.openstreetmap.org/wiki/Talk:Berlin/Verkehrswende",
-      "items": [],
-      "title": "OSM-Verkehrswende Meetups"
-    },
-    {
-      "description": "https://www.meetup.com/de-DE/Datacycle-Meetup-Fahrraddaten-fur-Berlin/",
-      "items": [],
-      "title": "Berlin Datacycle Meetup Slides and Links"
+      "title": "Open Data"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T14:05:16.236Z",
+    "last_updated": "2026-08-19T12:19:58.808Z",
     "original_repository": "mltbnz/awesome-bikeprojects",
+    "original_repository_id": 154454160,
     "original_repository_sha": "a6de98dc95e57e19d8cdb39ce3c0543c5933eb57",
     "enhanced_repository": "enhansome/enhansome-bikeprojects",
     "enhanced_repository_description": null,
