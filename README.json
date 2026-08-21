@@ -62,7 +62,7 @@
                 "archived": false,
                 "id": 200227768,
                 "language": "Ruby",
-                "last_commit": "2026-08-14T06:12:21Z",
+                "last_commit": "2026-08-21T06:11:57Z",
                 "owner": "weg-li",
                 "repo": "weg-li",
                 "stars": 280
@@ -73,7 +73,7 @@
             "archived": false,
             "id": 200227768,
             "language": "Ruby",
-            "last_commit": "2026-08-14T06:12:21Z",
+            "last_commit": "2026-08-21T06:11:57Z",
             "owner": "weg-li",
             "repo": "weg-li",
             "stars": 280
@@ -118,7 +118,7 @@
             "archived": false,
             "id": 253730181,
             "language": "PHP",
-            "last_commit": "2026-08-20T11:36:23Z",
+            "last_commit": "2026-08-21T13:57:28Z",
             "owner": "wielebenwir",
             "repo": "commonsbooking",
             "stars": 57
@@ -690,7 +690,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T14:07:21.153Z",
+    "last_updated": "2026-08-21T14:05:28.737Z",
     "original_repository": "mltbnz/awesome-bikeprojects",
     "original_repository_id": 154454160,
     "original_repository_sha": "a6de98dc95e57e19d8cdb39ce3c0543c5933eb57",
