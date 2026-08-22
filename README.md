@@ -103,7 +103,7 @@ Jump to
 * [Die gefährlichsten Radwege in Deutschland](https://radwege.greenpeace.de/) - Interactive map. Add your own "hot spots" and observations. Map and server set up by Greenpeace. Current disadvantages: map uses Google, not OSM; users appear not to be able to create an url as a deep link to a certain position and zoom level.
 
 * SimRa - Kostenlose SimRa App. TU Berlin-Projekt. Datensparsame Datensammel-App, die Fahrtrouten aufzeichnet und Beschleunigungsdaten zum Detektieren von Gefahrensituationen nutzt wie plötzliches Bremsen, Ausweichen, Stürze. 3-Jahres-Förderung durch die Citizen-Science-Initiative der TU Berlin.
-  * [GitHub](https://github.com/simra-project/simra-ios) ⭐ 4 | 🐛 12 | 🌐 Objective-C | 📅 2025-12-25
+  * [GitHub](https://github.com/simra-project/simra-ios) ⭐ 4 | 🐛 13 | 🌐 Objective-C | 📅 2025-12-25
   * [Website](https://www.digital-future.berlin/forschung/projekte/simra/)
 
 * Cyface - Software zur Analyse der Qualität und Nutzung von Verkehrswegen. Cyface Android App und Cyface Sensorbox (RaspberryPi) zur Erfassung von Straßen- und Verkehrsdaten. Ausgründung der TU Dresden.
@@ -349,4 +349,4 @@ von Markenherstellern
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
