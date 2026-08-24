@@ -62,7 +62,7 @@
                 "archived": false,
                 "id": 200227768,
                 "language": "Ruby",
-                "last_commit": "2026-08-21T06:11:57Z",
+                "last_commit": "2026-08-23T17:35:14Z",
                 "owner": "weg-li",
                 "repo": "weg-li",
                 "stars": 280
@@ -73,7 +73,7 @@
             "archived": false,
             "id": 200227768,
             "language": "Ruby",
-            "last_commit": "2026-08-21T06:11:57Z",
+            "last_commit": "2026-08-23T17:35:14Z",
             "owner": "weg-li",
             "repo": "weg-li",
             "stars": 280
@@ -118,7 +118,7 @@
             "archived": false,
             "id": 253730181,
             "language": "PHP",
-            "last_commit": "2026-08-23T10:52:21Z",
+            "last_commit": "2026-08-24T11:14:09Z",
             "owner": "wielebenwir",
             "repo": "commonsbooking",
             "stars": 57
@@ -208,7 +208,7 @@
             "archived": false,
             "id": 176778316,
             "language": "PHP",
-            "last_commit": "2026-08-11T21:24:09Z",
+            "last_commit": "2026-08-24T13:34:26Z",
             "owner": "nekromoff",
             "repo": "bicycle-master-plan",
             "stars": 13
@@ -684,13 +684,99 @@
           "description": null,
           "node_type": "group",
           "title": "Germany"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Mobility Data Specification",
+              "description": "A data standard and API specification for mobility as a service providers, such as Dockless Bikeshare, E-Scooters, and Shared Ride providers who work within the public right of way. Developed by the City of Los Angeles.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 132033870,
+                "language": null,
+                "last_commit": "2026-07-09T03:03:08Z",
+                "owner": "openmobilityfoundation",
+                "repo": "mobility-data-specification",
+                "stars": 745
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Global"
         }
       ],
       "title": "Open Data"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "group",
+                  "title": "Moritz Metz – selbst durchgeführten Geschwindigkeitsmessungen am \"Friedel-Speedway\"",
+                  "description": null,
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "https://github.com/pageauc/speed-camera",
+                      "description": null,
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 70590335,
+                        "language": "Python",
+                        "last_commit": "2025-10-17T20:29:09Z",
+                        "owner": "pageauc",
+                        "repo": "speed-camera",
+                        "stars": 1101
+                      }
+                    }
+                  ]
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "No. 4 - 19.06.2019, CityLab"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Map of bike accidents in Berlin 2017",
+                  "description": "extracted from PDF based Berlin Police reports with a parser",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 61911804,
+                    "language": "Python",
+                    "last_commit": "2023-04-17T07:40:19Z",
+                    "owner": "stefanw",
+                    "repo": "verkehrsunfallstatistik",
+                    "stars": 21
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "No. 1 - 21.08.2018, Tagesspiegel"
+            }
+          ],
+          "description": "https://www.meetup.com/de-DE/Datacycle-Meetup-Fahrraddaten-fur-Berlin/",
+          "node_type": "group",
+          "title": "Berlin Datacycle Meetup Slides and Links"
+        }
+      ],
+      "title": "Meetups"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T13:52:27.116Z",
+    "last_updated": "2026-08-24T14:35:00.046Z",
     "original_repository": "mltbnz/awesome-bikeprojects",
     "original_repository_id": 154454160,
     "original_repository_sha": "a6de98dc95e57e19d8cdb39ce3c0543c5933eb57",

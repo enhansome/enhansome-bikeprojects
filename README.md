@@ -32,15 +32,15 @@ Jump to
 
 * [CityBikes](https://citybik.es/) - Visualizations and APIs for many bike sharing systems around the globe ([source code](https://github.com/eskerda/pybikes) ⭐ 605 | 🐛 31 | 🌐 Python | 📅 2026-08-16).
 
-* [weg-li](https://weg.li) - Website for citizens to report parking violations on sidewalks and bike paths. weg-li [is opensource](https://github.com/weg-li/weg-li/) ⭐ 280 | 🐛 8 | 🌐 Ruby | 📅 2026-08-21, uses OCR and image-recognition to do ALPR (automated license plate recognition) and other automations to make the process as simple and fast as possible. Falschparkeranzeige erstellen (mit Kennzeichenerkennung, benutzt Google)
-  * [Github](https://github.com/weg-li/weg-li) ⭐ 280 | 🐛 8 | 🌐 Ruby | 📅 2026-08-21 Unter Verwendung des Google::Cloud::Vision::ImageAnnotator  <https://cloud.google.com/vision/docs/request?hl=de> siehe <https://twitter.com/ulid000/status/1174061217477996546?s=20>
+* [weg-li](https://weg.li) - Website for citizens to report parking violations on sidewalks and bike paths. weg-li [is opensource](https://github.com/weg-li/weg-li/) ⭐ 280 | 🐛 8 | 🌐 Ruby | 📅 2026-08-23, uses OCR and image-recognition to do ALPR (automated license plate recognition) and other automations to make the process as simple and fast as possible. Falschparkeranzeige erstellen (mit Kennzeichenerkennung, benutzt Google)
+  * [Github](https://github.com/weg-li/weg-li) ⭐ 280 | 🐛 8 | 🌐 Ruby | 📅 2026-08-23 Unter Verwendung des Google::Cloud::Vision::ImageAnnotator  <https://cloud.google.com/vision/docs/request?hl=de> siehe <https://twitter.com/ulid000/status/1174061217477996546?s=20>
   * [Website](https://weg.li)
 
 * <https://biking.michael-simons.eu> - Michael Simons's private web tool to manage his bikes and tracks but also a sample application ([Repository](https://github.com/michael-simons/biking2) ⭐ 183 | 🐛 0 | 🌐 Java | 📅 2025-10-24) to learn both modern server side Java with Spring Boot and software architecture documentation using on the Arc42 template
 
 * [bikedata](https://github.com/ropensci/bikedata) ⭐ 80 | 🐛 19 | 🌐 R | 📅 2026-06-25 - R package to extract data from public hire bicycle systems.
 
-* [CommonsBooking](https://github.com/wielebenwir/commonsbooking) ⭐ 57 | 🐛 165 | 🌐 PHP | 📅 2026-08-23 - A Wordpress plugin for management and booking of commons goods especially cargo bikes.
+* [CommonsBooking](https://github.com/wielebenwir/commonsbooking) ⭐ 57 | 🐛 161 | 🌐 PHP | 📅 2026-08-24 - A Wordpress plugin for management and booking of commons goods especially cargo bikes.
 
 * [OSM Conflator](https://github.com/mapsme/osm_conflate) ⭐ 48 | 🐛 9 | 🌐 Python | 📅 2021-02-01. This is a script for merging points from some third-party source with OpenStreetMap data. After merging and uploading, the data can be updated.
 
@@ -52,7 +52,7 @@ Jump to
 
 * [Verkehrswende Wordpress Locations](https://github.com/steampixel/RadentscheidWordpressLocations) ⭐ 17 | 🐛 6 | 🌐 JavaScript | 📅 2023-08-29 - This Wordpress plugin can be used to track infrastructural problems like missing sidewalks or bike lanes and provides users with interactive maps. Users can also contribute to the map by uploading coordinates and images.
 
-* [Bicycle Master Plan](https://github.com/nekromoff/bicycle-master-plan) ⭐ 13 | 🐛 9 | 🌐 PHP | 📅 2026-08-11 - A tool / web app for displaying various bicycle infrastructure related data on a map
+* [Bicycle Master Plan](https://github.com/nekromoff/bicycle-master-plan) ⭐ 13 | 🐛 6 | 🌐 PHP | 📅 2026-08-24 - A tool / web app for displaying various bicycle infrastructure related data on a map
 
 * [Sternfahrtplaner](https://github.com/SebastianHanfland/RallyGPXMerger) ⭐ 10 | 🐛 19 | 🌐 TypeScript | 📅 2026-08-23 - A web tool to plan, publish and register simple bike demonstrations as well as complex rallies, with multiple start points and one destination (in German called Sternfahrt, like star rally). The web tool is hosted under [www.sternfahrtplaner.de](https://www.sternfahrtplaner.de/).
 
@@ -298,10 +298,10 @@ von Markenherstellern
 #### [No. 4 - 19.06.2019, CityLab](https://www.meetup.com/de-DE/Datacycle-Meetup-Fahrraddaten-fur-Berlin/events/262280570/)
 
 * Moritz Metz – selbst durchgeführten Geschwindigkeitsmessungen am "Friedel-Speedway"
+  * <https://github.com/pageauc/speed-camera> ⭐ 1,101 | 🐛 20 | 🌐 Python | 📅 2025-10-17
   * [Blogpost](https://fahrradfreundliches-neukoelln.de/blog/neukoellner-friedelspeedway)
   * [Moritz' eigene Messdaten (Google Docs)](https://docs.google.com/spreadsheets/d/1gKip7CnoZp2_j6kxtpKJqL_ge3OTGbvFXNo2uK8GUdo/edit#gid=1095001652)
   * PDF Messdaten Bezirk Neukölln, <http://moritzmetz.de/upload/friedelspeed-geschwindigkeitsmessungen-bezirk.pdf>
-  * <https://github.com/pageauc/speed-camera> ⭐ 1,101 | 🐛 20 | 🌐 Python | 📅 2025-10-17
   * Android "Speed Radar Cam", <https://play.google.com/store/apps/details?id=androix.com.android.SpeedRadarCam&hl=de>
   * iOS "SpeedClock", <https://apps.apple.com/de/app/speedclock-laserpistole/id400876654>
   * [Weitere Apps und Tools](https://twitter.com/moritzmetz/status/1142711988415533056)
@@ -338,9 +338,9 @@ von Markenherstellern
 
 #### [No. 1 - 21.08.2018, Tagesspiegel](https://www.meetup.com/de-DE/Datacycle-Meetup-Fahrraddaten-fur-Berlin/events/lqlvvpyxlbcc/)
 
+* [Map of bike accidents in Berlin 2017](https://stefanwehrmeyer.carto.com/viz/4fc39e13-8dbb-4d3f-a181-b2918861b6de/public_map) - extracted from PDF based Berlin Police reports with a [parser](https://github.com/stefanw/verkehrsunfallstatistik) ⭐ 21 | 🐛 4 | 🌐 Python | 📅 2023-04-17
 * [Tagesspiegel Radmesser](https://interaktiv.tagesspiegel.de/radmesser/) - 1st presentation
 * [FixMyBerlin](https://fixmyberlin.de) - 1st presentation
-* [Map of bike accidents in Berlin 2017](https://stefanwehrmeyer.carto.com/viz/4fc39e13-8dbb-4d3f-a181-b2918861b6de/public_map) - extracted from PDF based Berlin Police reports with a [parser](https://github.com/stefanw/verkehrsunfallstatistik) ⭐ 21 | 🐛 4 | 🌐 Python | 📅 2023-04-17
 
 ## Other awesome lists
 
@@ -349,4 +349,4 @@ von Markenherstellern
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
