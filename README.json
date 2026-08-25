@@ -27,7 +27,7 @@
             "archived": false,
             "id": 7708819,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T17:04:29Z",
+            "last_commit": "2026-08-24T18:08:48Z",
             "owner": "streetmix",
             "repo": "streetmix",
             "stars": 740
@@ -55,7 +55,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "Github",
+              "title": "weg-li/weg-li",
               "description": "Unter Verwendung des Google::Cloud::Vision::ImageAnnotator https://cloud.google.com/vision/docs/request?hl=de siehe https://twitter.com/ulid000/status/1174061217477996546?s=20",
               "children": [],
               "repo_info": {
@@ -81,7 +81,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://biking.michael-simons.eu",
+          "title": "Repository",
           "description": "Michael Simons's private web tool to manage his bikes and tracks but also a sample application (Repository) to learn both modern server side Java with Spring Boot and software architecture documentation using on the Arc42 template",
           "children": [],
           "repo_info": {
@@ -401,7 +401,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "simra-project/simra-ios",
               "description": null,
               "children": [],
               "repo_info": {
@@ -445,7 +445,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "stefanw/verkehrsunfallstatistik",
               "description": null,
               "children": [],
               "repo_info": {
@@ -467,7 +467,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "nrenner/brouter-web",
               "description": null,
               "children": [],
               "repo_info": {
@@ -489,7 +489,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "KenEucker/biketag-vue",
               "description": null,
               "children": [],
               "repo_info": {
@@ -511,7 +511,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "Code",
+              "title": "Wikinaut/bowi",
               "description": null,
               "children": [],
               "repo_info": {
@@ -533,7 +533,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "Code",
+              "title": "komaspieler/owianzeige",
               "description": null,
               "children": [],
               "repo_info": {
@@ -576,7 +576,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "https://github.com/CargoBikoMeter/WZePaperDisplay",
+              "title": "CargoBikoMeter/WZePaperDisplay",
               "description": "e-Paper based mobility data display. \"WZ\" in \"WZePaperDisplay\" means \"Wir Zählen\".",
               "children": [],
               "repo_info": {
@@ -598,7 +598,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "Code",
+              "title": "Wikinaut/tally",
               "description": null,
               "children": [],
               "repo_info": {
@@ -665,7 +665,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "https://natenom.de/2023/06/eine-headmap-aus-gpx-dateien-erstellen-mit-einem-python-tool/",
+                  "title": "remisalmon/Strava-local-heatmap",
                   "description": "Eine Heatmap aus GPX-Daten erstellen (Python) https://github.com/remisalmon/Strava-local-heatmap",
                   "children": [],
                   "repo_info": {
@@ -724,7 +724,7 @@
                   "children": [
                     {
                       "node_type": "item",
-                      "title": "https://github.com/pageauc/speed-camera",
+                      "title": "pageauc/speed-camera",
                       "description": null,
                       "children": [],
                       "repo_info": {
@@ -776,7 +776,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:35:00.046Z",
+    "last_updated": "2026-08-25T06:26:27.819Z",
     "original_repository": "mltbnz/awesome-bikeprojects",
     "original_repository_id": 154454160,
     "original_repository_sha": "a6de98dc95e57e19d8cdb39ce3c0543c5933eb57",
