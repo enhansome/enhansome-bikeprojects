@@ -27,7 +27,7 @@
             "archived": false,
             "id": 7708819,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T18:08:48Z",
+            "last_commit": "2026-08-25T07:46:32Z",
             "owner": "streetmix",
             "repo": "streetmix",
             "stars": 740
@@ -776,7 +776,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:26:27.819Z",
+    "last_updated": "2026-08-25T14:12:27.628Z",
     "original_repository": "mltbnz/awesome-bikeprojects",
     "original_repository_id": 154454160,
     "original_repository_sha": "a6de98dc95e57e19d8cdb39ce3c0543c5933eb57",
