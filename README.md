@@ -30,7 +30,7 @@ Jump to
 
 * [Streetmix](https://streetmix.net) - Design, remix and share your street. Add cycle paths, widen sidewalks or lanes, and find out how that affects your community ([source code](https://github.com/streetmix/streetmix) ⭐ 740 | 🐛 208 | 🌐 TypeScript | 📅 2026-08-25).
 
-* [CityBikes](https://citybik.es/) - Visualizations and APIs for many bike sharing systems around the globe ([source code](https://github.com/eskerda/pybikes) ⭐ 605 | 🐛 32 | 🌐 Python | 📅 2026-08-16).
+* [CityBikes](https://citybik.es/) - Visualizations and APIs for many bike sharing systems around the globe ([source code](https://github.com/eskerda/pybikes) ⭐ 605 | 🐛 33 | 🌐 Python | 📅 2026-08-16).
 
 * [weg-li](https://weg.li) - Website for citizens to report parking violations on sidewalks and bike paths. weg-li [is opensource](https://github.com/weg-li/weg-li/) ⭐ 280 | 🐛 8 | 🌐 Ruby | 📅 2026-08-23, uses OCR and image-recognition to do ALPR (automated license plate recognition) and other automations to make the process as simple and fast as possible. Falschparkeranzeige erstellen (mit Kennzeichenerkennung, benutzt Google)
   * [Github](https://github.com/weg-li/weg-li) ⭐ 280 | 🐛 8 | 🌐 Ruby | 📅 2026-08-23 Unter Verwendung des Google::Cloud::Vision::ImageAnnotator  <https://cloud.google.com/vision/docs/request?hl=de> siehe <https://twitter.com/ulid000/status/1174061217477996546?s=20>
@@ -40,7 +40,7 @@ Jump to
 
 * [bikedata](https://github.com/ropensci/bikedata) ⭐ 80 | 🐛 19 | 🌐 R | 📅 2026-06-25 - R package to extract data from public hire bicycle systems.
 
-* [CommonsBooking](https://github.com/wielebenwir/commonsbooking) ⭐ 57 | 🐛 161 | 🌐 PHP | 📅 2026-08-24 - A Wordpress plugin for management and booking of commons goods especially cargo bikes.
+* [CommonsBooking](https://github.com/wielebenwir/commonsbooking) ⭐ 57 | 🐛 162 | 🌐 PHP | 📅 2026-08-26 - A Wordpress plugin for management and booking of commons goods especially cargo bikes.
 
 * [OSM Conflator](https://github.com/mapsme/osm_conflate) ⭐ 48 | 🐛 9 | 🌐 Python | 📅 2021-02-01. This is a script for merging points from some third-party source with OpenStreetMap data. After merging and uploading, the data can be updated.
 
@@ -103,7 +103,7 @@ Jump to
 * [Die gefährlichsten Radwege in Deutschland](https://radwege.greenpeace.de/) - Interactive map. Add your own "hot spots" and observations. Map and server set up by Greenpeace. Current disadvantages: map uses Google, not OSM; users appear not to be able to create an url as a deep link to a certain position and zoom level.
 
 * SimRa - Kostenlose SimRa App. TU Berlin-Projekt. Datensparsame Datensammel-App, die Fahrtrouten aufzeichnet und Beschleunigungsdaten zum Detektieren von Gefahrensituationen nutzt wie plötzliches Bremsen, Ausweichen, Stürze. 3-Jahres-Förderung durch die Citizen-Science-Initiative der TU Berlin.
-  * [GitHub](https://github.com/simra-project/simra-ios) ⭐ 4 | 🐛 13 | 🌐 Objective-C | 📅 2025-12-25
+  * [GitHub](https://github.com/simra-project/simra-ios) ⭐ 4 | 🐛 14 | 🌐 Objective-C | 📅 2025-12-25
   * [Website](https://www.digital-future.berlin/forschung/projekte/simra/)
 
 * Cyface - Software zur Analyse der Qualität und Nutzung von Verkehrswegen. Cyface Android App und Cyface Sensorbox (RaspberryPi) zur Erfassung von Straßen- und Verkehrsdaten. Ausgründung der TU Dresden.
@@ -117,7 +117,7 @@ Jump to
 * [Läuft!](https://hamburg.adfc.de/verkehr/themen-a-z/tempo-30/laeuft/laeuft/) - an campaigns run by ADFC Hamburg to provide neighbours in Hamburg with an interactive map and and a tool supporting them to file an application for 30 km/h speed limits on their street due to high air pollution or noise pollution based on German law. The map is using open data issued by the city of Hamburg to identify polluted streets and shows all citizens that already filed an application. Some [repositories](https://github.com/ADFC-Hamburg) contain parts of the entire system used to drive the campaign.
 
 * Verkehrsunfallstatistik - Parser and maps for Berlin's yearly bike accident reports to get the number of accidents per street.
-  * [GitHub](https://github.com/stefanw/verkehrsunfallstatistik) ⭐ 21 | 🐛 4 | 🌐 Python | 📅 2023-04-17
+  * [GitHub](https://github.com/stefanw/verkehrsunfallstatistik) ⭐ 22 | 🐛 4 | 🌐 Python | 📅 2023-04-17
   * [Map](https://stefanwehrmeyer.carto.com/viz/e11e4a59-8d7c-465c-a001-00970c793184/public_map)
 
 * [Unfallatlas](https://www.destatis.de/DE/Presse/Pressemitteilungen/2019/08/PD19_310_46241.html)
@@ -338,7 +338,7 @@ von Markenherstellern
 
 #### [No. 1 - 21.08.2018, Tagesspiegel](https://www.meetup.com/de-DE/Datacycle-Meetup-Fahrraddaten-fur-Berlin/events/lqlvvpyxlbcc/)
 
-* [Map of bike accidents in Berlin 2017](https://stefanwehrmeyer.carto.com/viz/4fc39e13-8dbb-4d3f-a181-b2918861b6de/public_map) - extracted from PDF based Berlin Police reports with a [parser](https://github.com/stefanw/verkehrsunfallstatistik) ⭐ 21 | 🐛 4 | 🌐 Python | 📅 2023-04-17
+* [Map of bike accidents in Berlin 2017](https://stefanwehrmeyer.carto.com/viz/4fc39e13-8dbb-4d3f-a181-b2918861b6de/public_map) - extracted from PDF based Berlin Police reports with a [parser](https://github.com/stefanw/verkehrsunfallstatistik) ⭐ 22 | 🐛 4 | 🌐 Python | 📅 2023-04-17
 * [Tagesspiegel Radmesser](https://interaktiv.tagesspiegel.de/radmesser/) - 1st presentation
 * [FixMyBerlin](https://fixmyberlin.de) - 1st presentation
 
@@ -349,4 +349,4 @@ von Markenherstellern
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-26._

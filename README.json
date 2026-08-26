@@ -118,7 +118,7 @@
             "archived": false,
             "id": 253730181,
             "language": "PHP",
-            "last_commit": "2026-08-24T11:14:09Z",
+            "last_commit": "2026-08-26T13:03:06Z",
             "owner": "wielebenwir",
             "repo": "commonsbooking",
             "stars": 57
@@ -455,7 +455,7 @@
                 "last_commit": "2023-04-17T07:40:19Z",
                 "owner": "stefanw",
                 "repo": "verkehrsunfallstatistik",
-                "stars": 21
+                "stars": 22
               }
             }
           ]
@@ -758,7 +758,7 @@
                     "last_commit": "2023-04-17T07:40:19Z",
                     "owner": "stefanw",
                     "repo": "verkehrsunfallstatistik",
-                    "stars": 21
+                    "stars": 22
                   }
                 }
               ],
@@ -776,7 +776,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T14:12:27.628Z",
+    "last_updated": "2026-08-26T14:10:04.393Z",
     "original_repository": "mltbnz/awesome-bikeprojects",
     "original_repository_id": 154454160,
     "original_repository_sha": "a6de98dc95e57e19d8cdb39ce3c0543c5933eb57",
