@@ -27,7 +27,7 @@
             "archived": false,
             "id": 7708819,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T10:48:37Z",
+            "last_commit": "2026-08-27T19:35:44Z",
             "owner": "streetmix",
             "repo": "streetmix",
             "stars": 740
@@ -699,7 +699,7 @@
                 "last_commit": "2026-07-09T03:03:08Z",
                 "owner": "openmobilityfoundation",
                 "repo": "mobility-data-specification",
-                "stars": 745
+                "stars": 746
               }
             }
           ],
@@ -776,7 +776,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:28:21.612Z",
+    "last_updated": "2026-08-27T23:00:33.515Z",
     "original_repository_info": {
       "archived": false,
       "id": 154454160,
