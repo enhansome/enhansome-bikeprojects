@@ -27,7 +27,7 @@
             "archived": false,
             "id": 7708819,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T07:46:32Z",
+            "last_commit": "2026-08-27T10:48:37Z",
             "owner": "streetmix",
             "repo": "streetmix",
             "stars": 740
@@ -118,7 +118,7 @@
             "archived": false,
             "id": 253730181,
             "language": "PHP",
-            "last_commit": "2026-08-26T13:03:06Z",
+            "last_commit": "2026-08-26T18:07:31Z",
             "owner": "wielebenwir",
             "repo": "commonsbooking",
             "stars": 57
@@ -776,9 +776,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T14:10:04.393Z",
-    "original_repository": "mltbnz/awesome-bikeprojects",
-    "original_repository_id": 154454160,
+    "last_updated": "2026-08-27T11:28:21.612Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 154454160,
+      "language": null,
+      "last_commit": "2026-04-15T17:50:36Z",
+      "owner": "mltbnz",
+      "repo": "awesome-bikeprojects",
+      "stars": 203
+    },
     "original_repository_sha": "a6de98dc95e57e19d8cdb39ce3c0543c5933eb57",
     "enhanced_repository": "enhansome/enhansome-bikeprojects",
     "enhanced_repository_description": null,
