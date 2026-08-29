@@ -10,12 +10,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An open source tool to quantify the world",
+            "homepage": "https://opendata.cam",
             "id": 101764582,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-04-23T01:52:02Z",
+            "open_issues": 62,
             "owner": "opendatacam",
             "repo": "opendatacam",
-            "stars": 1725
+            "stars": 1725,
+            "topics": [
+              "camera",
+              "computer-vision",
+              "darknet",
+              "dataviz",
+              "iot",
+              "jetson",
+              "jetson-nano",
+              "jetson-tx2",
+              "jetson-xavier",
+              "smart-city",
+              "yolo"
+            ]
           },
           "first_seen": "2026-08-28T23:07:55.075Z"
         },
@@ -26,12 +43,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Streetmix makes it easy for people to design public spaces together.",
+            "homepage": "https://streetmix.net",
             "id": 7708819,
             "language": "TypeScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T15:05:34Z",
+            "open_issues": 208,
             "owner": "streetmix",
             "repo": "streetmix",
-            "stars": 740
+            "stars": 740,
+            "topics": [
+              "city-builder",
+              "city-planning",
+              "civic-tech",
+              "hacktoberfest",
+              "streetmix",
+              "urban-planning"
+            ]
           },
           "first_seen": "2026-08-28T23:07:55.075Z"
         },
@@ -42,12 +71,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "bike sharing + python = pybikes",
+            "homepage": "https://citybik.es",
             "id": 778569,
             "language": "Python",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-16T10:24:56Z",
+            "open_issues": 33,
             "owner": "eskerda",
             "repo": "pybikes",
-            "stars": 605
+            "stars": 605,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:07:55.075Z"
         },
@@ -63,24 +97,42 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "📸 📝 ✊ Für sichere Radwege und freie Bürgersteige: www.weg.li",
+                "homepage": "https://www.weg.li",
                 "id": 200227768,
                 "language": "Ruby",
+                "license": null,
                 "last_commit": "2026-08-28T06:12:17Z",
+                "open_issues": 8,
                 "owner": "weg-li",
                 "repo": "weg-li",
-                "stars": 280
+                "stars": 280,
+                "topics": [
+                  "rails",
+                  "ruby",
+                  "verkehrswende"
+                ]
               },
               "first_seen": "2026-08-28T23:07:55.075Z"
             }
           ],
           "repo_info": {
             "archived": false,
+            "description": "📸 📝 ✊ Für sichere Radwege und freie Bürgersteige: www.weg.li",
+            "homepage": "https://www.weg.li",
             "id": 200227768,
             "language": "Ruby",
+            "license": null,
             "last_commit": "2026-08-28T06:12:17Z",
+            "open_issues": 8,
             "owner": "weg-li",
             "repo": "weg-li",
-            "stars": 280
+            "stars": 280,
+            "topics": [
+              "rails",
+              "ruby",
+              "verkehrswende"
+            ]
           },
           "first_seen": "2026-08-28T23:07:55.075Z"
         },
@@ -91,12 +143,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This was the source code of biking.michael-simons.eu until end of 2023.",
+            "homepage": "https://biking.michael-simons.eu",
             "id": 17022651,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2025-10-24T19:15:39Z",
+            "open_issues": 0,
             "owner": "michael-simons",
             "repo": "biking2",
-            "stars": 183
+            "stars": 183,
+            "topics": [
+              "angularjs",
+              "arc42",
+              "architecture",
+              "biking",
+              "gpsbabel",
+              "java",
+              "jooq",
+              "spring",
+              "spring-boot",
+              "sql"
+            ]
           },
           "first_seen": "2026-08-28T23:07:55.075Z"
         },
@@ -107,12 +175,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":bike: Extract data from public hire bicycle systems",
+            "homepage": "https://docs.ropensci.org/bikedata",
             "id": 76273350,
             "language": "R",
+            "license": null,
             "last_commit": "2026-06-25T14:38:48Z",
+            "open_issues": 19,
             "owner": "ropensci",
             "repo": "bikedata",
-            "stars": 80
+            "stars": 80,
+            "topics": [
+              "bicycle-hire",
+              "bicycle-hire-systems",
+              "bike-data",
+              "bike-hire",
+              "database",
+              "peer-reviewed",
+              "r",
+              "r-package",
+              "rstats"
+            ]
           },
           "first_seen": "2026-08-28T23:07:55.075Z"
         },
@@ -123,12 +206,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CommonsBooking is an open source Wordpress plugin for sharing items with users. This is the NEW CommonsBooking (starting at version v2.0.0). Please install plugin via Wordpress plugin directory.",
+            "homepage": "https://commonsbooking.org",
             "id": 253730181,
             "language": "PHP",
+            "license": "GPL-2.0",
             "last_commit": "2026-08-26T18:07:31Z",
+            "open_issues": 160,
             "owner": "wielebenwir",
             "repo": "commonsbooking",
-            "stars": 57
+            "stars": 57,
+            "topics": [
+              "booking-system",
+              "commoning",
+              "commons",
+              "sharing",
+              "wordpress-plugin"
+            ]
           },
           "first_seen": "2026-08-28T23:07:55.075Z"
         },
@@ -139,12 +233,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "OSM Conflator",
+            "homepage": "https://wiki.openstreetmap.org/wiki/OSM_Conflator",
             "id": 82086505,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2021-02-01T20:07:41Z",
+            "open_issues": 9,
             "owner": "mapsme",
             "repo": "osm_conflate",
-            "stars": 48
+            "stars": 48,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:07:55.075Z"
         },
@@ -155,12 +254,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": "https://safecyclingmap.com/",
             "id": 585369861,
             "language": "JavaScript",
+            "license": "AGPL-3.0",
             "last_commit": "2023-09-10T07:00:16Z",
+            "open_issues": 5,
             "owner": "jakecoppinger",
             "repo": "safe-cycling-map",
-            "stars": 41
+            "stars": 41,
+            "topics": [
+              "better",
+              "cycling",
+              "openstreetmap",
+              "safe",
+              "streets",
+              "urbanism"
+            ]
           },
           "first_seen": "2026-08-28T23:07:55.075Z"
         },
@@ -171,12 +282,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "OSM Bike Ottawa Tagging Guide",
+            "homepage": null,
             "id": 101825987,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2023-05-09T21:53:06Z",
+            "open_issues": 4,
             "owner": "BikeOttawa",
             "repo": "OSM-Bike-Ottawa-Tagging-Guide",
-            "stars": 37
+            "stars": 37,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:07:55.075Z"
         },
@@ -187,12 +303,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A minimalistic toolbox for extracting features from sports activity files written in Python",
+            "homepage": null,
             "id": 316730912,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-05-22T09:42:39Z",
+            "open_issues": 0,
             "owner": "firefly-cpp",
             "repo": "sport-activities-features",
-            "stars": 21
+            "stars": 21,
+            "topics": [
+              "data-mining",
+              "machine-learning",
+              "sport-analytics",
+              "tcx-parser"
+            ]
           },
           "first_seen": "2026-08-28T23:07:55.075Z"
         },
@@ -203,12 +329,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Dieses Wordpress-Plugin soll die Verkehrswende und vor allem den Radaktivismus in Deutschland unterstützen und Radentscheide sowie Verkehrswenden voran bringen.",
+            "homepage": null,
             "id": 211388933,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2023-08-29T11:44:05Z",
+            "open_issues": 6,
             "owner": "steampixel",
             "repo": "RadentscheidWordpressLocations",
-            "stars": 17
+            "stars": 17,
+            "topics": [
+              "php",
+              "wordpress",
+              "wordpress-plugin"
+            ]
           },
           "first_seen": "2026-08-28T23:07:55.075Z"
         },
@@ -219,12 +354,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Bicycle Master Plan is a bike map that allows visualizing cycling related data from different sources in multiple layers. Built heavily around data from OpenStreetMap, it allows full visual customization using CSS.",
+            "homepage": "https://mapa.cyklokoalicia.sk/bratislava/public/",
             "id": 176778316,
             "language": "PHP",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-24T13:34:26Z",
+            "open_issues": 6,
             "owner": "nekromoff",
             "repo": "bicycle-master-plan",
-            "stars": 13
+            "stars": 13,
+            "topics": [
+              "app",
+              "bicycle",
+              "bicycle-infrastructure",
+              "bike",
+              "cycling",
+              "cycling-safety",
+              "exif-tags",
+              "google-sheets",
+              "gps-data",
+              "map",
+              "mapping",
+              "mapping-tools",
+              "maps",
+              "mapserver",
+              "markers",
+              "openstreetmap",
+              "openstreetmaps",
+              "osm",
+              "overpass-api",
+              "overpass-turbo"
+            ]
           },
           "first_seen": "2026-08-28T23:07:55.075Z"
         },
@@ -235,12 +396,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A web tool to merge GPX tracks for bigger rallies",
+            "homepage": null,
             "id": 705637013,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T21:14:31Z",
+            "open_issues": 19,
             "owner": "SebastianHanfland",
             "repo": "RallyGPXMerger",
-            "stars": 10
+            "stars": 10,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:07:55.075Z"
         },
@@ -251,12 +417,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "bike lane quality analysis",
+            "homepage": null,
             "id": 166396692,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2019-12-02T12:11:35Z",
+            "open_issues": 0,
             "owner": "schienenersatzverkehr",
             "repo": "byke",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:07:55.075Z"
         },
@@ -267,12 +438,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 123983344,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2019-05-18T22:41:33Z",
+            "open_issues": 1,
             "owner": "ulid000",
             "repo": "Fahrradwetter",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:07:55.075Z"
         },
@@ -283,12 +459,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Visualisierung Münsteraner Verkehrsunfälle",
+            "homepage": "https://crashes.codeformuenster.org/",
             "id": 143052116,
             "language": "R",
+            "license": "GPL-3.0",
             "last_commit": "2021-02-04T15:04:12Z",
+            "open_issues": 9,
             "owner": "codeformuenster",
             "repo": "crashes-shiny",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:07:55.075Z"
         },
@@ -299,12 +480,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Command-line tool to prepare and extract bike sharing data. Plus example implementations of visualizations and a example website.",
+            "homepage": "http://mvg.manuel.red/",
             "id": 88619660,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2020-01-05T17:02:43Z",
+            "open_issues": 6,
             "owner": "codeformunich",
             "repo": "radlquartier",
-            "stars": 7
+            "stars": 7,
+            "topics": [
+              "data-science",
+              "data-visualization",
+              "munich",
+              "open-data",
+              "visualization"
+            ]
           },
           "first_seen": "2026-08-28T23:07:55.075Z"
         },
@@ -315,12 +507,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Partially pixelate images or short video clips",
+            "homepage": null,
             "id": 401342180,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2022-01-26T09:51:55Z",
+            "open_issues": 20,
             "owner": "blackstream-x",
             "repo": "pyxelate",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:07:55.075Z"
         },
@@ -331,12 +528,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 7195891,
             "language": "Shell",
+            "license": null,
             "last_commit": "2013-11-13T08:29:27Z",
+            "open_issues": 0,
             "owner": "Wikinaut",
             "repo": "utils",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:07:55.075Z"
         },
@@ -347,12 +549,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AST-Monitor is a wearable Raspberry Pi computer for cyclists",
+            "homepage": null,
             "id": 443354000,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-12T00:54:52Z",
+            "open_issues": 3,
             "owner": "firefly-cpp",
             "repo": "AST-Monitor",
-            "stars": 6
+            "stars": 6,
+            "topics": [
+              "artificial-sport-trainer",
+              "data-mining",
+              "raspberry-pi",
+              "sport-tracker"
+            ]
           },
           "first_seen": "2026-08-28T23:07:55.075Z"
         },
@@ -363,12 +575,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Go package radolan parses the DWD RADOLAN / RADVOR radar composite format.",
+            "homepage": null,
             "id": 197220141,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2022-09-21T23:10:48Z",
+            "open_issues": 2,
             "owner": "jonnyschaefer",
             "repo": "radolan",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:07:55.075Z"
         },
@@ -379,12 +596,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Visualisierung und Analyse automatischer Verkehrszählungen im gesamten Münsteraner Stadtgebiet",
+            "homepage": "https://traffics.codeformuenster.org",
             "id": 98345904,
             "language": "R",
+            "license": "GPL-3.0",
             "last_commit": "2019-12-04T15:54:09Z",
+            "open_issues": 3,
             "owner": "codeformuenster",
             "repo": "traffic-dynamics",
-            "stars": 5
+            "stars": 5,
+            "topics": [
+              "cars",
+              "cyclists",
+              "docker-image"
+            ]
           },
           "first_seen": "2026-08-28T23:07:55.075Z"
         },
@@ -395,12 +621,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 106663896,
             "language": "Vue",
+            "license": null,
             "last_commit": "2017-10-12T08:13:41Z",
+            "open_issues": 1,
             "owner": "stefanw",
             "repo": "abschlapp",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:07:55.075Z"
         },
@@ -411,12 +642,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Template, um notwendige, nützliche oder wünschenswerte Arten von Offene Daten rund um den Radverkehr zu finden und zu definieren ",
+            "homepage": null,
             "id": 176607657,
             "language": null,
+            "license": "CC-BY-SA-4.0",
             "last_commit": "2019-03-19T22:34:22Z",
+            "open_issues": 0,
             "owner": "ulid000",
             "repo": "fahrraddaten-canvas",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:07:55.075Z"
         },
@@ -432,12 +668,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 179088122,
                 "language": "Objective-C",
+                "license": "Apache-2.0",
                 "last_commit": "2025-12-25T09:23:33Z",
+                "open_issues": 14,
                 "owner": "simra-project",
                 "repo": "simra-ios",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:07:55.075Z"
             }
@@ -455,12 +696,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This is the Cyface Android SDK which enables apps to capture sensor data on Android smartphones for traffic and infrastructure analysis.",
+                "homepage": "https://cyface.de",
                 "id": 110117824,
                 "language": "Kotlin",
+                "license": "GPL-3.0",
                 "last_commit": "2026-07-12T14:32:34Z",
+                "open_issues": 0,
                 "owner": "cyface-de",
                 "repo": "android-backend",
-                "stars": 1
+                "stars": 1,
+                "topics": [
+                  "android-library",
+                  "cyface",
+                  "sdk"
+                ]
               },
               "first_seen": "2026-08-28T23:07:55.075Z"
             }
@@ -478,12 +728,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Converts the Berlin Verkehrsunfallstatistik PDFs to GeoJSON",
+                "homepage": null,
                 "id": 61911804,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-04-17T07:40:19Z",
+                "open_issues": 4,
                 "owner": "stefanw",
                 "repo": "verkehrsunfallstatistik",
-                "stars": 22
+                "stars": 22,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:07:55.075Z"
             }
@@ -501,12 +756,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Web client for BRouter, a routing engine based on OpenStreetMap",
+                "homepage": "https://brouter.de/brouter-web/",
                 "id": 16286441,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-14T22:51:35Z",
+                "open_issues": 203,
                 "owner": "nrenner",
                 "repo": "brouter-web",
-                "stars": 495
+                "stars": 495,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:07:55.075Z"
             }
@@ -524,12 +784,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A vue app for the game of BikeTag played worldwide at biketag.org including the published biketag-vue component library",
+                "homepage": "https://biketag.org",
                 "id": 327574065,
                 "language": "TypeScript",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-07-30T07:36:31Z",
+                "open_issues": 38,
                 "owner": "KenEucker",
                 "repo": "biketag-vue",
-                "stars": 26
+                "stars": 26,
+                "topics": [
+                  "bootstrap-vue",
+                  "pinia",
+                  "typescript",
+                  "vite",
+                  "vue-router",
+                  "vue3"
+                ]
               },
               "first_seen": "2026-08-28T23:07:55.075Z"
             }
@@ -547,12 +819,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": " Vereinfachte Verkehrsordnungswidrigkeitenanzeige bei Halt- und Parkverstößen per E-Mail an die Bußgeldstelle.",
+                "homepage": "https://wikinaut.github.io/bowi/",
                 "id": 243381373,
                 "language": "HTML",
+                "license": "Unlicense",
                 "last_commit": "2024-03-01T19:28:41Z",
+                "open_issues": 0,
                 "owner": "Wikinaut",
                 "repo": "bowi",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:07:55.075Z"
             }
@@ -570,12 +847,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 448107729,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2022-11-16T09:11:19Z",
+                "open_issues": 3,
                 "owner": "komaspieler",
                 "repo": "owianzeige",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:07:55.075Z"
             }
@@ -594,12 +876,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An open source tool to quantify the world",
+            "homepage": "https://opendata.cam",
             "id": 101764582,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-04-23T01:52:02Z",
+            "open_issues": 62,
             "owner": "opendatacam",
             "repo": "opendatacam",
-            "stars": 1725
+            "stars": 1725,
+            "topics": [
+              "camera",
+              "computer-vision",
+              "darknet",
+              "dataviz",
+              "iot",
+              "jetson",
+              "jetson-nano",
+              "jetson-tx2",
+              "jetson-xavier",
+              "smart-city",
+              "yolo"
+            ]
           },
           "first_seen": "2026-08-28T23:07:55.075Z"
         },
@@ -615,12 +914,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "e-Paper based device for displaying publicly available mobility data",
+                "homepage": null,
                 "id": 437941028,
                 "language": "C++",
+                "license": "LGPL-2.1",
                 "last_commit": "2023-01-12T10:18:11Z",
+                "open_issues": 1,
                 "owner": "CargoBikoMeter",
                 "repo": "WZePaperDisplay",
-                "stars": 5
+                "stars": 5,
+                "topics": [
+                  "epaper",
+                  "esp32",
+                  "mobilitydata",
+                  "opendata"
+                ]
               },
               "first_seen": "2026-08-28T23:07:55.075Z"
             }
@@ -638,12 +947,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Strichliste (Tally)",
+                "homepage": "https://tally.wikinaut.de",
                 "id": 350113935,
                 "language": "Vue",
+                "license": "MIT",
                 "last_commit": "2021-03-22T09:48:01Z",
+                "open_issues": 0,
                 "owner": "Wikinaut",
                 "repo": "tally",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:07:55.075Z"
             }
@@ -664,12 +978,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This repo is about the **data** collected by volunteers using a map tagging tool which was developed to tag cars on aerial images from the city of Berlin.",
+                "homepage": null,
                 "id": 311562590,
                 "language": null,
+                "license": null,
                 "last_commit": "2022-10-08T07:28:10Z",
+                "open_issues": 0,
                 "owner": "hanshack",
                 "repo": "car-tagging-data-berlin",
-                "stars": 21
+                "stars": 21,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:07:55.075Z"
             },
@@ -680,12 +999,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 235296483,
                 "language": "HTML",
+                "license": "MIT",
                 "last_commit": "2020-01-21T12:19:11Z",
+                "open_issues": 0,
                 "owner": "vizsim",
                 "repo": "uber_data_analysis",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:07:55.075Z"
             }
@@ -708,12 +1032,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Python script to generate a high resolution heatmap from Strava GPX files",
+                    "homepage": "https://git.io/fjXTL",
                     "id": 119312248,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2024-02-02T01:42:13Z",
+                    "open_issues": 9,
                     "owner": "remisalmon",
                     "repo": "Strava-local-heatmap",
-                    "stars": 182
+                    "stars": 182,
+                    "topics": [
+                      "cycling",
+                      "gps",
+                      "gpx",
+                      "heatmap",
+                      "python",
+                      "strava"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:07:55.075Z"
                 }
@@ -733,12 +1069,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A data specification to enable right-of-way regulation, digital policy, geofencing, and two-way communication between mobility companies and public agencies worldwide for any regulated, shared, or agency vehicle.",
+                "homepage": "https://www.openmobilityfoundation.org/about-mds/",
                 "id": 132033870,
                 "language": null,
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-09T03:03:08Z",
+                "open_issues": 24,
                 "owner": "openmobilityfoundation",
                 "repo": "mobility-data-specification",
-                "stars": 746
+                "stars": 746,
+                "topics": [
+                  "autonomous-vehicles",
+                  "bike-share",
+                  "carshare",
+                  "delivery",
+                  "delivery-robot",
+                  "fixed-route",
+                  "geofencing",
+                  "mds",
+                  "micromobility",
+                  "mobility",
+                  "mobility-as-a-service",
+                  "mobility-data",
+                  "open-source",
+                  "passenger-services",
+                  "policy-as-code",
+                  "right-of-way",
+                  "robotaxi",
+                  "scooter-share",
+                  "scooters",
+                  "taxi"
+                ]
               },
               "first_seen": "2026-08-28T23:07:55.075Z"
             }
@@ -769,12 +1131,38 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "A Unix, Windows, Raspberry Pi Object Speed Camera using python3, opencv, video streaming, motion tracking.  Includes a Standalone Web Server , Image Search using opencv template match and a whiptail Admin Menu Interface  Includes picam and webcam Plugins for motion track security camera configuration including rclone sync scripts. ",
+                        "homepage": null,
                         "id": 70590335,
                         "language": "Python",
+                        "license": "Apache-2.0",
                         "last_commit": "2025-10-17T20:29:09Z",
+                        "open_issues": 20,
                         "owner": "pageauc",
                         "repo": "speed-camera",
-                        "stars": 1101
+                        "stars": 1101,
+                        "topics": [
+                          "matplotlib-pyplot",
+                          "motion-tracking",
+                          "moving",
+                          "openalpr",
+                          "opencv",
+                          "picamera2",
+                          "python",
+                          "raspberry-pi-computer",
+                          "road",
+                          "rpi-camera",
+                          "speed-cam",
+                          "sqlite3",
+                          "traffic",
+                          "unix",
+                          "vehicle",
+                          "video-streaming",
+                          "webcam-capture",
+                          "webserver",
+                          "whiptail-menu",
+                          "windows"
+                        ]
                       },
                       "first_seen": "2026-08-28T23:07:55.075Z"
                     }
@@ -794,12 +1182,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Converts the Berlin Verkehrsunfallstatistik PDFs to GeoJSON",
+                    "homepage": null,
                     "id": 61911804,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2023-04-17T07:40:19Z",
+                    "open_issues": 4,
                     "owner": "stefanw",
                     "repo": "verkehrsunfallstatistik",
-                    "stars": 22
+                    "stars": 22,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:55.075Z"
                 }
@@ -818,15 +1211,30 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T23:07:55.075Z",
+    "last_updated": "2026-08-29T04:54:03.928Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome projects around the bicycle 🚲",
+      "homepage": null,
       "id": 154454160,
       "language": null,
+      "license": "MIT",
       "last_commit": "2026-04-15T17:50:36Z",
+      "open_issues": 5,
       "owner": "mltbnz",
       "repo": "awesome-bikeprojects",
-      "stars": 203
+      "stars": 203,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "berlin",
+        "bicycle",
+        "bike",
+        "city",
+        "opendata",
+        "openstreetmap",
+        "visualization"
+      ]
     },
     "original_repository_sha": "a6de98dc95e57e19d8cdb39ce3c0543c5933eb57",
     "enhanced_repository": "enhansome/enhansome-bikeprojects",
