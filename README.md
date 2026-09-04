@@ -2,7 +2,7 @@
 
 # Awesome About with stars
 
-A curated list of awesome bike and traffic ("#Verkehrswende") projects including bike sport, commuting, open data, data visualization, data analytics, data journalism, urban planing, crowdsourcing. There is no pre-established order of items in each category, the order is for contribution. If you want to contribute, please read the [guide](https://github.com/mltbnz/awesome-bikeprojects/blob/master/CONTRIBUTING.md) ⭐ 203 | 🐛 5 | 📅 2026-04-15.
+A curated list of awesome bike and traffic ("#Verkehrswende") projects including bike sport, commuting, open data, data visualization, data analytics, data journalism, urban planing, crowdsourcing. There is no pre-established order of items in each category, the order is for contribution. If you want to contribute, please read the [guide](https://github.com/mltbnz/awesome-bikeprojects/blob/master/CONTRIBUTING.md) ⭐ 204 | 🐛 5 | 📅 2026-04-15.
 
 Jump to
 
@@ -30,10 +30,10 @@ Jump to
 
 * [Streetmix](https://streetmix.net) - Design, remix and share your street. Add cycle paths, widen sidewalks or lanes, and find out how that affects your community ([source code](https://github.com/streetmix/streetmix) ⭐ 740 | 🐛 210 | 🌐 TypeScript | 📅 2026-09-02).
 
-* [CityBikes](https://citybik.es/) - Visualizations and APIs for many bike sharing systems around the globe ([source code](https://github.com/eskerda/pybikes) ⭐ 605 | 🐛 30 | 🌐 Python | 📅 2026-09-02).
+* [CityBikes](https://citybik.es/) - Visualizations and APIs for many bike sharing systems around the globe ([source code](https://github.com/eskerda/pybikes) ⭐ 605 | 🐛 30 | 🌐 Python | 📅 2026-09-04).
 
-* [weg-li](https://weg.li) - Website for citizens to report parking violations on sidewalks and bike paths. weg-li [is opensource](https://github.com/weg-li/weg-li/) ⭐ 280 | 🐛 9 | 🌐 Ruby | 📅 2026-09-01, uses OCR and image-recognition to do ALPR (automated license plate recognition) and other automations to make the process as simple and fast as possible. Falschparkeranzeige erstellen (mit Kennzeichenerkennung, benutzt Google)
-  * [Github](https://github.com/weg-li/weg-li) ⭐ 280 | 🐛 9 | 🌐 Ruby | 📅 2026-09-01 Unter Verwendung des Google::Cloud::Vision::ImageAnnotator  <https://cloud.google.com/vision/docs/request?hl=de> siehe <https://twitter.com/ulid000/status/1174061217477996546?s=20>
+* [weg-li](https://weg.li) - Website for citizens to report parking violations on sidewalks and bike paths. weg-li [is opensource](https://github.com/weg-li/weg-li/) ⭐ 280 | 🐛 9 | 🌐 Ruby | 📅 2026-09-04, uses OCR and image-recognition to do ALPR (automated license plate recognition) and other automations to make the process as simple and fast as possible. Falschparkeranzeige erstellen (mit Kennzeichenerkennung, benutzt Google)
+  * [Github](https://github.com/weg-li/weg-li) ⭐ 280 | 🐛 9 | 🌐 Ruby | 📅 2026-09-04 Unter Verwendung des Google::Cloud::Vision::ImageAnnotator  <https://cloud.google.com/vision/docs/request?hl=de> siehe <https://twitter.com/ulid000/status/1174061217477996546?s=20>
   * [Website](https://weg.li)
 
 * <https://biking.michael-simons.eu> - Michael Simons's private web tool to manage his bikes and tracks but also a sample application ([Repository](https://github.com/michael-simons/biking2) ⭐ 183 | 🐛 0 | 🌐 Java | 📅 2025-10-24) to learn both modern server side Java with Spring Boot and software architecture documentation using on the Arc42 template
@@ -52,9 +52,9 @@ Jump to
 
 * [Verkehrswende Wordpress Locations](https://github.com/steampixel/RadentscheidWordpressLocations) ⭐ 17 | 🐛 6 | 🌐 JavaScript | 📅 2023-08-29 - This Wordpress plugin can be used to track infrastructural problems like missing sidewalks or bike lanes and provides users with interactive maps. Users can also contribute to the map by uploading coordinates and images.
 
-* [Bicycle Master Plan](https://github.com/nekromoff/bicycle-master-plan) ⭐ 13 | 🐛 6 | 🌐 JavaScript | 📅 2026-09-02 - A tool / web app for displaying various bicycle infrastructure related data on a map
+* [Bicycle Master Plan](https://github.com/nekromoff/bicycle-master-plan) ⭐ 13 | 🐛 6 | 🌐 JavaScript | 📅 2026-09-03 - A tool / web app for displaying various bicycle infrastructure related data on a map
 
-* [Sternfahrtplaner](https://github.com/SebastianHanfland/RallyGPXMerger) ⭐ 10 | 🐛 19 | 🌐 TypeScript | 📅 2026-09-03 - A web tool to plan, publish and register simple bike demonstrations as well as complex rallies, with multiple start points and one destination (in German called Sternfahrt, like star rally). The web tool is hosted under [www.sternfahrtplaner.de](https://www.sternfahrtplaner.de/).
+* [Sternfahrtplaner](https://github.com/SebastianHanfland/RallyGPXMerger) ⭐ 10 | 🐛 19 | 🌐 TypeScript | 📅 2026-09-04 - A web tool to plan, publish and register simple bike demonstrations as well as complex rallies, with multiple start points and one destination (in German called Sternfahrt, like star rally). The web tool is hosted under [www.sternfahrtplaner.de](https://www.sternfahrtplaner.de/).
 
 * [Byke](https://github.com/schienenersatzverkehr/byke) ⭐ 8 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2019-12-02: This project explores the feasability of quantifying the bicycle lane surface roughness using an accelerometer
 
@@ -127,7 +127,7 @@ Jump to
 * [BBBike](http://www.bbbike.de/cgi-bin/bbbike.cgi) - A route-finder for cyclists in Berlin and Brandenburg. Developed since 1996 (10 years before the first release of Google Maps!) and still very useful due to own quality attributes like surface, number of traffic lights etc. that are not available in OSM or Google Maps.
 
 * [Bikerouter](https://bikerouter.de) - Web client for BRouter, a routing engine based on OpenStreetMap.
-  * [GitHub](https://github.com/nrenner/brouter-web) ⭐ 495 | 🐛 202 | 🌐 JavaScript | 📅 2026-09-02
+  * [GitHub](https://github.com/nrenner/brouter-web) ⭐ 495 | 🐛 202 | 🌐 JavaScript | 📅 2026-09-03
   * [Website](https://bikerouter.de)
 
 * MotionTag - App for [Android](https://play.google.com/store/apps/details?id=de.motiontag.motiontag\&hl=de) and [iOS](https://itunes.apple.com/de/app/motiontag/id1083164072) tracking your mobility behavior automatically offering reports with modal split and CO2 emission. Based on their [mobility analysis platform](https://www.motion-tag.com/en/mobility/).  (Closed source, disadvantage: no API for consumers to get your own data)
@@ -349,4 +349,4 @@ von Markenherstellern
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
