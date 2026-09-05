@@ -48,8 +48,8 @@
             "id": 7708819,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-02T22:39:15Z",
-            "open_issues": 210,
+            "last_commit": "2026-09-04T20:48:53Z",
+            "open_issues": 209,
             "owner": "streetmix",
             "repo": "streetmix",
             "stars": 740,
@@ -80,7 +80,7 @@
             "open_issues": 30,
             "owner": "eskerda",
             "repo": "pybikes",
-            "stars": 605,
+            "stars": 606,
             "topics": []
           },
           "first_seen": "2026-08-28T23:07:55.075Z"
@@ -211,7 +211,7 @@
             "id": 253730181,
             "language": "PHP",
             "license": "GPL-2.0",
-            "last_commit": "2026-09-03T13:45:23Z",
+            "last_commit": "2026-09-04T21:19:22Z",
             "open_issues": 156,
             "owner": "wielebenwir",
             "repo": "commonsbooking",
@@ -674,7 +674,7 @@
                 "language": "Objective-C",
                 "license": "Apache-2.0",
                 "last_commit": "2025-12-25T09:23:33Z",
-                "open_issues": 14,
+                "open_issues": 13,
                 "owner": "simra-project",
                 "repo": "simra-ios",
                 "stars": 4,
@@ -1211,7 +1211,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T16:55:25.323Z",
+    "last_updated": "2026-09-05T16:09:32.568Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome projects around the bicycle 🚲",
