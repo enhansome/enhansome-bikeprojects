@@ -28,9 +28,9 @@ Jump to
 
 * [Verkehrszählung mit Open-Source-Tool OpenDataCam](https://www.heise.de/make/meldung/Open-Source-Tool-macht-Verkehrszaehlungen-einfacher-4517810.html) - Wie viele Autos, Fahrräder oder Schafe täglich die Straße nutzen, lässt sich mit der OpenDataCam ermitteln. Das Tool gibt es nun in Version 3.0. [Github](https://github.com/opendatacam/opendatacam) ⭐ 1,726 | 🐛 62 | 🌐 JavaScript | 📅 2026-04-23
 
-* [Streetmix](https://streetmix.net) - Design, remix and share your street. Add cycle paths, widen sidewalks or lanes, and find out how that affects your community ([source code](https://github.com/streetmix/streetmix) ⭐ 740 | 🐛 209 | 🌐 TypeScript | 📅 2026-09-04).
+* [Streetmix](https://streetmix.net) - Design, remix and share your street. Add cycle paths, widen sidewalks or lanes, and find out how that affects your community ([source code](https://github.com/streetmix/streetmix) ⭐ 741 | 🐛 209 | 🌐 TypeScript | 📅 2026-09-04).
 
-* [CityBikes](https://citybik.es/) - Visualizations and APIs for many bike sharing systems around the globe ([source code](https://github.com/eskerda/pybikes) ⭐ 606 | 🐛 30 | 🌐 Python | 📅 2026-09-04).
+* [CityBikes](https://citybik.es/) - Visualizations and APIs for many bike sharing systems around the globe ([source code](https://github.com/eskerda/pybikes) ⭐ 606 | 🐛 31 | 🌐 Python | 📅 2026-09-07).
 
 * [weg-li](https://weg.li) - Website for citizens to report parking violations on sidewalks and bike paths. weg-li [is opensource](https://github.com/weg-li/weg-li/) ⭐ 280 | 🐛 9 | 🌐 Ruby | 📅 2026-09-04, uses OCR and image-recognition to do ALPR (automated license plate recognition) and other automations to make the process as simple and fast as possible. Falschparkeranzeige erstellen (mit Kennzeichenerkennung, benutzt Google)
   * [Github](https://github.com/weg-li/weg-li) ⭐ 280 | 🐛 9 | 🌐 Ruby | 📅 2026-09-04 Unter Verwendung des Google::Cloud::Vision::ImageAnnotator  <https://cloud.google.com/vision/docs/request?hl=de> siehe <https://twitter.com/ulid000/status/1174061217477996546?s=20>
@@ -40,7 +40,7 @@ Jump to
 
 * [bikedata](https://github.com/ropensci/bikedata) ⭐ 80 | 🐛 19 | 🌐 R | 📅 2026-06-25 - R package to extract data from public hire bicycle systems.
 
-* [CommonsBooking](https://github.com/wielebenwir/commonsbooking) ⭐ 58 | 🐛 159 | 🌐 PHP | 📅 2026-09-06 - A Wordpress plugin for management and booking of commons goods especially cargo bikes.
+* [CommonsBooking](https://github.com/wielebenwir/commonsbooking) ⭐ 58 | 🐛 159 | 🌐 PHP | 📅 2026-09-07 - A Wordpress plugin for management and booking of commons goods especially cargo bikes.
 
 * [OSM Conflator](https://github.com/mapsme/osm_conflate) ⭐ 48 | 🐛 9 | 🌐 Python | 📅 2021-02-01. This is a script for merging points from some third-party source with OpenStreetMap data. After merging and uploading, the data can be updated.
 
@@ -52,9 +52,9 @@ Jump to
 
 * [Verkehrswende Wordpress Locations](https://github.com/steampixel/RadentscheidWordpressLocations) ⭐ 17 | 🐛 6 | 🌐 JavaScript | 📅 2023-08-29 - This Wordpress plugin can be used to track infrastructural problems like missing sidewalks or bike lanes and provides users with interactive maps. Users can also contribute to the map by uploading coordinates and images.
 
-* [Bicycle Master Plan](https://github.com/nekromoff/bicycle-master-plan) ⭐ 13 | 🐛 6 | 🌐 JavaScript | 📅 2026-09-03 - A tool / web app for displaying various bicycle infrastructure related data on a map
+* [Bicycle Master Plan](https://github.com/nekromoff/bicycle-master-plan) ⭐ 13 | 🐛 6 | 🌐 JavaScript | 📅 2026-09-07 - A tool / web app for displaying various bicycle infrastructure related data on a map
 
-* [Sternfahrtplaner](https://github.com/SebastianHanfland/RallyGPXMerger) ⭐ 10 | 🐛 19 | 🌐 TypeScript | 📅 2026-09-04 - A web tool to plan, publish and register simple bike demonstrations as well as complex rallies, with multiple start points and one destination (in German called Sternfahrt, like star rally). The web tool is hosted under [www.sternfahrtplaner.de](https://www.sternfahrtplaner.de/).
+* [Sternfahrtplaner](https://github.com/SebastianHanfland/RallyGPXMerger) ⭐ 10 | 🐛 20 | 🌐 TypeScript | 📅 2026-09-07 - A web tool to plan, publish and register simple bike demonstrations as well as complex rallies, with multiple start points and one destination (in German called Sternfahrt, like star rally). The web tool is hosted under [www.sternfahrtplaner.de](https://www.sternfahrtplaner.de/).
 
 * [Byke](https://github.com/schienenersatzverkehr/byke) ⭐ 8 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2019-12-02: This project explores the feasability of quantifying the bicycle lane surface roughness using an accelerometer
 
@@ -76,7 +76,7 @@ Jump to
   ffmpeg -i input.mp4 -vf vidstabtransform=crop=black:smoothing=20,unsharp=5:5:0.8:3:3:0.4 output.mp4   
   ```
 
-* [AST-Monitor](https://github.com/firefly-cpp/AST-Monitor) ⭐ 6 | 🐛 3 | 🌐 Python | 📅 2026-08-12 - A wearable Raspberry Pi computer for cyclists
+* [AST-Monitor](https://github.com/firefly-cpp/AST-Monitor) ⭐ 6 | 🐛 4 | 🌐 Python | 📅 2026-09-07 - A wearable Raspberry Pi computer for cyclists
 
 * [Regenampel](https://regenampel.de/) | [GitHub](https://github.com/jonnyschaefer/radolan) ⭐ 6 | 🐛 2 | 🌐 Go | 📅 2022-09-21 - A web app that tells you when you need to set off on your bike so you arrive without getting wet.
 
@@ -298,7 +298,7 @@ von Markenherstellern
 #### [No. 4 - 19.06.2019, CityLab](https://www.meetup.com/de-DE/Datacycle-Meetup-Fahrraddaten-fur-Berlin/events/262280570/)
 
 * Moritz Metz – selbst durchgeführten Geschwindigkeitsmessungen am "Friedel-Speedway"
-  * <https://github.com/pageauc/speed-camera> ⭐ 1,103 | 🐛 20 | 🌐 Python | 📅 2025-10-17
+  * <https://github.com/pageauc/speed-camera> ⭐ 1,104 | 🐛 20 | 🌐 Python | 📅 2025-10-17
   * [Blogpost](https://fahrradfreundliches-neukoelln.de/blog/neukoellner-friedelspeedway)
   * [Moritz' eigene Messdaten (Google Docs)](https://docs.google.com/spreadsheets/d/1gKip7CnoZp2_j6kxtpKJqL_ge3OTGbvFXNo2uK8GUdo/edit#gid=1095001652)
   * PDF Messdaten Bezirk Neukölln, <http://moritzmetz.de/upload/friedelspeed-geschwindigkeitsmessungen-bezirk.pdf>
@@ -349,4 +349,4 @@ von Markenherstellern
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-07._
