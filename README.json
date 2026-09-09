@@ -211,8 +211,8 @@
             "id": 253730181,
             "language": "PHP",
             "license": "GPL-2.0",
-            "last_commit": "2026-09-07T20:12:14Z",
-            "open_issues": 159,
+            "last_commit": "2026-09-09T06:46:50Z",
+            "open_issues": 162,
             "owner": "wielebenwir",
             "repo": "commonsbooking",
             "stars": 58,
@@ -401,7 +401,7 @@
             "id": 705637013,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-08T15:59:49Z",
+            "last_commit": "2026-09-09T16:55:05Z",
             "open_issues": 20,
             "owner": "SebastianHanfland",
             "repo": "RallyGPXMerger",
@@ -761,11 +761,11 @@
                 "id": 16286441,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-07T21:50:13Z",
-                "open_issues": 202,
+                "last_commit": "2026-09-09T00:45:15Z",
+                "open_issues": 203,
                 "owner": "nrenner",
                 "repo": "brouter-web",
-                "stars": 497,
+                "stars": 498,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:07:55.075Z"
@@ -1074,7 +1074,7 @@
                 "id": 132033870,
                 "language": null,
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-02T14:41:53Z",
+                "last_commit": "2026-09-09T01:40:44Z",
                 "open_issues": 23,
                 "owner": "openmobilityfoundation",
                 "repo": "mobility-data-specification",
@@ -1211,7 +1211,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T17:19:26.290Z",
+    "last_updated": "2026-09-09T17:12:34.572Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome projects around the bicycle 🚲",
