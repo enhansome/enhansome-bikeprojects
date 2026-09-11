@@ -28,19 +28,19 @@ Jump to
 
 * [Verkehrszählung mit Open-Source-Tool OpenDataCam](https://www.heise.de/make/meldung/Open-Source-Tool-macht-Verkehrszaehlungen-einfacher-4517810.html) - Wie viele Autos, Fahrräder oder Schafe täglich die Straße nutzen, lässt sich mit der OpenDataCam ermitteln. Das Tool gibt es nun in Version 3.0. [Github](https://github.com/opendatacam/opendatacam) ⭐ 1,726 | 🐛 62 | 🌐 JavaScript | 📅 2026-04-23
 
-* [Streetmix](https://streetmix.net) - Design, remix and share your street. Add cycle paths, widen sidewalks or lanes, and find out how that affects your community ([source code](https://github.com/streetmix/streetmix) ⭐ 742 | 🐛 210 | 🌐 TypeScript | 📅 2026-09-10).
+* [Streetmix](https://streetmix.net) - Design, remix and share your street. Add cycle paths, widen sidewalks or lanes, and find out how that affects your community ([source code](https://github.com/streetmix/streetmix) ⭐ 742 | 🐛 208 | 🌐 TypeScript | 📅 2026-09-11).
 
 * [CityBikes](https://citybik.es/) - Visualizations and APIs for many bike sharing systems around the globe ([source code](https://github.com/eskerda/pybikes) ⭐ 606 | 🐛 32 | 🌐 Python | 📅 2026-09-07).
 
-* [weg-li](https://weg.li) - Website for citizens to report parking violations on sidewalks and bike paths. weg-li [is opensource](https://github.com/weg-li/weg-li/) ⭐ 280 | 🐛 10 | 🌐 Ruby | 📅 2026-09-04, uses OCR and image-recognition to do ALPR (automated license plate recognition) and other automations to make the process as simple and fast as possible. Falschparkeranzeige erstellen (mit Kennzeichenerkennung, benutzt Google)
-  * [Github](https://github.com/weg-li/weg-li) ⭐ 280 | 🐛 10 | 🌐 Ruby | 📅 2026-09-04 Unter Verwendung des Google::Cloud::Vision::ImageAnnotator  <https://cloud.google.com/vision/docs/request?hl=de> siehe <https://twitter.com/ulid000/status/1174061217477996546?s=20>
+* [weg-li](https://weg.li) - Website for citizens to report parking violations on sidewalks and bike paths. weg-li [is opensource](https://github.com/weg-li/weg-li/) ⭐ 280 | 🐛 11 | 🌐 Ruby | 📅 2026-09-11, uses OCR and image-recognition to do ALPR (automated license plate recognition) and other automations to make the process as simple and fast as possible. Falschparkeranzeige erstellen (mit Kennzeichenerkennung, benutzt Google)
+  * [Github](https://github.com/weg-li/weg-li) ⭐ 280 | 🐛 11 | 🌐 Ruby | 📅 2026-09-11 Unter Verwendung des Google::Cloud::Vision::ImageAnnotator  <https://cloud.google.com/vision/docs/request?hl=de> siehe <https://twitter.com/ulid000/status/1174061217477996546?s=20>
   * [Website](https://weg.li)
 
 * <https://biking.michael-simons.eu> - Michael Simons's private web tool to manage his bikes and tracks but also a sample application ([Repository](https://github.com/michael-simons/biking2) ⭐ 183 | 🐛 0 | 🌐 Java | 📅 2025-10-24) to learn both modern server side Java with Spring Boot and software architecture documentation using on the Arc42 template
 
 * [bikedata](https://github.com/ropensci/bikedata) ⭐ 80 | 🐛 19 | 🌐 R | 📅 2026-06-25 - R package to extract data from public hire bicycle systems.
 
-* [CommonsBooking](https://github.com/wielebenwir/commonsbooking) ⭐ 58 | 🐛 162 | 🌐 PHP | 📅 2026-09-09 - A Wordpress plugin for management and booking of commons goods especially cargo bikes.
+* [CommonsBooking](https://github.com/wielebenwir/commonsbooking) ⭐ 58 | 🐛 162 | 🌐 PHP | 📅 2026-09-11 - A Wordpress plugin for management and booking of commons goods especially cargo bikes.
 
 * [OSM Conflator](https://github.com/mapsme/osm_conflate) ⭐ 48 | 🐛 9 | 🌐 Python | 📅 2021-02-01. This is a script for merging points from some third-party source with OpenStreetMap data. After merging and uploading, the data can be updated.
 
@@ -54,7 +54,7 @@ Jump to
 
 * [Bicycle Master Plan](https://github.com/nekromoff/bicycle-master-plan) ⭐ 13 | 🐛 6 | 🌐 JavaScript | 📅 2026-09-08 - A tool / web app for displaying various bicycle infrastructure related data on a map
 
-* [Sternfahrtplaner](https://github.com/SebastianHanfland/RallyGPXMerger) ⭐ 10 | 🐛 7 | 🌐 TypeScript | 📅 2026-09-09 - A web tool to plan, publish and register simple bike demonstrations as well as complex rallies, with multiple start points and one destination (in German called Sternfahrt, like star rally). The web tool is hosted under [www.sternfahrtplaner.de](https://www.sternfahrtplaner.de/).
+* [Sternfahrtplaner](https://github.com/SebastianHanfland/RallyGPXMerger) ⭐ 10 | 🐛 8 | 🌐 TypeScript | 📅 2026-09-10 - A web tool to plan, publish and register simple bike demonstrations as well as complex rallies, with multiple start points and one destination (in German called Sternfahrt, like star rally). The web tool is hosted under [www.sternfahrtplaner.de](https://www.sternfahrtplaner.de/).
 
 * [Byke](https://github.com/schienenersatzverkehr/byke) ⭐ 8 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2019-12-02: This project explores the feasability of quantifying the bicycle lane surface roughness using an accelerometer
 
@@ -76,7 +76,7 @@ Jump to
   ffmpeg -i input.mp4 -vf vidstabtransform=crop=black:smoothing=20,unsharp=5:5:0.8:3:3:0.4 output.mp4   
   ```
 
-* [AST-Monitor](https://github.com/firefly-cpp/AST-Monitor) ⭐ 6 | 🐛 4 | 🌐 Python | 📅 2026-09-07 - A wearable Raspberry Pi computer for cyclists
+* [AST-Monitor](https://github.com/firefly-cpp/AST-Monitor) ⭐ 6 | 🐛 5 | 🌐 Python | 📅 2026-09-11 - A wearable Raspberry Pi computer for cyclists
 
 * [Regenampel](https://regenampel.de/) | [GitHub](https://github.com/jonnyschaefer/radolan) ⭐ 6 | 🐛 2 | 🌐 Go | 📅 2022-09-21 - A web app that tells you when you need to set off on your bike so you arrive without getting wet.
 
@@ -103,7 +103,7 @@ Jump to
 * [Die gefährlichsten Radwege in Deutschland](https://radwege.greenpeace.de/) - Interactive map. Add your own "hot spots" and observations. Map and server set up by Greenpeace. Current disadvantages: map uses Google, not OSM; users appear not to be able to create an url as a deep link to a certain position and zoom level.
 
 * SimRa - Kostenlose SimRa App. TU Berlin-Projekt. Datensparsame Datensammel-App, die Fahrtrouten aufzeichnet und Beschleunigungsdaten zum Detektieren von Gefahrensituationen nutzt wie plötzliches Bremsen, Ausweichen, Stürze. 3-Jahres-Förderung durch die Citizen-Science-Initiative der TU Berlin.
-  * [GitHub](https://github.com/simra-project/simra-ios) ⭐ 4 | 🐛 13 | 🌐 Objective-C | 📅 2025-12-25
+  * [GitHub](https://github.com/simra-project/simra-ios) ⭐ 4 | 🐛 14 | 🌐 Objective-C | 📅 2025-12-25
   * [Website](https://www.digital-future.berlin/forschung/projekte/simra/)
 
 * Cyface - Software zur Analyse der Qualität und Nutzung von Verkehrswegen. Cyface Android App und Cyface Sensorbox (RaspberryPi) zur Erfassung von Straßen- und Verkehrsdaten. Ausgründung der TU Dresden.
@@ -127,7 +127,7 @@ Jump to
 * [BBBike](http://www.bbbike.de/cgi-bin/bbbike.cgi) - A route-finder for cyclists in Berlin and Brandenburg. Developed since 1996 (10 years before the first release of Google Maps!) and still very useful due to own quality attributes like surface, number of traffic lights etc. that are not available in OSM or Google Maps.
 
 * [Bikerouter](https://bikerouter.de) - Web client for BRouter, a routing engine based on OpenStreetMap.
-  * [GitHub](https://github.com/nrenner/brouter-web) ⭐ 498 | 🐛 203 | 🌐 JavaScript | 📅 2026-09-09
+  * [GitHub](https://github.com/nrenner/brouter-web) ⭐ 498 | 🐛 203 | 🌐 JavaScript | 📅 2026-09-10
   * [Website](https://bikerouter.de)
 
 * MotionTag - App for [Android](https://play.google.com/store/apps/details?id=de.motiontag.motiontag\&hl=de) and [iOS](https://itunes.apple.com/de/app/motiontag/id1083164072) tracking your mobility behavior automatically offering reports with modal split and CO2 emission. Based on their [mobility analysis platform](https://www.motion-tag.com/en/mobility/).  (Closed source, disadvantage: no API for consumers to get your own data)
@@ -349,4 +349,4 @@ von Markenherstellern
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-11._
