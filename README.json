@@ -52,7 +52,7 @@
             "open_issues": 209,
             "owner": "streetmix",
             "repo": "streetmix",
-            "stars": 743,
+            "stars": 744,
             "topics": [
               "city-builder",
               "city-planning",
@@ -102,7 +102,7 @@
                 "id": 200227768,
                 "language": "Ruby",
                 "license": null,
-                "last_commit": "2026-09-11T06:10:22Z",
+                "last_commit": "2026-09-13T18:31:35Z",
                 "open_issues": 11,
                 "owner": "weg-li",
                 "repo": "weg-li",
@@ -123,7 +123,7 @@
             "id": 200227768,
             "language": "Ruby",
             "license": null,
-            "last_commit": "2026-09-11T06:10:22Z",
+            "last_commit": "2026-09-13T18:31:35Z",
             "open_issues": 11,
             "owner": "weg-li",
             "repo": "weg-li",
@@ -1211,7 +1211,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T17:00:41.974Z",
+    "last_updated": "2026-09-14T18:47:26.970Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome projects around the bicycle 🚲",
