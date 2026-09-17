@@ -48,7 +48,7 @@
             "id": 7708819,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-16T16:25:46Z",
+            "last_commit": "2026-09-17T07:39:46Z",
             "open_issues": 210,
             "owner": "streetmix",
             "repo": "streetmix",
@@ -359,7 +359,7 @@
             "id": 176778316,
             "language": "JavaScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-16T16:16:27Z",
+            "last_commit": "2026-09-17T14:08:02Z",
             "open_issues": 2,
             "owner": "nekromoff",
             "repo": "bicycle-master-plan",
@@ -1140,7 +1140,7 @@
                         "open_issues": 20,
                         "owner": "pageauc",
                         "repo": "speed-camera",
-                        "stars": 1104,
+                        "stars": 1105,
                         "topics": [
                           "matplotlib-pyplot",
                           "motion-tracking",
@@ -1211,7 +1211,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T17:40:22.183Z",
+    "last_updated": "2026-09-17T17:41:24.364Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome projects around the bicycle 🚲",
