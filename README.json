@@ -211,8 +211,8 @@
             "id": 253730181,
             "language": "PHP",
             "license": "GPL-2.0",
-            "last_commit": "2026-09-13T15:53:17Z",
-            "open_issues": 164,
+            "last_commit": "2026-09-19T13:17:27Z",
+            "open_issues": 165,
             "owner": "wielebenwir",
             "repo": "commonsbooking",
             "stars": 58,
@@ -761,7 +761,7 @@
                 "id": 16286441,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-15T20:55:53Z",
+                "last_commit": "2026-09-18T22:02:10Z",
                 "open_issues": 204,
                 "owner": "nrenner",
                 "repo": "brouter-web",
@@ -1140,7 +1140,7 @@
                         "open_issues": 20,
                         "owner": "pageauc",
                         "repo": "speed-camera",
-                        "stars": 1105,
+                        "stars": 1106,
                         "topics": [
                           "matplotlib-pyplot",
                           "motion-tracking",
@@ -1211,7 +1211,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T17:08:10.188Z",
+    "last_updated": "2026-09-19T16:38:30.237Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome projects around the bicycle 🚲",
