@@ -211,7 +211,7 @@
             "id": 253730181,
             "language": "PHP",
             "license": "GPL-2.0",
-            "last_commit": "2026-09-19T13:17:27Z",
+            "last_commit": "2026-09-20T15:53:02Z",
             "open_issues": 165,
             "owner": "wielebenwir",
             "repo": "commonsbooking",
@@ -1211,7 +1211,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T16:38:30.237Z",
+    "last_updated": "2026-09-20T16:55:07.549Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome projects around the bicycle 🚲",
