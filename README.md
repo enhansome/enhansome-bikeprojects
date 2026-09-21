@@ -2,7 +2,7 @@
 
 # Awesome About with stars
 
-A curated list of awesome bike and traffic ("#Verkehrswende") projects including bike sport, commuting, open data, data visualization, data analytics, data journalism, urban planing, crowdsourcing. There is no pre-established order of items in each category, the order is for contribution. If you want to contribute, please read the [guide](https://github.com/mltbnz/awesome-bikeprojects/blob/master/CONTRIBUTING.md) ⭐ 204 | 🐛 5 | 📅 2026-04-15.
+A curated list of awesome bike and traffic ("#Verkehrswende") projects including bike sport, commuting, open data, data visualization, data analytics, data journalism, urban planing, crowdsourcing. There is no pre-established order of items in each category, the order is for contribution. If you want to contribute, please read the [guide](https://github.com/mltbnz/awesome-bikeprojects/blob/master/CONTRIBUTING.md) ⭐ 205 | 🐛 5 | 📅 2026-04-15.
 
 Jump to
 
@@ -40,7 +40,7 @@ Jump to
 
 * [bikedata](https://github.com/ropensci/bikedata) ⭐ 80 | 🐛 19 | 🌐 R | 📅 2026-06-25 - R package to extract data from public hire bicycle systems.
 
-* [CommonsBooking](https://github.com/wielebenwir/commonsbooking) ⭐ 58 | 🐛 165 | 🌐 PHP | 📅 2026-09-20 - A Wordpress plugin for management and booking of commons goods especially cargo bikes.
+* [CommonsBooking](https://github.com/wielebenwir/commonsbooking) ⭐ 58 | 🐛 164 | 🌐 PHP | 📅 2026-09-21 - A Wordpress plugin for management and booking of commons goods especially cargo bikes.
 
 * [OSM Conflator](https://github.com/mapsme/osm_conflate) ⭐ 48 | 🐛 9 | 🌐 Python | 📅 2021-02-01. This is a script for merging points from some third-party source with OpenStreetMap data. After merging and uploading, the data can be updated.
 
@@ -349,4 +349,4 @@ von Markenherstellern
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-21._

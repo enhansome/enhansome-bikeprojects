@@ -211,8 +211,8 @@
             "id": 253730181,
             "language": "PHP",
             "license": "GPL-2.0",
-            "last_commit": "2026-09-20T15:53:02Z",
-            "open_issues": 165,
+            "last_commit": "2026-09-21T13:08:07Z",
+            "open_issues": 164,
             "owner": "wielebenwir",
             "repo": "commonsbooking",
             "stars": 58,
@@ -1211,7 +1211,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T16:55:07.549Z",
+    "last_updated": "2026-09-21T18:50:49.857Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome projects around the bicycle 🚲",
@@ -1223,7 +1223,7 @@
       "open_issues": 5,
       "owner": "mltbnz",
       "repo": "awesome-bikeprojects",
-      "stars": 204,
+      "stars": 205,
       "topics": [
         "awesome",
         "awesome-list",
