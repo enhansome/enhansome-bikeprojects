@@ -48,7 +48,7 @@
             "id": 7708819,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-17T19:43:31Z",
+            "last_commit": "2026-09-22T14:27:40Z",
             "open_issues": 208,
             "owner": "streetmix",
             "repo": "streetmix",
@@ -1211,7 +1211,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T18:50:49.857Z",
+    "last_updated": "2026-09-22T17:41:09.721Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome projects around the bicycle 🚲",
