@@ -19,7 +19,7 @@
             "open_issues": 62,
             "owner": "opendatacam",
             "repo": "opendatacam",
-            "stars": 1726,
+            "stars": 1727,
             "topics": [
               "camera",
               "computer-vision",
@@ -48,7 +48,7 @@
             "id": 7708819,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-22T14:27:40Z",
+            "last_commit": "2026-09-23T17:42:05Z",
             "open_issues": 208,
             "owner": "streetmix",
             "repo": "streetmix",
@@ -76,7 +76,7 @@
             "id": 778569,
             "language": "Python",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-16T14:41:27Z",
+            "last_commit": "2026-09-23T14:46:12Z",
             "open_issues": 34,
             "owner": "eskerda",
             "repo": "pybikes",
@@ -885,7 +885,7 @@
             "open_issues": 62,
             "owner": "opendatacam",
             "repo": "opendatacam",
-            "stars": 1726,
+            "stars": 1727,
             "topics": [
               "camera",
               "computer-vision",
@@ -1075,7 +1075,7 @@
                 "language": null,
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-09T19:28:12Z",
-                "open_issues": 23,
+                "open_issues": 24,
                 "owner": "openmobilityfoundation",
                 "repo": "mobility-data-specification",
                 "stars": 746,
@@ -1136,7 +1136,7 @@
                         "id": 70590335,
                         "language": "Python",
                         "license": "Apache-2.0",
-                        "last_commit": "2025-10-17T20:29:09Z",
+                        "last_commit": "2026-09-23T03:06:42Z",
                         "open_issues": 20,
                         "owner": "pageauc",
                         "repo": "speed-camera",
@@ -1211,7 +1211,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T17:41:09.721Z",
+    "last_updated": "2026-09-23T17:53:56.770Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome projects around the bicycle 🚲",

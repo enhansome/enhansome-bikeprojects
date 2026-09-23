@@ -26,11 +26,11 @@ Jump to
 
 ## Projects
 
-* [Verkehrszählung mit Open-Source-Tool OpenDataCam](https://www.heise.de/make/meldung/Open-Source-Tool-macht-Verkehrszaehlungen-einfacher-4517810.html) - Wie viele Autos, Fahrräder oder Schafe täglich die Straße nutzen, lässt sich mit der OpenDataCam ermitteln. Das Tool gibt es nun in Version 3.0. [Github](https://github.com/opendatacam/opendatacam) ⭐ 1,726 | 🐛 62 | 🌐 JavaScript | 📅 2026-04-23
+* [Verkehrszählung mit Open-Source-Tool OpenDataCam](https://www.heise.de/make/meldung/Open-Source-Tool-macht-Verkehrszaehlungen-einfacher-4517810.html) - Wie viele Autos, Fahrräder oder Schafe täglich die Straße nutzen, lässt sich mit der OpenDataCam ermitteln. Das Tool gibt es nun in Version 3.0. [Github](https://github.com/opendatacam/opendatacam) ⭐ 1,727 | 🐛 62 | 🌐 JavaScript | 📅 2026-04-23
 
-* [Streetmix](https://streetmix.net) - Design, remix and share your street. Add cycle paths, widen sidewalks or lanes, and find out how that affects your community ([source code](https://github.com/streetmix/streetmix) ⭐ 744 | 🐛 208 | 🌐 TypeScript | 📅 2026-09-22).
+* [Streetmix](https://streetmix.net) - Design, remix and share your street. Add cycle paths, widen sidewalks or lanes, and find out how that affects your community ([source code](https://github.com/streetmix/streetmix) ⭐ 744 | 🐛 208 | 🌐 TypeScript | 📅 2026-09-23).
 
-* [CityBikes](https://citybik.es/) - Visualizations and APIs for many bike sharing systems around the globe ([source code](https://github.com/eskerda/pybikes) ⭐ 606 | 🐛 34 | 🌐 Python | 📅 2026-09-16).
+* [CityBikes](https://citybik.es/) - Visualizations and APIs for many bike sharing systems around the globe ([source code](https://github.com/eskerda/pybikes) ⭐ 606 | 🐛 34 | 🌐 Python | 📅 2026-09-23).
 
 * [weg-li](https://weg.li) - Website for citizens to report parking violations on sidewalks and bike paths. weg-li [is opensource](https://github.com/weg-li/weg-li/) ⭐ 280 | 🐛 11 | 🌐 Ruby | 📅 2026-09-17, uses OCR and image-recognition to do ALPR (automated license plate recognition) and other automations to make the process as simple and fast as possible. Falschparkeranzeige erstellen (mit Kennzeichenerkennung, benutzt Google)
   * [Github](https://github.com/weg-li/weg-li) ⭐ 280 | 🐛 11 | 🌐 Ruby | 📅 2026-09-17 Unter Verwendung des Google::Cloud::Vision::ImageAnnotator  <https://cloud.google.com/vision/docs/request?hl=de> siehe <https://twitter.com/ulid000/status/1174061217477996546?s=20>
@@ -184,7 +184,7 @@ Jump to
 
 ## Verkehrszählung
 
-* [Open Data Cam](https://opendata.cam) - 'Open Data Cam' is a tool that helps to quantify the world. The best thing about it: You can make it yourself! With computer vision 'Open Data Cam' understands and quantifies what it sees. The simple setup allows everybody to become an urban data miner. [Github](https://github.com/opendatacam/opendatacam) ⭐ 1,726 | 🐛 62 | 🌐 JavaScript | 📅 2026-04-23
+* [Open Data Cam](https://opendata.cam) - 'Open Data Cam' is a tool that helps to quantify the world. The best thing about it: You can make it yourself! With computer vision 'Open Data Cam' understands and quantifies what it sees. The simple setup allows everybody to become an urban data miner. [Github](https://github.com/opendatacam/opendatacam) ⭐ 1,727 | 🐛 62 | 🌐 JavaScript | 📅 2026-04-23
 * [Telraam](https://telraam.net/) Verkehrszählungen (lokal und per Netzwerk/Karte) per Raspberrry Pi, Kamera und Software
   * <https://github.com/CargoBikoMeter/WZePaperDisplay> ⭐ 5 | 🐛 1 | 🌐 C++ | 📅 2023-01-12 e-Paper based mobility data display. "WZ" in "WZePaperDisplay" means "Wir Zählen".
   * [Karte/Map](https://telraam.net/en)
@@ -250,7 +250,7 @@ Jump to
 
 ### Global
 
-* [Mobility Data Specification](https://github.com/CityOfLosAngeles/mobility-data-specification) ⭐ 746 | 🐛 23 | 📅 2026-09-09 - A data standard and API specification for mobility as a service providers, such as Dockless Bikeshare, E-Scooters, and Shared Ride providers who work within the public right of way. Developed by the City of Los Angeles.
+* [Mobility Data Specification](https://github.com/CityOfLosAngeles/mobility-data-specification) ⭐ 746 | 🐛 24 | 📅 2026-09-09 - A data standard and API specification for mobility as a service providers, such as Dockless Bikeshare, E-Scooters, and Shared Ride providers who work within the public right of way. Developed by the City of Los Angeles.
 * [The Arrogance of Space Mapping Tool](https://cyklokoalicia.sk/arrogance/) - Upload an aerial or satellite photo from your city - an intersection or neighbourhood - and start mapping how much space is allocated to cars, pedestrians and bikes. See also <https://twitter.com/colvilleandersn/status/1197537645657829379> and <https://medium.com/@colville_andersen/the-arrogance-of-space-93a7419b0278>
 
 ## Bicycle Gear Calculator (Ritzelrechner)
@@ -298,7 +298,7 @@ von Markenherstellern
 #### [No. 4 - 19.06.2019, CityLab](https://www.meetup.com/de-DE/Datacycle-Meetup-Fahrraddaten-fur-Berlin/events/262280570/)
 
 * Moritz Metz – selbst durchgeführten Geschwindigkeitsmessungen am "Friedel-Speedway"
-  * <https://github.com/pageauc/speed-camera> ⭐ 1,106 | 🐛 20 | 🌐 Python | 📅 2025-10-17
+  * <https://github.com/pageauc/speed-camera> ⭐ 1,106 | 🐛 20 | 🌐 Python | 📅 2026-09-23
   * [Blogpost](https://fahrradfreundliches-neukoelln.de/blog/neukoellner-friedelspeedway)
   * [Moritz' eigene Messdaten (Google Docs)](https://docs.google.com/spreadsheets/d/1gKip7CnoZp2_j6kxtpKJqL_ge3OTGbvFXNo2uK8GUdo/edit#gid=1095001652)
   * PDF Messdaten Bezirk Neukölln, <http://moritzmetz.de/upload/friedelspeed-geschwindigkeitsmessungen-bezirk.pdf>
@@ -349,4 +349,4 @@ von Markenherstellern
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-23._
