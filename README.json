@@ -48,11 +48,11 @@
             "id": 7708819,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-23T17:42:05Z",
+            "last_commit": "2026-09-24T14:58:39Z",
             "open_issues": 208,
             "owner": "streetmix",
             "repo": "streetmix",
-            "stars": 744,
+            "stars": 745,
             "topics": [
               "city-builder",
               "city-planning",
@@ -76,7 +76,7 @@
             "id": 778569,
             "language": "Python",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-23T14:46:12Z",
+            "last_commit": "2026-09-24T14:41:34Z",
             "open_issues": 34,
             "owner": "eskerda",
             "repo": "pybikes",
@@ -1211,7 +1211,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T17:53:56.770Z",
+    "last_updated": "2026-09-24T17:54:27.891Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome projects around the bicycle 🚲",
