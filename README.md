@@ -32,15 +32,15 @@ Jump to
 
 * [CityBikes](https://citybik.es/) - Visualizations and APIs for many bike sharing systems around the globe ([source code](https://github.com/eskerda/pybikes) ⭐ 606 | 🐛 33 | 🌐 Python | 📅 2026-09-25).
 
-* [weg-li](https://weg.li) - Website for citizens to report parking violations on sidewalks and bike paths. weg-li [is opensource](https://github.com/weg-li/weg-li/) ⭐ 280 | 🐛 11 | 🌐 Ruby | 📅 2026-09-17, uses OCR and image-recognition to do ALPR (automated license plate recognition) and other automations to make the process as simple and fast as possible. Falschparkeranzeige erstellen (mit Kennzeichenerkennung, benutzt Google)
-  * [Github](https://github.com/weg-li/weg-li) ⭐ 280 | 🐛 11 | 🌐 Ruby | 📅 2026-09-17 Unter Verwendung des Google::Cloud::Vision::ImageAnnotator  <https://cloud.google.com/vision/docs/request?hl=de> siehe <https://twitter.com/ulid000/status/1174061217477996546?s=20>
+* [weg-li](https://weg.li) - Website for citizens to report parking violations on sidewalks and bike paths. weg-li [is opensource](https://github.com/weg-li/weg-li/) ⭐ 280 | 🐛 11 | 🌐 Ruby | 📅 2026-09-26, uses OCR and image-recognition to do ALPR (automated license plate recognition) and other automations to make the process as simple and fast as possible. Falschparkeranzeige erstellen (mit Kennzeichenerkennung, benutzt Google)
+  * [Github](https://github.com/weg-li/weg-li) ⭐ 280 | 🐛 11 | 🌐 Ruby | 📅 2026-09-26 Unter Verwendung des Google::Cloud::Vision::ImageAnnotator  <https://cloud.google.com/vision/docs/request?hl=de> siehe <https://twitter.com/ulid000/status/1174061217477996546?s=20>
   * [Website](https://weg.li)
 
 * <https://biking.michael-simons.eu> - Michael Simons's private web tool to manage his bikes and tracks but also a sample application ([Repository](https://github.com/michael-simons/biking2) ⭐ 183 | 🐛 0 | 🌐 Java | 📅 2025-10-24) to learn both modern server side Java with Spring Boot and software architecture documentation using on the Arc42 template
 
 * [bikedata](https://github.com/ropensci/bikedata) ⭐ 80 | 🐛 19 | 🌐 R | 📅 2026-06-25 - R package to extract data from public hire bicycle systems.
 
-* [CommonsBooking](https://github.com/wielebenwir/commonsbooking) ⭐ 58 | 🐛 164 | 🌐 PHP | 📅 2026-09-21 - A Wordpress plugin for management and booking of commons goods especially cargo bikes.
+* [CommonsBooking](https://github.com/wielebenwir/commonsbooking) ⭐ 57 | 🐛 164 | 🌐 PHP | 📅 2026-09-21 - A Wordpress plugin for management and booking of commons goods especially cargo bikes.
 
 * [OSM Conflator](https://github.com/mapsme/osm_conflate) ⭐ 48 | 🐛 9 | 🌐 Python | 📅 2021-02-01. This is a script for merging points from some third-party source with OpenStreetMap data. After merging and uploading, the data can be updated.
 
@@ -349,4 +349,4 @@ von Markenherstellern
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._
