@@ -19,7 +19,7 @@
             "open_issues": 62,
             "owner": "opendatacam",
             "repo": "opendatacam",
-            "stars": 1726,
+            "stars": 1727,
             "topics": [
               "camera",
               "computer-vision",
@@ -354,7 +354,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "Bicycle Master Plan is a bike map that allows visualizing cycling related data from different sources in multiple layers. Built heavily around data from OpenStreetMap, it allows full visual customization using CSS.",
+            "description": "Bicycle Master Plan is a map tool that allows visualizing data from different sources in multiple layers. It supports navigation with SpeechSynthesis API. Built heavily around data from OpenStreetMap with full visual styling via CSS.",
             "homepage": "https://mapa.cyklokoalicia.sk/bratislava/public/",
             "id": 176778316,
             "language": "JavaScript",
@@ -380,8 +380,8 @@
               "maps",
               "mapserver",
               "markers",
+              "navigation",
               "openstreetmap",
-              "openstreetmaps",
               "osm",
               "overpass-api",
               "overpass-turbo"
@@ -885,7 +885,7 @@
             "open_issues": 62,
             "owner": "opendatacam",
             "repo": "opendatacam",
-            "stars": 1726,
+            "stars": 1727,
             "topics": [
               "camera",
               "computer-vision",
@@ -1041,7 +1041,7 @@
                     "open_issues": 9,
                     "owner": "remisalmon",
                     "repo": "Strava-local-heatmap",
-                    "stars": 181,
+                    "stars": 182,
                     "topics": [
                       "cycling",
                       "gps",
@@ -1211,7 +1211,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T17:52:45.052Z",
+    "last_updated": "2026-09-28T20:10:45.103Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome projects around the bicycle 🚲",

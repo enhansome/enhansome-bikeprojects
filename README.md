@@ -26,7 +26,7 @@ Jump to
 
 ## Projects
 
-* [Verkehrszählung mit Open-Source-Tool OpenDataCam](https://www.heise.de/make/meldung/Open-Source-Tool-macht-Verkehrszaehlungen-einfacher-4517810.html) - Wie viele Autos, Fahrräder oder Schafe täglich die Straße nutzen, lässt sich mit der OpenDataCam ermitteln. Das Tool gibt es nun in Version 3.0. [Github](https://github.com/opendatacam/opendatacam) ⭐ 1,726 | 🐛 62 | 🌐 JavaScript | 📅 2026-04-23
+* [Verkehrszählung mit Open-Source-Tool OpenDataCam](https://www.heise.de/make/meldung/Open-Source-Tool-macht-Verkehrszaehlungen-einfacher-4517810.html) - Wie viele Autos, Fahrräder oder Schafe täglich die Straße nutzen, lässt sich mit der OpenDataCam ermitteln. Das Tool gibt es nun in Version 3.0. [Github](https://github.com/opendatacam/opendatacam) ⭐ 1,727 | 🐛 62 | 🌐 JavaScript | 📅 2026-04-23
 
 * [Streetmix](https://streetmix.net) - Design, remix and share your street. Add cycle paths, widen sidewalks or lanes, and find out how that affects your community ([source code](https://github.com/streetmix/streetmix) ⭐ 745 | 🐛 209 | 🌐 TypeScript | 📅 2026-09-24).
 
@@ -184,7 +184,7 @@ Jump to
 
 ## Verkehrszählung
 
-* [Open Data Cam](https://opendata.cam) - 'Open Data Cam' is a tool that helps to quantify the world. The best thing about it: You can make it yourself! With computer vision 'Open Data Cam' understands and quantifies what it sees. The simple setup allows everybody to become an urban data miner. [Github](https://github.com/opendatacam/opendatacam) ⭐ 1,726 | 🐛 62 | 🌐 JavaScript | 📅 2026-04-23
+* [Open Data Cam](https://opendata.cam) - 'Open Data Cam' is a tool that helps to quantify the world. The best thing about it: You can make it yourself! With computer vision 'Open Data Cam' understands and quantifies what it sees. The simple setup allows everybody to become an urban data miner. [Github](https://github.com/opendatacam/opendatacam) ⭐ 1,727 | 🐛 62 | 🌐 JavaScript | 📅 2026-04-23
 * [Telraam](https://telraam.net/) Verkehrszählungen (lokal und per Netzwerk/Karte) per Raspberrry Pi, Kamera und Software
   * <https://github.com/CargoBikoMeter/WZePaperDisplay> ⭐ 5 | 🐛 1 | 🌐 C++ | 📅 2023-01-12 e-Paper based mobility data display. "WZ" in "WZePaperDisplay" means "Wir Zählen".
   * [Karte/Map](https://telraam.net/en)
@@ -245,7 +245,7 @@ Jump to
   * <https://fragdenstaat.de/anfrage/bundeseinheitlicher-tatbestandskatalog-bt-kat-owi-in-maschinenlesbarer-form/>
   * Datei (ods mit "^" als Feldtrenner) <https://fragdenstaat.de/files/foi/499093/bet_datenbank_18052020_txt.asc?download>
 * <https://natenom.de/> Natenoms († 30.01.2024) Blog – mit vielen interessanten Beiträgen.
-  * <https://natenom.de/2023/06/eine-headmap-aus-gpx-dateien-erstellen-mit-einem-python-tool/> Eine Heatmap aus GPX-Daten erstellen (Python) <https://github.com/remisalmon/Strava-local-heatmap> ⭐ 181 | 🐛 9 | 🌐 Python | 📅 2024-02-02
+  * <https://natenom.de/2023/06/eine-headmap-aus-gpx-dateien-erstellen-mit-einem-python-tool/> Eine Heatmap aus GPX-Daten erstellen (Python) <https://github.com/remisalmon/Strava-local-heatmap> ⭐ 182 | 🐛 9 | 🌐 Python | 📅 2024-02-02
   * Auswahl:
 
 ### Global
@@ -349,4 +349,4 @@ von Markenherstellern
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-28._
