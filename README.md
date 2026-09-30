@@ -26,7 +26,7 @@ Jump to
 
 ## Projects
 
-* [Verkehrszählung mit Open-Source-Tool OpenDataCam](https://www.heise.de/make/meldung/Open-Source-Tool-macht-Verkehrszaehlungen-einfacher-4517810.html) - Wie viele Autos, Fahrräder oder Schafe täglich die Straße nutzen, lässt sich mit der OpenDataCam ermitteln. Das Tool gibt es nun in Version 3.0. [Github](https://github.com/opendatacam/opendatacam) ⭐ 1,727 | 🐛 62 | 🌐 JavaScript | 📅 2026-04-23
+* [Verkehrszählung mit Open-Source-Tool OpenDataCam](https://www.heise.de/make/meldung/Open-Source-Tool-macht-Verkehrszaehlungen-einfacher-4517810.html) - Wie viele Autos, Fahrräder oder Schafe täglich die Straße nutzen, lässt sich mit der OpenDataCam ermitteln. Das Tool gibt es nun in Version 3.0. [Github](https://github.com/opendatacam/opendatacam) ⭐ 1,728 | 🐛 62 | 🌐 JavaScript | 📅 2026-04-23
 
 * [Streetmix](https://streetmix.net) - Design, remix and share your street. Add cycle paths, widen sidewalks or lanes, and find out how that affects your community ([source code](https://github.com/streetmix/streetmix) ⭐ 745 | 🐛 211 | 🌐 TypeScript | 📅 2026-09-29).
 
@@ -40,7 +40,7 @@ Jump to
 
 * [bikedata](https://github.com/ropensci/bikedata) ⭐ 80 | 🐛 19 | 🌐 R | 📅 2026-06-25 - R package to extract data from public hire bicycle systems.
 
-* [CommonsBooking](https://github.com/wielebenwir/commonsbooking) ⭐ 57 | 🐛 166 | 🌐 PHP | 📅 2026-09-27 - A Wordpress plugin for management and booking of commons goods especially cargo bikes.
+* [CommonsBooking](https://github.com/wielebenwir/commonsbooking) ⭐ 57 | 🐛 168 | 🌐 PHP | 📅 2026-09-30 - A Wordpress plugin for management and booking of commons goods especially cargo bikes.
 
 * [OSM Conflator](https://github.com/mapsme/osm_conflate) ⭐ 48 | 🐛 9 | 🌐 Python | 📅 2021-02-01. This is a script for merging points from some third-party source with OpenStreetMap data. After merging and uploading, the data can be updated.
 
@@ -184,7 +184,7 @@ Jump to
 
 ## Verkehrszählung
 
-* [Open Data Cam](https://opendata.cam) - 'Open Data Cam' is a tool that helps to quantify the world. The best thing about it: You can make it yourself! With computer vision 'Open Data Cam' understands and quantifies what it sees. The simple setup allows everybody to become an urban data miner. [Github](https://github.com/opendatacam/opendatacam) ⭐ 1,727 | 🐛 62 | 🌐 JavaScript | 📅 2026-04-23
+* [Open Data Cam](https://opendata.cam) - 'Open Data Cam' is a tool that helps to quantify the world. The best thing about it: You can make it yourself! With computer vision 'Open Data Cam' understands and quantifies what it sees. The simple setup allows everybody to become an urban data miner. [Github](https://github.com/opendatacam/opendatacam) ⭐ 1,728 | 🐛 62 | 🌐 JavaScript | 📅 2026-04-23
 * [Telraam](https://telraam.net/) Verkehrszählungen (lokal und per Netzwerk/Karte) per Raspberrry Pi, Kamera und Software
   * <https://github.com/CargoBikoMeter/WZePaperDisplay> ⭐ 5 | 🐛 1 | 🌐 C++ | 📅 2023-01-12 e-Paper based mobility data display. "WZ" in "WZePaperDisplay" means "Wir Zählen".
   * [Karte/Map](https://telraam.net/en)
@@ -250,7 +250,7 @@ Jump to
 
 ### Global
 
-* [Mobility Data Specification](https://github.com/CityOfLosAngeles/mobility-data-specification) ⭐ 747 | 🐛 24 | 📅 2026-09-09 - A data standard and API specification for mobility as a service providers, such as Dockless Bikeshare, E-Scooters, and Shared Ride providers who work within the public right of way. Developed by the City of Los Angeles.
+* [Mobility Data Specification](https://github.com/CityOfLosAngeles/mobility-data-specification) ⭐ 749 | 🐛 24 | 📅 2026-09-09 - A data standard and API specification for mobility as a service providers, such as Dockless Bikeshare, E-Scooters, and Shared Ride providers who work within the public right of way. Developed by the City of Los Angeles.
 * [The Arrogance of Space Mapping Tool](https://cyklokoalicia.sk/arrogance/) - Upload an aerial or satellite photo from your city - an intersection or neighbourhood - and start mapping how much space is allocated to cars, pedestrians and bikes. See also <https://twitter.com/colvilleandersn/status/1197537645657829379> and <https://medium.com/@colville_andersen/the-arrogance-of-space-93a7419b0278>
 
 ## Bicycle Gear Calculator (Ritzelrechner)
@@ -349,4 +349,4 @@ von Markenherstellern
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-30._

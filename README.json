@@ -19,7 +19,7 @@
             "open_issues": 62,
             "owner": "opendatacam",
             "repo": "opendatacam",
-            "stars": 1727,
+            "stars": 1728,
             "topics": [
               "camera",
               "computer-vision",
@@ -211,8 +211,8 @@
             "id": 253730181,
             "language": "PHP",
             "license": "GPL-2.0",
-            "last_commit": "2026-09-27T15:52:45Z",
-            "open_issues": 166,
+            "last_commit": "2026-09-30T16:57:50Z",
+            "open_issues": 168,
             "owner": "wielebenwir",
             "repo": "commonsbooking",
             "stars": 57,
@@ -885,7 +885,7 @@
             "open_issues": 62,
             "owner": "opendatacam",
             "repo": "opendatacam",
-            "stars": 1727,
+            "stars": 1728,
             "topics": [
               "camera",
               "computer-vision",
@@ -1078,7 +1078,7 @@
                 "open_issues": 24,
                 "owner": "openmobilityfoundation",
                 "repo": "mobility-data-specification",
-                "stars": 747,
+                "stars": 749,
                 "topics": [
                   "autonomous-vehicles",
                   "bike-share",
@@ -1211,7 +1211,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T18:46:21.648Z",
+    "last_updated": "2026-09-30T18:30:22.997Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome projects around the bicycle 🚲",
