@@ -2,7 +2,7 @@
 
 # Awesome About with stars
 
-A curated list of awesome bike and traffic ("#Verkehrswende") projects including bike sport, commuting, open data, data visualization, data analytics, data journalism, urban planing, crowdsourcing. There is no pre-established order of items in each category, the order is for contribution. If you want to contribute, please read the [guide](https://github.com/mltbnz/awesome-bikeprojects/blob/master/CONTRIBUTING.md) ⭐ 205 | 🐛 5 | 📅 2026-04-15.
+A curated list of awesome bike and traffic ("#Verkehrswende") projects including bike sport, commuting, open data, data visualization, data analytics, data journalism, urban planing, crowdsourcing. There is no pre-established order of items in each category, the order is for contribution. If you want to contribute, please read the [guide](https://github.com/mltbnz/awesome-bikeprojects/blob/master/CONTRIBUTING.md).
 
 Jump to
 
@@ -349,4 +349,4 @@ von Markenherstellern
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._

@@ -278,7 +278,7 @@
         {
           "node_type": "item",
           "title": "OSM Bike Ottawa Tagging Guide",
-          "description": null,
+          "description": "BikeOttawa/OSM-Bike-Ottawa-Tagging-Guide",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -524,7 +524,7 @@
         {
           "node_type": "item",
           "title": "Deshaking videos",
-          "description": null,
+          "description": "Wikinaut/utils",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -664,7 +664,7 @@
             {
               "node_type": "item",
               "title": "simra-project/simra-ios",
-              "description": null,
+              "description": "simra-project/simra-ios",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -692,7 +692,7 @@
             {
               "node_type": "item",
               "title": "Github: Android Backend",
-              "description": null,
+              "description": "cyface-de/android-backend",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -724,7 +724,7 @@
             {
               "node_type": "item",
               "title": "stefanw/verkehrsunfallstatistik",
-              "description": null,
+              "description": "stefanw/verkehrsunfallstatistik",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -752,7 +752,7 @@
             {
               "node_type": "item",
               "title": "nrenner/brouter-web",
-              "description": null,
+              "description": "nrenner/brouter-web",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -780,7 +780,7 @@
             {
               "node_type": "item",
               "title": "KenEucker/biketag-vue",
-              "description": null,
+              "description": "KenEucker/biketag-vue",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -815,7 +815,7 @@
             {
               "node_type": "item",
               "title": "Wikinaut/bowi",
-              "description": null,
+              "description": "Wikinaut/bowi",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -843,7 +843,7 @@
             {
               "node_type": "item",
               "title": "komaspieler/owianzeige",
-              "description": null,
+              "description": "komaspieler/owianzeige",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -943,7 +943,7 @@
             {
               "node_type": "item",
               "title": "Wikinaut/tally",
-              "description": null,
+              "description": "Wikinaut/tally",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1127,7 +1127,7 @@
                     {
                       "node_type": "item",
                       "title": "pageauc/speed-camera",
-                      "description": null,
+                      "description": "pageauc/speed-camera",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -1211,7 +1211,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T18:34:54.301Z",
+    "last_updated": "2026-10-03T04:34:46.902Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome projects around the bicycle 🚲",
