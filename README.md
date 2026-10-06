@@ -26,7 +26,7 @@ Jump to
 
 ## Projects
 
-* [Verkehrszählung mit Open-Source-Tool OpenDataCam](https://www.heise.de/make/meldung/Open-Source-Tool-macht-Verkehrszaehlungen-einfacher-4517810.html) - Wie viele Autos, Fahrräder oder Schafe täglich die Straße nutzen, lässt sich mit der OpenDataCam ermitteln. Das Tool gibt es nun in Version 3.0. [Github](https://github.com/opendatacam/opendatacam) ⭐ 1,729 | 🐛 62 | 🌐 JavaScript | 📅 2026-04-23
+* [Verkehrszählung mit Open-Source-Tool OpenDataCam](https://www.heise.de/make/meldung/Open-Source-Tool-macht-Verkehrszaehlungen-einfacher-4517810.html) - Wie viele Autos, Fahrräder oder Schafe täglich die Straße nutzen, lässt sich mit der OpenDataCam ermitteln. Das Tool gibt es nun in Version 3.0. [Github](https://github.com/opendatacam/opendatacam) ⭐ 1,730 | 🐛 62 | 🌐 JavaScript | 📅 2026-04-23
 
 * [Streetmix](https://streetmix.net) - Design, remix and share your street. Add cycle paths, widen sidewalks or lanes, and find out how that affects your community ([source code](https://github.com/streetmix/streetmix) ⭐ 746 | 🐛 210 | 🌐 TypeScript | 📅 2026-10-06).
 
@@ -54,7 +54,7 @@ Jump to
 
 * [Bicycle Master Plan](https://github.com/nekromoff/bicycle-master-plan) ⭐ 12 | 🐛 2 | 🌐 JavaScript | 📅 2026-09-17 - A tool / web app for displaying various bicycle infrastructure related data on a map
 
-* [Sternfahrtplaner](https://github.com/SebastianHanfland/RallyGPXMerger) ⭐ 10 | 🐛 11 | 🌐 TypeScript | 📅 2026-09-10 - A web tool to plan, publish and register simple bike demonstrations as well as complex rallies, with multiple start points and one destination (in German called Sternfahrt, like star rally). The web tool is hosted under [www.sternfahrtplaner.de](https://www.sternfahrtplaner.de/).
+* [Sternfahrtplaner](https://github.com/SebastianHanfland/RallyGPXMerger) ⭐ 10 | 🐛 12 | 🌐 TypeScript | 📅 2026-10-06 - A web tool to plan, publish and register simple bike demonstrations as well as complex rallies, with multiple start points and one destination (in German called Sternfahrt, like star rally). The web tool is hosted under [www.sternfahrtplaner.de](https://www.sternfahrtplaner.de/).
 
 * [Byke](https://github.com/schienenersatzverkehr/byke) ⭐ 8 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2019-12-02: This project explores the feasability of quantifying the bicycle lane surface roughness using an accelerometer
 
@@ -184,7 +184,7 @@ Jump to
 
 ## Verkehrszählung
 
-* [Open Data Cam](https://opendata.cam) - 'Open Data Cam' is a tool that helps to quantify the world. The best thing about it: You can make it yourself! With computer vision 'Open Data Cam' understands and quantifies what it sees. The simple setup allows everybody to become an urban data miner. [Github](https://github.com/opendatacam/opendatacam) ⭐ 1,729 | 🐛 62 | 🌐 JavaScript | 📅 2026-04-23
+* [Open Data Cam](https://opendata.cam) - 'Open Data Cam' is a tool that helps to quantify the world. The best thing about it: You can make it yourself! With computer vision 'Open Data Cam' understands and quantifies what it sees. The simple setup allows everybody to become an urban data miner. [Github](https://github.com/opendatacam/opendatacam) ⭐ 1,730 | 🐛 62 | 🌐 JavaScript | 📅 2026-04-23
 * [Telraam](https://telraam.net/) Verkehrszählungen (lokal und per Netzwerk/Karte) per Raspberrry Pi, Kamera und Software
   * <https://github.com/CargoBikoMeter/WZePaperDisplay> ⭐ 5 | 🐛 1 | 🌐 C++ | 📅 2023-01-12 e-Paper based mobility data display. "WZ" in "WZePaperDisplay" means "Wir Zählen".
   * [Karte/Map](https://telraam.net/en)
