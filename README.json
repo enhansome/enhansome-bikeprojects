@@ -80,7 +80,7 @@
             "open_issues": 33,
             "owner": "eskerda",
             "repo": "pybikes",
-            "stars": 606,
+            "stars": 607,
             "topics": []
           },
           "first_seen": "2026-08-28T23:07:55.075Z"
@@ -211,8 +211,8 @@
             "id": 253730181,
             "language": "PHP",
             "license": "GPL-2.0",
-            "last_commit": "2026-10-07T18:15:34Z",
-            "open_issues": 163,
+            "last_commit": "2026-10-08T12:29:35Z",
+            "open_issues": 165,
             "owner": "wielebenwir",
             "repo": "commonsbooking",
             "stars": 57,
@@ -312,7 +312,7 @@
             "open_issues": 0,
             "owner": "firefly-cpp",
             "repo": "sport-activities-features",
-            "stars": 22,
+            "stars": 23,
             "topics": [
               "data-mining",
               "machine-learning",
@@ -1140,7 +1140,7 @@
                         "open_issues": 20,
                         "owner": "pageauc",
                         "repo": "speed-camera",
-                        "stars": 1108,
+                        "stars": 1109,
                         "topics": [
                           "matplotlib-pyplot",
                           "motion-tracking",
@@ -1211,7 +1211,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T19:25:58.640Z",
+    "last_updated": "2026-10-08T19:20:49.849Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome projects around the bicycle 🚲",
