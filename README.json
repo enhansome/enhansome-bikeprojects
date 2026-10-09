@@ -1140,7 +1140,7 @@
                         "open_issues": 20,
                         "owner": "pageauc",
                         "repo": "speed-camera",
-                        "stars": 1109,
+                        "stars": 1110,
                         "topics": [
                           "matplotlib-pyplot",
                           "motion-tracking",
@@ -1211,7 +1211,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T19:20:49.849Z",
+    "last_updated": "2026-10-09T18:54:19.729Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome projects around the bicycle 🚲",

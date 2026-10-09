@@ -298,7 +298,7 @@ von Markenherstellern
 #### [No. 4 - 19.06.2019, CityLab](https://www.meetup.com/de-DE/Datacycle-Meetup-Fahrraddaten-fur-Berlin/events/262280570/)
 
 * Moritz Metz – selbst durchgeführten Geschwindigkeitsmessungen am "Friedel-Speedway"
-  * <https://github.com/pageauc/speed-camera> ⭐ 1,109 | 🐛 20 | 🌐 Python | 📅 2026-09-23
+  * <https://github.com/pageauc/speed-camera> ⭐ 1,110 | 🐛 20 | 🌐 Python | 📅 2026-09-23
   * [Blogpost](https://fahrradfreundliches-neukoelln.de/blog/neukoellner-friedelspeedway)
   * [Moritz' eigene Messdaten (Google Docs)](https://docs.google.com/spreadsheets/d/1gKip7CnoZp2_j6kxtpKJqL_ge3OTGbvFXNo2uK8GUdo/edit#gid=1095001652)
   * PDF Messdaten Bezirk Neukölln, <http://moritzmetz.de/upload/friedelspeed-geschwindigkeitsmessungen-bezirk.pdf>
@@ -349,4 +349,4 @@ von Markenherstellern
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._
