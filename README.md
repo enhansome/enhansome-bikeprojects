@@ -40,7 +40,7 @@ Jump to
 
 * [bikedata](https://github.com/ropensci/bikedata) ⭐ 80 | 🐛 19 | 🌐 R | 📅 2026-06-25 - R package to extract data from public hire bicycle systems.
 
-* [CommonsBooking](https://github.com/wielebenwir/commonsbooking) ⭐ 57 | 🐛 166 | 🌐 PHP | 📅 2026-10-12 - A Wordpress plugin for management and booking of commons goods especially cargo bikes.
+* [CommonsBooking](https://github.com/wielebenwir/commonsbooking) ⭐ 57 | 🐛 147 | 🌐 PHP | 📅 2026-10-13 - A Wordpress plugin for management and booking of commons goods especially cargo bikes.
 
 * [OSM Conflator](https://github.com/mapsme/osm_conflate) ⭐ 48 | 🐛 9 | 🌐 Python | 📅 2021-02-01. This is a script for merging points from some third-party source with OpenStreetMap data. After merging and uploading, the data can be updated.
 
@@ -76,7 +76,7 @@ Jump to
   ffmpeg -i input.mp4 -vf vidstabtransform=crop=black:smoothing=20,unsharp=5:5:0.8:3:3:0.4 output.mp4   
   ```
 
-* [AST-Monitor](https://github.com/firefly-cpp/AST-Monitor) ⭐ 6 | 🐛 7 | 🌐 Python | 📅 2026-10-10 - A wearable Raspberry Pi computer for cyclists
+* [AST-Monitor](https://github.com/firefly-cpp/AST-Monitor) ⭐ 6 | 🐛 8 | 🌐 Python | 📅 2026-10-13 - A wearable Raspberry Pi computer for cyclists
 
 * [Regenampel](https://regenampel.de/) | [GitHub](https://github.com/jonnyschaefer/radolan) ⭐ 6 | 🐛 2 | 🌐 Go | 📅 2022-09-21 - A web app that tells you when you need to set off on your bike so you arrive without getting wet.
 
@@ -127,7 +127,7 @@ Jump to
 * [BBBike](http://www.bbbike.de/cgi-bin/bbbike.cgi) - A route-finder for cyclists in Berlin and Brandenburg. Developed since 1996 (10 years before the first release of Google Maps!) and still very useful due to own quality attributes like surface, number of traffic lights etc. that are not available in OSM or Google Maps.
 
 * [Bikerouter](https://bikerouter.de) - Web client for BRouter, a routing engine based on OpenStreetMap.
-  * [GitHub](https://github.com/nrenner/brouter-web) ⭐ 501 | 🐛 205 | 🌐 JavaScript | 📅 2026-10-05
+  * [GitHub](https://github.com/nrenner/brouter-web) ⭐ 501 | 🐛 205 | 🌐 JavaScript | 📅 2026-10-13
   * [Website](https://bikerouter.de)
 
 * MotionTag - App for [Android](https://play.google.com/store/apps/details?id=de.motiontag.motiontag\&hl=de) and [iOS](https://itunes.apple.com/de/app/motiontag/id1083164072) tracking your mobility behavior automatically offering reports with modal split and CO2 emission. Based on their [mobility analysis platform](https://www.motion-tag.com/en/mobility/).  (Closed source, disadvantage: no API for consumers to get your own data)
@@ -349,4 +349,4 @@ von Markenherstellern
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-13._
