@@ -80,7 +80,7 @@
             "open_issues": 34,
             "owner": "eskerda",
             "repo": "pybikes",
-            "stars": 607,
+            "stars": 608,
             "topics": []
           },
           "first_seen": "2026-08-28T23:07:55.075Z"
@@ -211,8 +211,8 @@
             "id": 253730181,
             "language": "PHP",
             "license": "GPL-2.0",
-            "last_commit": "2026-10-14T15:51:06Z",
-            "open_issues": 147,
+            "last_commit": "2026-10-15T13:29:55Z",
+            "open_issues": 146,
             "owner": "wielebenwir",
             "repo": "commonsbooking",
             "stars": 57,
@@ -308,8 +308,8 @@
             "id": 316730912,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-10T00:17:50Z",
-            "open_issues": 1,
+            "last_commit": "2026-10-15T12:40:25Z",
+            "open_issues": 0,
             "owner": "firefly-cpp",
             "repo": "sport-activities-features",
             "stars": 23,
@@ -1073,7 +1073,7 @@
                 "homepage": "https://www.openmobilityfoundation.org/about-mds/",
                 "id": 132033870,
                 "language": null,
-                "license": "NOASSERTION",
+                "license": "CC0-1.0",
                 "last_commit": "2026-09-09T19:28:12Z",
                 "open_issues": 27,
                 "owner": "openmobilityfoundation",
@@ -1140,7 +1140,7 @@
                         "open_issues": 20,
                         "owner": "pageauc",
                         "repo": "speed-camera",
-                        "stars": 1110,
+                        "stars": 1112,
                         "topics": [
                           "matplotlib-pyplot",
                           "motion-tracking",
@@ -1211,7 +1211,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T18:06:19.736Z",
+    "last_updated": "2026-10-15T17:49:49.177Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome projects around the bicycle 🚲",
