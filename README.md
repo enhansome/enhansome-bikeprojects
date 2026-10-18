@@ -40,7 +40,7 @@ Jump to
 
 * [bikedata](https://github.com/ropensci/bikedata) ⭐ 80 | 🐛 19 | 🌐 R | 📅 2026-06-25 - R package to extract data from public hire bicycle systems.
 
-* [CommonsBooking](https://github.com/wielebenwir/commonsbooking) ⭐ 57 | 🐛 147 | 🌐 PHP | 📅 2026-10-16 - A Wordpress plugin for management and booking of commons goods especially cargo bikes.
+* [CommonsBooking](https://github.com/wielebenwir/commonsbooking) ⭐ 57 | 🐛 152 | 🌐 PHP | 📅 2026-10-18 - A Wordpress plugin for management and booking of commons goods especially cargo bikes.
 
 * [OSM Conflator](https://github.com/mapsme/osm_conflate) ⭐ 48 | 🐛 9 | 🌐 Python | 📅 2021-02-01. This is a script for merging points from some third-party source with OpenStreetMap data. After merging and uploading, the data can be updated.
 
@@ -139,7 +139,7 @@ Jump to
     ![grafik](https://user-images.githubusercontent.com/1151915/187042815-bd585220-23c7-4852-a073-c46b95bb41eb.png)
 
 * BikeTag - A photo mystery tag game on bicycles, completely open-source and free to play forever, written in TypeScript and VueJs.
-  * [GitHub](https://github.com/keneucker/biketag-vue) ⭐ 28 | 🐛 38 | 🌐 TypeScript | 📅 2026-07-30
+  * [GitHub](https://github.com/keneucker/biketag-vue) ⭐ 28 | 🐛 37 | 🌐 TypeScript | 📅 2026-07-30
   * [Website](https://biketag.org)
   * [About](https://biketag.bike)
 
@@ -250,7 +250,7 @@ Jump to
 
 ### Global
 
-* [Mobility Data Specification](https://github.com/CityOfLosAngeles/mobility-data-specification) ⭐ 749 | 🐛 27 | 📅 2026-09-09 - A data standard and API specification for mobility as a service providers, such as Dockless Bikeshare, E-Scooters, and Shared Ride providers who work within the public right of way. Developed by the City of Los Angeles.
+* [Mobility Data Specification](https://github.com/CityOfLosAngeles/mobility-data-specification) ⭐ 750 | 🐛 27 | 📅 2026-09-09 - A data standard and API specification for mobility as a service providers, such as Dockless Bikeshare, E-Scooters, and Shared Ride providers who work within the public right of way. Developed by the City of Los Angeles.
 * [The Arrogance of Space Mapping Tool](https://cyklokoalicia.sk/arrogance/) - Upload an aerial or satellite photo from your city - an intersection or neighbourhood - and start mapping how much space is allocated to cars, pedestrians and bikes. See also <https://twitter.com/colvilleandersn/status/1197537645657829379> and <https://medium.com/@colville_andersen/the-arrogance-of-space-93a7419b0278>
 
 ## Bicycle Gear Calculator (Ritzelrechner)
@@ -349,4 +349,4 @@ von Markenherstellern
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-18._
