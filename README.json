@@ -211,7 +211,7 @@
             "id": 253730181,
             "language": "PHP",
             "license": "GPL-2.0",
-            "last_commit": "2026-10-20T16:46:53Z",
+            "last_commit": "2026-10-21T13:08:43Z",
             "open_issues": 150,
             "owner": "wielebenwir",
             "repo": "commonsbooking",
@@ -765,7 +765,7 @@
                 "open_issues": 205,
                 "owner": "nrenner",
                 "repo": "brouter-web",
-                "stars": 501,
+                "stars": 502,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:07:55.075Z"
@@ -789,8 +789,8 @@
                 "id": 327574065,
                 "language": "TypeScript",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-20T17:59:17Z",
-                "open_issues": 37,
+                "last_commit": "2026-10-20T18:29:13Z",
+                "open_issues": 36,
                 "owner": "KenEucker",
                 "repo": "biketag-vue",
                 "stars": 28,
@@ -1211,7 +1211,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T18:03:19.357Z",
+    "last_updated": "2026-10-21T18:09:32.499Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome projects around the bicycle 🚲",
