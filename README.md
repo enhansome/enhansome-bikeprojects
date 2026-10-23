@@ -28,7 +28,7 @@ Jump to
 
 * [Verkehrszählung mit Open-Source-Tool OpenDataCam](https://www.heise.de/make/meldung/Open-Source-Tool-macht-Verkehrszaehlungen-einfacher-4517810.html) - Wie viele Autos, Fahrräder oder Schafe täglich die Straße nutzen, lässt sich mit der OpenDataCam ermitteln. Das Tool gibt es nun in Version 3.0. [Github](https://github.com/opendatacam/opendatacam) ⭐ 1,732 | 🐛 62 | 🌐 JavaScript | 📅 2026-04-23
 
-* [Streetmix](https://streetmix.net) - Design, remix and share your street. Add cycle paths, widen sidewalks or lanes, and find out how that affects your community ([source code](https://github.com/streetmix/streetmix) ⭐ 749 | 🐛 210 | 🌐 TypeScript | 📅 2026-10-22).
+* [Streetmix](https://streetmix.net) - Design, remix and share your street. Add cycle paths, widen sidewalks or lanes, and find out how that affects your community ([source code](https://github.com/streetmix/streetmix) ⭐ 749 | 🐛 209 | 🌐 TypeScript | 📅 2026-10-23).
 
 * [CityBikes](https://citybik.es/) - Visualizations and APIs for many bike sharing systems around the globe ([source code](https://github.com/eskerda/pybikes) ⭐ 609 | 🐛 34 | 🌐 Python | 📅 2026-10-20).
 
@@ -349,4 +349,4 @@ von Markenherstellern
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-23._
