@@ -48,7 +48,7 @@
             "id": 7708819,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-23T07:43:20Z",
+            "last_commit": "2026-10-24T07:38:41Z",
             "open_issues": 209,
             "owner": "streetmix",
             "repo": "streetmix",
@@ -77,7 +77,7 @@
             "language": "Python",
             "license": "AGPL-3.0",
             "last_commit": "2026-10-20T14:47:17Z",
-            "open_issues": 34,
+            "open_issues": 35,
             "owner": "eskerda",
             "repo": "pybikes",
             "stars": 609,
@@ -789,7 +789,7 @@
                 "id": 327574065,
                 "language": "TypeScript",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-20T18:29:13Z",
+                "last_commit": "2026-10-24T07:50:06Z",
                 "open_issues": 36,
                 "owner": "KenEucker",
                 "repo": "biketag-vue",
@@ -1211,7 +1211,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T17:55:14.498Z",
+    "last_updated": "2026-10-24T16:46:26.533Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome projects around the bicycle 🚲",
