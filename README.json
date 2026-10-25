@@ -211,8 +211,8 @@
             "id": 253730181,
             "language": "PHP",
             "license": "GPL-2.0",
-            "last_commit": "2026-10-21T13:08:43Z",
-            "open_issues": 150,
+            "last_commit": "2026-10-25T15:53:30Z",
+            "open_issues": 152,
             "owner": "wielebenwir",
             "repo": "commonsbooking",
             "stars": 57,
@@ -401,8 +401,8 @@
             "id": 705637013,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-11T10:55:42Z",
-            "open_issues": 13,
+            "last_commit": "2026-10-25T16:40:35Z",
+            "open_issues": 0,
             "owner": "SebastianHanfland",
             "repo": "RallyGPXMerger",
             "stars": 10,
@@ -789,7 +789,7 @@
                 "id": 327574065,
                 "language": "TypeScript",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-24T07:50:06Z",
+                "last_commit": "2026-10-24T18:54:29Z",
                 "open_issues": 36,
                 "owner": "KenEucker",
                 "repo": "biketag-vue",
@@ -1041,7 +1041,7 @@
                     "open_issues": 9,
                     "owner": "remisalmon",
                     "repo": "Strava-local-heatmap",
-                    "stars": 182,
+                    "stars": 183,
                     "topics": [
                       "cycling",
                       "gps",
@@ -1211,7 +1211,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T16:46:26.533Z",
+    "last_updated": "2026-10-25T17:08:25.260Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome projects around the bicycle 🚲",
@@ -1219,8 +1219,8 @@
       "id": 154454160,
       "language": null,
       "license": "MIT",
-      "last_commit": "2026-04-15T17:50:36Z",
-      "open_issues": 6,
+      "last_commit": "2026-10-25T08:23:39Z",
+      "open_issues": 5,
       "owner": "mltbnz",
       "repo": "awesome-bikeprojects",
       "stars": 204,
@@ -1236,7 +1236,7 @@
         "visualization"
       ]
     },
-    "original_repository_sha": "a6de98dc95e57e19d8cdb39ce3c0543c5933eb57",
+    "original_repository_sha": "85d9494e19c1e83e997ee4af43531acdba09e999",
     "enhanced_repository": "enhansome/enhansome-bikeprojects",
     "enhanced_repository_description": null,
     "title": "Awesome About with stars"

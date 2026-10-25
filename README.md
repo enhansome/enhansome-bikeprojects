@@ -40,7 +40,7 @@ Jump to
 
 * [bikedata](https://github.com/ropensci/bikedata) ⭐ 80 | 🐛 19 | 🌐 R | 📅 2026-06-25 - R package to extract data from public hire bicycle systems.
 
-* [CommonsBooking](https://github.com/wielebenwir/commonsbooking) ⭐ 57 | 🐛 150 | 🌐 PHP | 📅 2026-10-21 - A Wordpress plugin for management and booking of commons goods especially cargo bikes.
+* [CommonsBooking](https://github.com/wielebenwir/commonsbooking) ⭐ 57 | 🐛 152 | 🌐 PHP | 📅 2026-10-25 - A Wordpress plugin for management and booking of commons goods especially cargo bikes.
 
 * [OSM Conflator](https://github.com/mapsme/osm_conflate) ⭐ 48 | 🐛 9 | 🌐 Python | 📅 2021-02-01. This is a script for merging points from some third-party source with OpenStreetMap data. After merging and uploading, the data can be updated.
 
@@ -54,7 +54,7 @@ Jump to
 
 * [Bicycle Master Plan](https://github.com/nekromoff/bicycle-master-plan) ⭐ 12 | 🐛 2 | 🌐 JavaScript | 📅 2026-09-17 - A tool / web app for displaying various bicycle infrastructure related data on a map
 
-* [Sternfahrtplaner](https://github.com/SebastianHanfland/RallyGPXMerger) ⭐ 10 | 🐛 13 | 🌐 TypeScript | 📅 2026-10-11 - A web tool to plan, publish and register simple bike demonstrations as well as complex rallies, with multiple start points and one destination (in German called Sternfahrt, like star rally). The web tool is hosted under [www.sternfahrtplaner.de](https://www.sternfahrtplaner.de/).
+* [Sternfahrtplaner](https://github.com/SebastianHanfland/RallyGPXMerger) ⭐ 10 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-25 - A web tool to plan, publish and register simple bike demonstrations as well as complex rallies, with multiple start points and one destination (in German called Sternfahrt, like star rally). The web tool is hosted under [www.sternfahrtplaner.de](https://www.sternfahrtplaner.de/).
 
 * [Byke](https://github.com/schienenersatzverkehr/byke) ⭐ 8 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2019-12-02: This project explores the feasability of quantifying the bicycle lane surface roughness using an accelerometer
 
@@ -89,6 +89,8 @@ Jump to
 * [Radmesser](https://interaktiv.tagesspiegel.de/radmesser/index.html) - The Tagesspiegel, together with physicists, experts in artificial intelligence and designers, has developed its own sensor to find out how close car and bicycle drivers are in Berlin's city traffic.
 
 * [Openbikesensor](https://zweirat-stuttgart.de/projekte/openbikesensor/) - Following the example of the Radmesser, the OpenBikeSensor was created in Stuttgart at the Zweirat. The Radmesser is a project from the Tagesspiegel in Berlin; a small technical device on the bike that measures the distance from overtaking cars while driving. Since this is not only a problem in Berlin, but also here in Stuttgart, we want to take care of it!
+
+* \[Radar-Speedgun] (<https://github.com/zjuergen66/RadarSpeedgun-HLK-LD2415H)/>) - Simple OpenSource DIY project to measure and display speed of passing vehicles or persons, built around a radar  based speed sensor.
 
 * [fixmyberlin](https://fixmyberlin.de/planungen) - The Berlin-based FixMyBerlin project analyzes all major roads in the city according to their cycling infrastructure and keep track of where construction projects are really being implemented ([source code](https://github.com/FixMyBerlin)).
 
@@ -245,7 +247,7 @@ Jump to
   * <https://fragdenstaat.de/anfrage/bundeseinheitlicher-tatbestandskatalog-bt-kat-owi-in-maschinenlesbarer-form/>
   * Datei (ods mit "^" als Feldtrenner) <https://fragdenstaat.de/files/foi/499093/bet_datenbank_18052020_txt.asc?download>
 * <https://natenom.de/> Natenoms († 30.01.2024) Blog – mit vielen interessanten Beiträgen.
-  * <https://natenom.de/2023/06/eine-headmap-aus-gpx-dateien-erstellen-mit-einem-python-tool/> Eine Heatmap aus GPX-Daten erstellen (Python) <https://github.com/remisalmon/Strava-local-heatmap> ⭐ 182 | 🐛 9 | 🌐 Python | 📅 2024-02-02
+  * <https://natenom.de/2023/06/eine-headmap-aus-gpx-dateien-erstellen-mit-einem-python-tool/> Eine Heatmap aus GPX-Daten erstellen (Python) <https://github.com/remisalmon/Strava-local-heatmap> ⭐ 183 | 🐛 9 | 🌐 Python | 📅 2024-02-02
   * Auswahl:
 
 ### Global
@@ -349,4 +351,4 @@ von Markenherstellern
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-25._
