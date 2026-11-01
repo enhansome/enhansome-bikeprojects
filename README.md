@@ -40,7 +40,7 @@ Jump to
 
 * [bikedata](https://github.com/ropensci/bikedata) ⭐ 80 | 🐛 19 | 🌐 R | 📅 2026-06-25 - R package to extract data from public hire bicycle systems.
 
-* [CommonsBooking](https://github.com/wielebenwir/commonsbooking) ⭐ 57 | 🐛 155 | 🌐 PHP | 📅 2026-10-30 - A Wordpress plugin for management and booking of commons goods especially cargo bikes.
+* [CommonsBooking](https://github.com/wielebenwir/commonsbooking) ⭐ 57 | 🐛 162 | 🌐 PHP | 📅 2026-11-01 - A Wordpress plugin for management and booking of commons goods especially cargo bikes.
 
 * [OSM Conflator](https://github.com/mapsme/osm_conflate) ⭐ 48 | 🐛 9 | 🌐 Python | 📅 2021-02-01. This is a script for merging points from some third-party source with OpenStreetMap data. After merging and uploading, the data can be updated.
 
@@ -48,7 +48,7 @@ Jump to
 
 * [OSM Bike Ottawa Tagging Guide](https://github.com/BikeOttawa/OSM-Bike-Ottawa-Tagging-Guide) ⭐ 37 | 🐛 4 | 🌐 JavaScript | 📅 2023-05-09
 
-* [sport-activities-features](https://github.com/firefly-cpp/sport-activities-features) ⭐ 22 | 🐛 0 | 🌐 Python | 📅 2026-10-28 - A minimalistic toolbox for extracting features from sports activity files written in Python
+* [sport-activities-features](https://github.com/firefly-cpp/sport-activities-features) ⭐ 22 | 🐛 1 | 🌐 Python | 📅 2026-11-01 - A minimalistic toolbox for extracting features from sports activity files written in Python
 
 * [Verkehrswende Wordpress Locations](https://github.com/steampixel/RadentscheidWordpressLocations) ⭐ 17 | 🐛 6 | 🌐 JavaScript | 📅 2023-08-29 - This Wordpress plugin can be used to track infrastructural problems like missing sidewalks or bike lanes and provides users with interactive maps. Users can also contribute to the map by uploading coordinates and images.
 
@@ -351,4 +351,4 @@ von Markenherstellern
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-01._
