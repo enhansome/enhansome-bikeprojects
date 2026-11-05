@@ -26,11 +26,11 @@ Jump to
 
 ## Projects
 
-* [Verkehrszählung mit Open-Source-Tool OpenDataCam](https://www.heise.de/make/meldung/Open-Source-Tool-macht-Verkehrszaehlungen-einfacher-4517810.html) - Wie viele Autos, Fahrräder oder Schafe täglich die Straße nutzen, lässt sich mit der OpenDataCam ermitteln. Das Tool gibt es nun in Version 3.0. [Github](https://github.com/opendatacam/opendatacam) ⭐ 1,733 | 🐛 62 | 🌐 JavaScript | 📅 2026-04-23
+* [Verkehrszählung mit Open-Source-Tool OpenDataCam](https://www.heise.de/make/meldung/Open-Source-Tool-macht-Verkehrszaehlungen-einfacher-4517810.html) - Wie viele Autos, Fahrräder oder Schafe täglich die Straße nutzen, lässt sich mit der OpenDataCam ermitteln. Das Tool gibt es nun in Version 3.0. [Github](https://github.com/opendatacam/opendatacam) ⭐ 1,734 | 🐛 62 | 🌐 JavaScript | 📅 2026-04-23
 
-* [Streetmix](https://streetmix.net) - Design, remix and share your street. Add cycle paths, widen sidewalks or lanes, and find out how that affects your community ([source code](https://github.com/streetmix/streetmix) ⭐ 754 | 🐛 210 | 🌐 TypeScript | 📅 2026-11-03).
+* [Streetmix](https://streetmix.net) - Design, remix and share your street. Add cycle paths, widen sidewalks or lanes, and find out how that affects your community ([source code](https://github.com/streetmix/streetmix) ⭐ 754 | 🐛 211 | 🌐 TypeScript | 📅 2026-11-04).
 
-* [CityBikes](https://citybik.es/) - Visualizations and APIs for many bike sharing systems around the globe ([source code](https://github.com/eskerda/pybikes) ⭐ 609 | 🐛 33 | 🌐 Python | 📅 2026-11-04).
+* [CityBikes](https://citybik.es/) - Visualizations and APIs for many bike sharing systems around the globe ([source code](https://github.com/eskerda/pybikes) ⭐ 609 | 🐛 33 | 🌐 Python | 📅 2026-11-05).
 
 * [weg-li](https://weg.li) - Website for citizens to report parking violations on sidewalks and bike paths. weg-li [is opensource](https://github.com/weg-li/weg-li/) ⭐ 280 | 🐛 18 | 🌐 Ruby | 📅 2026-10-29, uses OCR and image-recognition to do ALPR (automated license plate recognition) and other automations to make the process as simple and fast as possible. Falschparkeranzeige erstellen (mit Kennzeichenerkennung, benutzt Google)
   * [Github](https://github.com/weg-li/weg-li) ⭐ 280 | 🐛 18 | 🌐 Ruby | 📅 2026-10-29 Unter Verwendung des Google::Cloud::Vision::ImageAnnotator  <https://cloud.google.com/vision/docs/request?hl=de> siehe <https://twitter.com/ulid000/status/1174061217477996546?s=20>
@@ -40,7 +40,7 @@ Jump to
 
 * [bikedata](https://github.com/ropensci/bikedata) ⭐ 80 | 🐛 19 | 🌐 R | 📅 2026-06-25 - R package to extract data from public hire bicycle systems.
 
-* [CommonsBooking](https://github.com/wielebenwir/commonsbooking) ⭐ 57 | 🐛 153 | 🌐 PHP | 📅 2026-11-04 - A Wordpress plugin for management and booking of commons goods especially cargo bikes.
+* [CommonsBooking](https://github.com/wielebenwir/commonsbooking) ⭐ 57 | 🐛 155 | 🌐 PHP | 📅 2026-11-05 - A Wordpress plugin for management and booking of commons goods especially cargo bikes.
 
 * [OSM Conflator](https://github.com/mapsme/osm_conflate) ⭐ 48 | 🐛 9 | 🌐 Python | 📅 2021-02-01. This is a script for merging points from some third-party source with OpenStreetMap data. After merging and uploading, the data can be updated.
 
@@ -48,7 +48,7 @@ Jump to
 
 * [OSM Bike Ottawa Tagging Guide](https://github.com/BikeOttawa/OSM-Bike-Ottawa-Tagging-Guide) ⭐ 37 | 🐛 4 | 🌐 JavaScript | 📅 2023-05-09
 
-* [sport-activities-features](https://github.com/firefly-cpp/sport-activities-features) ⭐ 22 | 🐛 2 | 🌐 Python | 📅 2026-11-02 - A minimalistic toolbox for extracting features from sports activity files written in Python
+* [sport-activities-features](https://github.com/firefly-cpp/sport-activities-features) ⭐ 22 | 🐛 0 | 🌐 Python | 📅 2026-11-05 - A minimalistic toolbox for extracting features from sports activity files written in Python
 
 * [Verkehrswende Wordpress Locations](https://github.com/steampixel/RadentscheidWordpressLocations) ⭐ 17 | 🐛 6 | 🌐 JavaScript | 📅 2023-08-29 - This Wordpress plugin can be used to track infrastructural problems like missing sidewalks or bike lanes and provides users with interactive maps. Users can also contribute to the map by uploading coordinates and images.
 
@@ -186,7 +186,7 @@ Jump to
 
 ## Verkehrszählung
 
-* [Open Data Cam](https://opendata.cam) - 'Open Data Cam' is a tool that helps to quantify the world. The best thing about it: You can make it yourself! With computer vision 'Open Data Cam' understands and quantifies what it sees. The simple setup allows everybody to become an urban data miner. [Github](https://github.com/opendatacam/opendatacam) ⭐ 1,733 | 🐛 62 | 🌐 JavaScript | 📅 2026-04-23
+* [Open Data Cam](https://opendata.cam) - 'Open Data Cam' is a tool that helps to quantify the world. The best thing about it: You can make it yourself! With computer vision 'Open Data Cam' understands and quantifies what it sees. The simple setup allows everybody to become an urban data miner. [Github](https://github.com/opendatacam/opendatacam) ⭐ 1,734 | 🐛 62 | 🌐 JavaScript | 📅 2026-04-23
 * [Telraam](https://telraam.net/) Verkehrszählungen (lokal und per Netzwerk/Karte) per Raspberrry Pi, Kamera und Software
   * <https://github.com/CargoBikoMeter/WZePaperDisplay> ⭐ 5 | 🐛 1 | 🌐 C++ | 📅 2023-01-12 e-Paper based mobility data display. "WZ" in "WZePaperDisplay" means "Wir Zählen".
   * [Karte/Map](https://telraam.net/en)
@@ -351,4 +351,4 @@ von Markenherstellern
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-05._
