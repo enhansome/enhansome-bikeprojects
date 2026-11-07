@@ -102,8 +102,8 @@
                 "id": 200227768,
                 "language": "Ruby",
                 "license": null,
-                "last_commit": "2026-11-06T17:44:07Z",
-                "open_issues": 18,
+                "last_commit": "2026-11-07T15:45:04Z",
+                "open_issues": 21,
                 "owner": "weg-li",
                 "repo": "weg-li",
                 "stars": 280,
@@ -123,8 +123,8 @@
             "id": 200227768,
             "language": "Ruby",
             "license": null,
-            "last_commit": "2026-11-06T17:44:07Z",
-            "open_issues": 18,
+            "last_commit": "2026-11-07T15:45:04Z",
+            "open_issues": 21,
             "owner": "weg-li",
             "repo": "weg-li",
             "stars": 280,
@@ -184,7 +184,7 @@
             "open_issues": 19,
             "owner": "ropensci",
             "repo": "bikedata",
-            "stars": 80,
+            "stars": 81,
             "topics": [
               "bicycle-hire",
               "bicycle-hire-systems",
@@ -1211,7 +1211,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T20:00:27.144Z",
+    "last_updated": "2026-11-07T18:08:35.063Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome projects around the bicycle 🚲",
