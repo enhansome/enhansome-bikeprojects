@@ -32,15 +32,15 @@ Jump to
 
 * [CityBikes](https://citybik.es/) - Visualizations and APIs for many bike sharing systems around the globe ([source code](https://github.com/eskerda/pybikes) ⭐ 609 | 🐛 33 | 🌐 Python | 📅 2026-11-06).
 
-* [weg-li](https://weg.li) - Website for citizens to report parking violations on sidewalks and bike paths. weg-li [is opensource](https://github.com/weg-li/weg-li/) ⭐ 280 | 🐛 20 | 🌐 Ruby | 📅 2026-11-07, uses OCR and image-recognition to do ALPR (automated license plate recognition) and other automations to make the process as simple and fast as possible. Falschparkeranzeige erstellen (mit Kennzeichenerkennung, benutzt Google)
-  * [Github](https://github.com/weg-li/weg-li) ⭐ 280 | 🐛 20 | 🌐 Ruby | 📅 2026-11-07 Unter Verwendung des Google::Cloud::Vision::ImageAnnotator  <https://cloud.google.com/vision/docs/request?hl=de> siehe <https://twitter.com/ulid000/status/1174061217477996546?s=20>
+* [weg-li](https://weg.li) - Website for citizens to report parking violations on sidewalks and bike paths. weg-li [is opensource](https://github.com/weg-li/weg-li/) ⭐ 280 | 🐛 20 | 🌐 Ruby | 📅 2026-11-09, uses OCR and image-recognition to do ALPR (automated license plate recognition) and other automations to make the process as simple and fast as possible. Falschparkeranzeige erstellen (mit Kennzeichenerkennung, benutzt Google)
+  * [Github](https://github.com/weg-li/weg-li) ⭐ 280 | 🐛 20 | 🌐 Ruby | 📅 2026-11-09 Unter Verwendung des Google::Cloud::Vision::ImageAnnotator  <https://cloud.google.com/vision/docs/request?hl=de> siehe <https://twitter.com/ulid000/status/1174061217477996546?s=20>
   * [Website](https://weg.li)
 
 * <https://biking.michael-simons.eu> - Michael Simons's private web tool to manage his bikes and tracks but also a sample application ([Repository](https://github.com/michael-simons/biking2) ⭐ 183 | 🐛 0 | 🌐 Java | 📅 2025-10-24) to learn both modern server side Java with Spring Boot and software architecture documentation using on the Arc42 template
 
 * [bikedata](https://github.com/ropensci/bikedata) ⭐ 81 | 🐛 19 | 🌐 R | 📅 2026-11-06 - R package to extract data from public hire bicycle systems.
 
-* [CommonsBooking](https://github.com/wielebenwir/commonsbooking) ⭐ 57 | 🐛 163 | 🌐 PHP | 📅 2026-11-08 - A Wordpress plugin for management and booking of commons goods especially cargo bikes.
+* [CommonsBooking](https://github.com/wielebenwir/commonsbooking) ⭐ 57 | 🐛 159 | 🌐 PHP | 📅 2026-11-08 - A Wordpress plugin for management and booking of commons goods especially cargo bikes.
 
 * [OSM Conflator](https://github.com/mapsme/osm_conflate) ⭐ 48 | 🐛 9 | 🌐 Python | 📅 2021-02-01. This is a script for merging points from some third-party source with OpenStreetMap data. After merging and uploading, the data can be updated.
 
@@ -129,7 +129,7 @@ Jump to
 * [BBBike](http://www.bbbike.de/cgi-bin/bbbike.cgi) - A route-finder for cyclists in Berlin and Brandenburg. Developed since 1996 (10 years before the first release of Google Maps!) and still very useful due to own quality attributes like surface, number of traffic lights etc. that are not available in OSM or Google Maps.
 
 * [Bikerouter](https://bikerouter.de) - Web client for BRouter, a routing engine based on OpenStreetMap.
-  * [GitHub](https://github.com/nrenner/brouter-web) ⭐ 502 | 🐛 207 | 🌐 JavaScript | 📅 2026-11-05
+  * [GitHub](https://github.com/nrenner/brouter-web) ⭐ 502 | 🐛 208 | 🌐 JavaScript | 📅 2026-11-05
   * [Website](https://bikerouter.de)
 
 * MotionTag - App for [Android](https://play.google.com/store/apps/details?id=de.motiontag.motiontag\&hl=de) and [iOS](https://itunes.apple.com/de/app/motiontag/id1083164072) tracking your mobility behavior automatically offering reports with modal split and CO2 emission. Based on their [mobility analysis platform](https://www.motion-tag.com/en/mobility/).  (Closed source, disadvantage: no API for consumers to get your own data)
@@ -252,7 +252,7 @@ Jump to
 
 ### Global
 
-* [Mobility Data Specification](https://github.com/CityOfLosAngeles/mobility-data-specification) ⭐ 754 | 🐛 27 | 📅 2026-09-09 - A data standard and API specification for mobility as a service providers, such as Dockless Bikeshare, E-Scooters, and Shared Ride providers who work within the public right of way. Developed by the City of Los Angeles.
+* [Mobility Data Specification](https://github.com/CityOfLosAngeles/mobility-data-specification) ⭐ 753 | 🐛 27 | 📅 2026-09-09 - A data standard and API specification for mobility as a service providers, such as Dockless Bikeshare, E-Scooters, and Shared Ride providers who work within the public right of way. Developed by the City of Los Angeles.
 * [The Arrogance of Space Mapping Tool](https://cyklokoalicia.sk/arrogance/) - Upload an aerial or satellite photo from your city - an intersection or neighbourhood - and start mapping how much space is allocated to cars, pedestrians and bikes. See also <https://twitter.com/colvilleandersn/status/1197537645657829379> and <https://medium.com/@colville_andersen/the-arrogance-of-space-93a7419b0278>
 
 ## Bicycle Gear Calculator (Ritzelrechner)
@@ -351,4 +351,4 @@ von Markenherstellern
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-09._
