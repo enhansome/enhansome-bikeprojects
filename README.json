@@ -80,7 +80,7 @@
             "open_issues": 33,
             "owner": "eskerda",
             "repo": "pybikes",
-            "stars": 609,
+            "stars": 610,
             "topics": []
           },
           "first_seen": "2026-08-28T23:07:55.075Z"
@@ -789,7 +789,7 @@
                 "id": 327574065,
                 "language": "TypeScript",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-11-06T00:59:46Z",
+                "last_commit": "2026-11-09T23:46:38Z",
                 "open_issues": 36,
                 "owner": "KenEucker",
                 "repo": "biketag-vue",
@@ -1211,7 +1211,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T23:04:21.414Z",
+    "last_updated": "2026-11-10T20:31:30.207Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome projects around the bicycle 🚲",
