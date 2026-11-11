@@ -26,14 +26,14 @@ Jump to
 
 ## Projects
 
-* [Verkehrszählung mit Open-Source-Tool OpenDataCam](https://www.heise.de/make/meldung/Open-Source-Tool-macht-Verkehrszaehlungen-einfacher-4517810.html) - Wie viele Autos, Fahrräder oder Schafe täglich die Straße nutzen, lässt sich mit der OpenDataCam ermitteln. Das Tool gibt es nun in Version 3.0. [Github](https://github.com/opendatacam/opendatacam) ⭐ 1,735 | 🐛 62 | 🌐 JavaScript | 📅 2026-04-23
+* [Verkehrszählung mit Open-Source-Tool OpenDataCam](https://www.heise.de/make/meldung/Open-Source-Tool-macht-Verkehrszaehlungen-einfacher-4517810.html) - Wie viele Autos, Fahrräder oder Schafe täglich die Straße nutzen, lässt sich mit der OpenDataCam ermitteln. Das Tool gibt es nun in Version 3.0. [Github](https://github.com/opendatacam/opendatacam) ⭐ 1,736 | 🐛 62 | 🌐 JavaScript | 📅 2026-04-23
 
-* [Streetmix](https://streetmix.net) - Design, remix and share your street. Add cycle paths, widen sidewalks or lanes, and find out how that affects your community ([source code](https://github.com/streetmix/streetmix) ⭐ 755 | 🐛 212 | 🌐 TypeScript | 📅 2026-11-04).
+* [Streetmix](https://streetmix.net) - Design, remix and share your street. Add cycle paths, widen sidewalks or lanes, and find out how that affects your community ([source code](https://github.com/streetmix/streetmix) ⭐ 756 | 🐛 212 | 🌐 TypeScript | 📅 2026-11-04).
 
 * [CityBikes](https://citybik.es/) - Visualizations and APIs for many bike sharing systems around the globe ([source code](https://github.com/eskerda/pybikes) ⭐ 610 | 🐛 33 | 🌐 Python | 📅 2026-11-06).
 
-* [weg-li](https://weg.li) - Website for citizens to report parking violations on sidewalks and bike paths. weg-li [is opensource](https://github.com/weg-li/weg-li/) ⭐ 280 | 🐛 20 | 🌐 Ruby | 📅 2026-11-09, uses OCR and image-recognition to do ALPR (automated license plate recognition) and other automations to make the process as simple and fast as possible. Falschparkeranzeige erstellen (mit Kennzeichenerkennung, benutzt Google)
-  * [Github](https://github.com/weg-li/weg-li) ⭐ 280 | 🐛 20 | 🌐 Ruby | 📅 2026-11-09 Unter Verwendung des Google::Cloud::Vision::ImageAnnotator  <https://cloud.google.com/vision/docs/request?hl=de> siehe <https://twitter.com/ulid000/status/1174061217477996546?s=20>
+* [weg-li](https://weg.li) - Website for citizens to report parking violations on sidewalks and bike paths. weg-li [is opensource](https://github.com/weg-li/weg-li/) ⭐ 280 | 🐛 20 | 🌐 Ruby | 📅 2026-11-11, uses OCR and image-recognition to do ALPR (automated license plate recognition) and other automations to make the process as simple and fast as possible. Falschparkeranzeige erstellen (mit Kennzeichenerkennung, benutzt Google)
+  * [Github](https://github.com/weg-li/weg-li) ⭐ 280 | 🐛 20 | 🌐 Ruby | 📅 2026-11-11 Unter Verwendung des Google::Cloud::Vision::ImageAnnotator  <https://cloud.google.com/vision/docs/request?hl=de> siehe <https://twitter.com/ulid000/status/1174061217477996546?s=20>
   * [Website](https://weg.li)
 
 * <https://biking.michael-simons.eu> - Michael Simons's private web tool to manage his bikes and tracks but also a sample application ([Repository](https://github.com/michael-simons/biking2) ⭐ 183 | 🐛 0 | 🌐 Java | 📅 2025-10-24) to learn both modern server side Java with Spring Boot and software architecture documentation using on the Arc42 template
@@ -141,7 +141,7 @@ Jump to
     ![grafik](https://user-images.githubusercontent.com/1151915/187042815-bd585220-23c7-4852-a073-c46b95bb41eb.png)
 
 * BikeTag - A photo mystery tag game on bicycles, completely open-source and free to play forever, written in TypeScript and VueJs.
-  * [GitHub](https://github.com/keneucker/biketag-vue) ⭐ 28 | 🐛 36 | 🌐 TypeScript | 📅 2026-11-09
+  * [GitHub](https://github.com/keneucker/biketag-vue) ⭐ 28 | 🐛 36 | 🌐 TypeScript | 📅 2026-11-11
   * [Website](https://biketag.org)
   * [About](https://biketag.bike)
 
@@ -186,7 +186,7 @@ Jump to
 
 ## Verkehrszählung
 
-* [Open Data Cam](https://opendata.cam) - 'Open Data Cam' is a tool that helps to quantify the world. The best thing about it: You can make it yourself! With computer vision 'Open Data Cam' understands and quantifies what it sees. The simple setup allows everybody to become an urban data miner. [Github](https://github.com/opendatacam/opendatacam) ⭐ 1,735 | 🐛 62 | 🌐 JavaScript | 📅 2026-04-23
+* [Open Data Cam](https://opendata.cam) - 'Open Data Cam' is a tool that helps to quantify the world. The best thing about it: You can make it yourself! With computer vision 'Open Data Cam' understands and quantifies what it sees. The simple setup allows everybody to become an urban data miner. [Github](https://github.com/opendatacam/opendatacam) ⭐ 1,736 | 🐛 62 | 🌐 JavaScript | 📅 2026-04-23
 * [Telraam](https://telraam.net/) Verkehrszählungen (lokal und per Netzwerk/Karte) per Raspberrry Pi, Kamera und Software
   * <https://github.com/CargoBikoMeter/WZePaperDisplay> ⭐ 5 | 🐛 1 | 🌐 C++ | 📅 2023-01-12 e-Paper based mobility data display. "WZ" in "WZePaperDisplay" means "Wir Zählen".
   * [Karte/Map](https://telraam.net/en)
@@ -351,4 +351,4 @@ von Markenherstellern
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-11._

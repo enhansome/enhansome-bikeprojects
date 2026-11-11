@@ -19,7 +19,7 @@
             "open_issues": 62,
             "owner": "opendatacam",
             "repo": "opendatacam",
-            "stars": 1735,
+            "stars": 1736,
             "topics": [
               "camera",
               "computer-vision",
@@ -52,7 +52,7 @@
             "open_issues": 212,
             "owner": "streetmix",
             "repo": "streetmix",
-            "stars": 755,
+            "stars": 756,
             "topics": [
               "city-builder",
               "city-planning",
@@ -102,7 +102,7 @@
                 "id": 200227768,
                 "language": "Ruby",
                 "license": null,
-                "last_commit": "2026-11-09T22:09:42Z",
+                "last_commit": "2026-11-11T12:46:50Z",
                 "open_issues": 20,
                 "owner": "weg-li",
                 "repo": "weg-li",
@@ -123,7 +123,7 @@
             "id": 200227768,
             "language": "Ruby",
             "license": null,
-            "last_commit": "2026-11-09T22:09:42Z",
+            "last_commit": "2026-11-11T12:46:50Z",
             "open_issues": 20,
             "owner": "weg-li",
             "repo": "weg-li",
@@ -789,7 +789,7 @@
                 "id": 327574065,
                 "language": "TypeScript",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-11-09T23:46:38Z",
+                "last_commit": "2026-11-11T04:19:47Z",
                 "open_issues": 36,
                 "owner": "KenEucker",
                 "repo": "biketag-vue",
@@ -885,7 +885,7 @@
             "open_issues": 62,
             "owner": "opendatacam",
             "repo": "opendatacam",
-            "stars": 1735,
+            "stars": 1736,
             "topics": [
               "camera",
               "computer-vision",
@@ -1211,7 +1211,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T20:31:30.207Z",
+    "last_updated": "2026-11-11T20:17:12.339Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome projects around the bicycle 🚲",
