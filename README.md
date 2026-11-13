@@ -28,7 +28,7 @@ Jump to
 
 * [Verkehrszählung mit Open-Source-Tool OpenDataCam](https://www.heise.de/make/meldung/Open-Source-Tool-macht-Verkehrszaehlungen-einfacher-4517810.html) - Wie viele Autos, Fahrräder oder Schafe täglich die Straße nutzen, lässt sich mit der OpenDataCam ermitteln. Das Tool gibt es nun in Version 3.0. [Github](https://github.com/opendatacam/opendatacam) ⭐ 1,736 | 🐛 62 | 🌐 JavaScript | 📅 2026-04-23
 
-* [Streetmix](https://streetmix.net) - Design, remix and share your street. Add cycle paths, widen sidewalks or lanes, and find out how that affects your community ([source code](https://github.com/streetmix/streetmix) ⭐ 756 | 🐛 213 | 🌐 TypeScript | 📅 2026-11-04).
+* [Streetmix](https://streetmix.net) - Design, remix and share your street. Add cycle paths, widen sidewalks or lanes, and find out how that affects your community ([source code](https://github.com/streetmix/streetmix) ⭐ 756 | 🐛 211 | 🌐 TypeScript | 📅 2026-11-13).
 
 * [CityBikes](https://citybik.es/) - Visualizations and APIs for many bike sharing systems around the globe ([source code](https://github.com/eskerda/pybikes) ⭐ 610 | 🐛 33 | 🌐 Python | 📅 2026-11-06).
 
@@ -40,7 +40,7 @@ Jump to
 
 * [bikedata](https://github.com/ropensci/bikedata) ⭐ 81 | 🐛 19 | 🌐 R | 📅 2026-11-06 - R package to extract data from public hire bicycle systems.
 
-* [CommonsBooking](https://github.com/wielebenwir/commonsbooking) ⭐ 57 | 🐛 160 | 🌐 PHP | 📅 2026-11-12 - A Wordpress plugin for management and booking of commons goods especially cargo bikes.
+* [CommonsBooking](https://github.com/wielebenwir/commonsbooking) ⭐ 58 | 🐛 159 | 🌐 PHP | 📅 2026-11-13 - A Wordpress plugin for management and booking of commons goods especially cargo bikes.
 
 * [OSM Conflator](https://github.com/mapsme/osm_conflate) ⭐ 48 | 🐛 9 | 🌐 Python | 📅 2021-02-01. This is a script for merging points from some third-party source with OpenStreetMap data. After merging and uploading, the data can be updated.
 
@@ -141,7 +141,7 @@ Jump to
     ![grafik](https://user-images.githubusercontent.com/1151915/187042815-bd585220-23c7-4852-a073-c46b95bb41eb.png)
 
 * BikeTag - A photo mystery tag game on bicycles, completely open-source and free to play forever, written in TypeScript and VueJs.
-  * [GitHub](https://github.com/keneucker/biketag-vue) ⭐ 28 | 🐛 36 | 🌐 TypeScript | 📅 2026-11-12
+  * [GitHub](https://github.com/keneucker/biketag-vue) ⭐ 28 | 🐛 38 | 🌐 TypeScript | 📅 2026-11-13
   * [Website](https://biketag.org)
   * [About](https://biketag.bike)
 
@@ -351,4 +351,4 @@ von Markenherstellern
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-13._
