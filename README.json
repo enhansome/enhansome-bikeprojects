@@ -211,7 +211,7 @@
             "id": 253730181,
             "language": "PHP",
             "license": "GPL-2.0",
-            "last_commit": "2026-11-13T11:46:12Z",
+            "last_commit": "2026-11-14T17:09:46Z",
             "open_issues": 159,
             "owner": "wielebenwir",
             "repo": "commonsbooking",
@@ -637,6 +637,27 @@
         },
         {
           "node_type": "item",
+          "title": "[Radar-Speedgun] (https://github.com/zjuergen66/RadarSpeedgun-HLK-LD2415H",
+          "description": ") - Simple OpenSource DIY project to measure and display speed of passing vehicles or persons, built around a radar based speed sensor.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "measure and display speed of passing vehicles (or persons). Simple setup - utilizes sensor HLK-LD2415H, 2*16 LCD-display, buzzer and arduino pro mini 3.3V, 8MHz. Power comes from either 3S lipo or 3 LiIon cells 18650 of your choice. stl for 3D-printable casing included",
+            "homepage": null,
+            "id": 1197007109,
+            "language": "C++",
+            "license": null,
+            "last_commit": "2026-04-23T11:57:19Z",
+            "open_issues": 0,
+            "owner": "zjuergen66",
+            "repo": "RadarSpeedgun-HLK-LD2415H",
+            "stars": 0,
+            "topics": []
+          },
+          "first_seen": "2026-11-14T18:47:13.798Z"
+        },
+        {
+          "node_type": "item",
           "title": "Fahrraddaten-Canvas",
           "description": "Template for documentation, discovery or ideation of Open Data for cycling and bicyle urbanism on a single sheet of paper. (German)",
           "children": [],
@@ -789,8 +810,8 @@
                 "id": 327574065,
                 "language": "TypeScript",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-11-13T07:55:41Z",
-                "open_issues": 38,
+                "last_commit": "2026-11-14T02:25:07Z",
+                "open_issues": 39,
                 "owner": "KenEucker",
                 "repo": "biketag-vue",
                 "stars": 28,
@@ -1021,6 +1042,27 @@
         {
           "children": [
             {
+              "node_type": "item",
+              "title": "Tempo 30 Potenzialkarte München",
+              "description": "Map visualizing streets segments that qualify for a speed limit of 30 km/h due to the new regulations within the StVO 2024. The analysis is based on an automated determination of segments using OSM data. The map shows munich, but the corresponding code can be used to analyze any german region.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Automatisierte Auswertung von OpenStreetMap-Daten zur Identifikation von Potenzialen für die Einrichtung von Tempo-30.",
+                "homepage": null,
+                "id": 1184696555,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-11-07T17:29:03Z",
+                "open_issues": 2,
+                "owner": "MunichWays",
+                "repo": "tempo-30-potenzialanalyse",
+                "stars": 3,
+                "topics": []
+              },
+              "first_seen": "2026-11-14T18:47:13.798Z"
+            },
+            {
               "node_type": "group",
               "title": "https://natenom.de/",
               "description": "Natenoms († 30.01.2024) Blog – mit vielen interessanten Beiträgen.",
@@ -1211,7 +1253,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T20:34:30.431Z",
+    "last_updated": "2026-11-14T18:47:13.798Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome projects around the bicycle 🚲",
@@ -1219,8 +1261,8 @@
       "id": 154454160,
       "language": null,
       "license": "MIT",
-      "last_commit": "2026-10-25T08:23:39Z",
-      "open_issues": 7,
+      "last_commit": "2026-11-13T20:45:49Z",
+      "open_issues": 2,
       "owner": "mltbnz",
       "repo": "awesome-bikeprojects",
       "stars": 204,
@@ -1236,7 +1278,7 @@
         "visualization"
       ]
     },
-    "original_repository_sha": "85d9494e19c1e83e997ee4af43531acdba09e999",
+    "original_repository_sha": "2ee9adbd2e2d53f39e3770b1f57937e4568100a4",
     "enhanced_repository": "enhansome/enhansome-bikeprojects",
     "enhanced_repository_description": null,
     "title": "Awesome About with stars"

@@ -40,7 +40,7 @@ Jump to
 
 * [bikedata](https://github.com/ropensci/bikedata) ⭐ 81 | 🐛 19 | 🌐 R | 📅 2026-11-06 - R package to extract data from public hire bicycle systems.
 
-* [CommonsBooking](https://github.com/wielebenwir/commonsbooking) ⭐ 58 | 🐛 159 | 🌐 PHP | 📅 2026-11-13 - A Wordpress plugin for management and booking of commons goods especially cargo bikes.
+* [CommonsBooking](https://github.com/wielebenwir/commonsbooking) ⭐ 58 | 🐛 159 | 🌐 PHP | 📅 2026-11-14 - A Wordpress plugin for management and booking of commons goods especially cargo bikes.
 
 * [OSM Conflator](https://github.com/mapsme/osm_conflate) ⭐ 48 | 🐛 9 | 🌐 Python | 📅 2021-02-01. This is a script for merging points from some third-party source with OpenStreetMap data. After merging and uploading, the data can be updated.
 
@@ -84,13 +84,15 @@ Jump to
 
 * [Abschlapp](https://github.com/stefanw/abschlapp) ⭐ 3 | 🐛 1 | 🌐 Vue | 📅 2017-10-12 - First prototype of a mobile app guiding pedestrians and cyclists to get Berlin Police to tow cars from cycling infrastructure and sidewalks based on the [instructions by Autofreies Kreuzberg](https://www.autofreies-kreuzberg.de/radwege-frei.html)
 
+* \[Radar-Speedgun] (<https://github.com/zjuergen66/RadarSpeedgun-HLK-LD2415H> ⭐ 0 | 🐛 0 | 🌐 C++ | 📅 2026-04-23) - Simple OpenSource DIY project to measure and display speed of passing vehicles or persons, built around a radar  based speed sensor.
+
 * [Fahrraddaten-Canvas](https://github.com/ulid000/fahrraddaten-canvas) ⭐ 0 | 🐛 0 | 📅 2019-03-19 - Template for documentation, discovery or ideation of Open Data for cycling and bicyle urbanism on a single sheet of paper. (German)
+
+* [Radatlas Österreich](https://radatlas.at) - A free, bilingual (DE/EN) cartographic atlas of Austria's named cycle routes, built on OpenStreetMap geometry and Austrian DGM elevation: interactive maps, real elevation profiles, and GPX/TCX downloads per route.
 
 * [Radmesser](https://interaktiv.tagesspiegel.de/radmesser/index.html) - The Tagesspiegel, together with physicists, experts in artificial intelligence and designers, has developed its own sensor to find out how close car and bicycle drivers are in Berlin's city traffic.
 
 * [Openbikesensor](https://zweirat-stuttgart.de/projekte/openbikesensor/) - Following the example of the Radmesser, the OpenBikeSensor was created in Stuttgart at the Zweirat. The Radmesser is a project from the Tagesspiegel in Berlin; a small technical device on the bike that measures the distance from overtaking cars while driving. Since this is not only a problem in Berlin, but also here in Stuttgart, we want to take care of it!
-
-* \[Radar-Speedgun] (<https://github.com/zjuergen66/RadarSpeedgun-HLK-LD2415H)/>) - Simple OpenSource DIY project to measure and display speed of passing vehicles or persons, built around a radar  based speed sensor.
 
 * [fixmyberlin](https://fixmyberlin.de/planungen) - The Berlin-based FixMyBerlin project analyzes all major roads in the city according to their cycling infrastructure and keep track of where construction projects are really being implemented ([source code](https://github.com/FixMyBerlin)).
 
@@ -116,7 +118,7 @@ Jump to
 
 * [BikeNow](http://vkwvlprad.vkw.tu-dresden.de) - An app crafted by a research group at the Technical University of Dresden showing the seconds remaining until the traffic lights will turn green or red so you can speed down or up to cycle through the city of Dresden without stopping. (German, closed source, invitation only)
 
-* [Läuft!](https://hamburg.adfc.de/verkehr/themen-a-z/tempo-30/laeuft/laeuft/) - an campaigns run by ADFC Hamburg to provide neighbours in Hamburg with an interactive map and and a tool supporting them to file an application for 30 km/h speed limits on their street due to high air pollution or noise pollution based on German law. The map is using open data issued by the city of Hamburg to identify polluted streets and shows all citizens that already filed an application. Some [repositories](https://github.com/ADFC-Hamburg) contain parts of the entire system used to drive the campaign.
+* Läuft! - a campaign previously run by ADFC Hamburg to provide neighbours in Hamburg with an interactive map and and a tool to help file an application for 30 km/h speed limits on their streets due to high air pollution or noise pollution based on German law. The map used open data issued by the city of Hamburg to identify polluted streets and shows all citizens that already filed an application. Some [repositories](https://github.com/ADFC-Hamburg) contain parts of the entire system used to drive the campaign, the campaign itself is no longer running. <https://t30antrag.hamburg.adfc.de/>
 
 * Verkehrsunfallstatistik - Parser and maps for Berlin's yearly bike accident reports to get the number of accidents per street.
   * [GitHub](https://github.com/stefanw/verkehrsunfallstatistik) ⭐ 22 | 🐛 4 | 🌐 Python | 📅 2023-04-17
@@ -141,7 +143,7 @@ Jump to
     ![grafik](https://user-images.githubusercontent.com/1151915/187042815-bd585220-23c7-4852-a073-c46b95bb41eb.png)
 
 * BikeTag - A photo mystery tag game on bicycles, completely open-source and free to play forever, written in TypeScript and VueJs.
-  * [GitHub](https://github.com/keneucker/biketag-vue) ⭐ 28 | 🐛 38 | 🌐 TypeScript | 📅 2026-11-13
+  * [GitHub](https://github.com/keneucker/biketag-vue) ⭐ 28 | 🐛 39 | 🌐 TypeScript | 📅 2026-11-14
   * [Website](https://biketag.org)
   * [About](https://biketag.bike)
 
@@ -183,6 +185,8 @@ Jump to
   * Github: <https://github.com/bikedataproject>
 
 * [Find my (stolen) bike](https://www.heise.de/news/Find-My-Bike-soll-geklaute-Fahrraeder-auf-eBay-Kleinanzeigen-aufspueren-6655032.html) - scan ebay advertisements (work in progress)
+
+* [Pedalah](https://pedalah.com/) - A free, no-login cycling route planner for Singapore built on OpenStreetMap and Singapore government open data (LTA cycling paths, NParks park connectors, NEA rain forecast), with options to avoid traffic lights and right turns, loop and hill-climb rides, and curated routes with GPX downloads (closed source).
 
 ## Verkehrszählung
 
@@ -238,6 +242,7 @@ Jump to
 
 ### Germany
 
+* [Tempo 30 Potenzialkarte München](https://umap.openstreetmap.de/de/map/tempo-30-potentialkarte-munchen_127687): Map visualizing streets segments that qualify for a speed limit of 30 km/h due to the new regulations within the StVO 2024. The analysis is based on an automated determination of segments using OSM data. The map shows munich, but the corresponding [code](https://github.com/MunichWays/tempo-30-potenzialanalyse) ⭐ 3 | 🐛 2 | 🌐 Python | 📅 2026-11-07 can be used to analyze any german region.
 * [Mobilität in Tabellen](https://www.mobilitaet-in-tabellen.de/mit/) - Tool to analyze data from the survey and report "Mobilität in Deutschland (MiD) 2017" by BMVI.
 * [Unfallatlas](https://unfallatlas.statistikportal.de) - Map and data download of accidents with personal injuries.
 * [MunichWays ](https://www.munichways.com/) visualization and analyzes of all major roads in Munich according to the traffic light principle. ([code](https://github.com/AppWerft/MunichWays)), ([map](https://usocialmaps.carto.com/builder/dfd7b295-73a7-4dfe-85e6-933dd7fe5787/embed))
@@ -351,4 +356,4 @@ von Markenherstellern
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._
