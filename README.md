@@ -40,7 +40,7 @@ Jump to
 
 * [bikedata](https://github.com/ropensci/bikedata) ⭐ 81 | 🐛 19 | 🌐 R | 📅 2026-11-06 - R package to extract data from public hire bicycle systems.
 
-* [CommonsBooking](https://github.com/wielebenwir/commonsbooking) ⭐ 58 | 🐛 161 | 🌐 PHP | 📅 2026-11-15 - A Wordpress plugin for management and booking of commons goods especially cargo bikes.
+* [CommonsBooking](https://github.com/wielebenwir/commonsbooking) ⭐ 58 | 🐛 161 | 🌐 PHP | 📅 2026-11-16 - A Wordpress plugin for management and booking of commons goods especially cargo bikes.
 
 * [OSM Conflator](https://github.com/mapsme/osm_conflate) ⭐ 48 | 🐛 9 | 🌐 Python | 📅 2021-02-01. This is a script for merging points from some third-party source with OpenStreetMap data. After merging and uploading, the data can be updated.
 
@@ -48,7 +48,7 @@ Jump to
 
 * [OSM Bike Ottawa Tagging Guide](https://github.com/BikeOttawa/OSM-Bike-Ottawa-Tagging-Guide) ⭐ 37 | 🐛 4 | 🌐 JavaScript | 📅 2023-05-09
 
-* [sport-activities-features](https://github.com/firefly-cpp/sport-activities-features) ⭐ 22 | 🐛 0 | 🌐 Python | 📅 2026-11-05 - A minimalistic toolbox for extracting features from sports activity files written in Python
+* [sport-activities-features](https://github.com/firefly-cpp/sport-activities-features) ⭐ 22 | 🐛 1 | 🌐 Python | 📅 2026-11-16 - A minimalistic toolbox for extracting features from sports activity files written in Python
 
 * [Verkehrswende Wordpress Locations](https://github.com/steampixel/RadentscheidWordpressLocations) ⭐ 17 | 🐛 6 | 🌐 JavaScript | 📅 2023-08-29 - This Wordpress plugin can be used to track infrastructural problems like missing sidewalks or bike lanes and provides users with interactive maps. Users can also contribute to the map by uploading coordinates and images.
 
@@ -131,7 +131,7 @@ Jump to
 * [BBBike](http://www.bbbike.de/cgi-bin/bbbike.cgi) - A route-finder for cyclists in Berlin and Brandenburg. Developed since 1996 (10 years before the first release of Google Maps!) and still very useful due to own quality attributes like surface, number of traffic lights etc. that are not available in OSM or Google Maps.
 
 * [Bikerouter](https://bikerouter.de) - Web client for BRouter, a routing engine based on OpenStreetMap.
-  * [GitHub](https://github.com/nrenner/brouter-web) ⭐ 504 | 🐛 208 | 🌐 JavaScript | 📅 2026-11-11
+  * [GitHub](https://github.com/nrenner/brouter-web) ⭐ 504 | 🐛 208 | 🌐 JavaScript | 📅 2026-11-16
   * [Website](https://bikerouter.de)
 
 * MotionTag - App for [Android](https://play.google.com/store/apps/details?id=de.motiontag.motiontag\&hl=de) and [iOS](https://itunes.apple.com/de/app/motiontag/id1083164072) tracking your mobility behavior automatically offering reports with modal split and CO2 emission. Based on their [mobility analysis platform](https://www.motion-tag.com/en/mobility/).  (Closed source, disadvantage: no API for consumers to get your own data)
@@ -143,7 +143,7 @@ Jump to
     ![grafik](https://user-images.githubusercontent.com/1151915/187042815-bd585220-23c7-4852-a073-c46b95bb41eb.png)
 
 * BikeTag - A photo mystery tag game on bicycles, completely open-source and free to play forever, written in TypeScript and VueJs.
-  * [GitHub](https://github.com/keneucker/biketag-vue) ⭐ 28 | 🐛 39 | 🌐 TypeScript | 📅 2026-11-15
+  * [GitHub](https://github.com/keneucker/biketag-vue) ⭐ 28 | 🐛 36 | 🌐 TypeScript | 📅 2026-11-16
   * [Website](https://biketag.org)
   * [About](https://biketag.bike)
 
@@ -242,7 +242,7 @@ Jump to
 
 ### Germany
 
-* [Tempo 30 Potenzialkarte München](https://umap.openstreetmap.de/de/map/tempo-30-potentialkarte-munchen_127687): Map visualizing streets segments that qualify for a speed limit of 30 km/h due to the new regulations within the StVO 2024. The analysis is based on an automated determination of segments using OSM data. The map shows munich, but the corresponding [code](https://github.com/MunichWays/tempo-30-potenzialanalyse) ⭐ 3 | 🐛 3 | 🌐 Python | 📅 2026-11-07 can be used to analyze any german region.
+* [Tempo 30 Potenzialkarte München](https://umap.openstreetmap.de/de/map/tempo-30-potentialkarte-munchen_127687): Map visualizing streets segments that qualify for a speed limit of 30 km/h due to the new regulations within the StVO 2024. The analysis is based on an automated determination of segments using OSM data. The map shows munich, but the corresponding [code](https://github.com/MunichWays/tempo-30-potenzialanalyse) ⭐ 3 | 🐛 3 | 🌐 Python | 📅 2026-11-15 can be used to analyze any german region.
 * [Mobilität in Tabellen](https://www.mobilitaet-in-tabellen.de/mit/) - Tool to analyze data from the survey and report "Mobilität in Deutschland (MiD) 2017" by BMVI.
 * [Unfallatlas](https://unfallatlas.statistikportal.de) - Map and data download of accidents with personal injuries.
 * [MunichWays ](https://www.munichways.com/) visualization and analyzes of all major roads in Munich according to the traffic light principle. ([code](https://github.com/AppWerft/MunichWays)), ([map](https://usocialmaps.carto.com/builder/dfd7b295-73a7-4dfe-85e6-933dd7fe5787/embed))
@@ -356,4 +356,4 @@ von Markenherstellern
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-16._
