@@ -19,7 +19,7 @@
             "open_issues": 62,
             "owner": "opendatacam",
             "repo": "opendatacam",
-            "stars": 1736,
+            "stars": 1737,
             "topics": [
               "camera",
               "computer-vision",
@@ -102,8 +102,8 @@
                 "id": 200227768,
                 "language": "Ruby",
                 "license": null,
-                "last_commit": "2026-11-15T16:30:05Z",
-                "open_issues": 20,
+                "last_commit": "2026-11-18T20:14:19Z",
+                "open_issues": 13,
                 "owner": "weg-li",
                 "repo": "weg-li",
                 "stars": 281,
@@ -123,8 +123,8 @@
             "id": 200227768,
             "language": "Ruby",
             "license": null,
-            "last_commit": "2026-11-15T16:30:05Z",
-            "open_issues": 20,
+            "last_commit": "2026-11-18T20:14:19Z",
+            "open_issues": 13,
             "owner": "weg-li",
             "repo": "weg-li",
             "stars": 281,
@@ -814,7 +814,7 @@
                 "open_issues": 35,
                 "owner": "KenEucker",
                 "repo": "biketag-vue",
-                "stars": 28,
+                "stars": 30,
                 "topics": [
                   "bootstrap-vue",
                   "pinia",
@@ -906,7 +906,7 @@
             "open_issues": 62,
             "owner": "opendatacam",
             "repo": "opendatacam",
-            "stars": 1736,
+            "stars": 1737,
             "topics": [
               "camera",
               "computer-vision",
@@ -1253,7 +1253,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T21:50:50.350Z",
+    "last_updated": "2026-11-18T21:29:40.914Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome projects around the bicycle 🚲",
