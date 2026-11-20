@@ -32,15 +32,15 @@ Jump to
 
 * [CityBikes](https://citybik.es/) - Visualizations and APIs for many bike sharing systems around the globe ([source code](https://github.com/eskerda/pybikes) ⭐ 608 | 🐛 33 | 🌐 Python | 📅 2026-11-17).
 
-* [weg-li](https://weg.li) - Website for citizens to report parking violations on sidewalks and bike paths. weg-li [is opensource](https://github.com/weg-li/weg-li/) ⭐ 281 | 🐛 13 | 🌐 Ruby | 📅 2026-11-19, uses OCR and image-recognition to do ALPR (automated license plate recognition) and other automations to make the process as simple and fast as possible. Falschparkeranzeige erstellen (mit Kennzeichenerkennung, benutzt Google)
-  * [Github](https://github.com/weg-li/weg-li) ⭐ 281 | 🐛 13 | 🌐 Ruby | 📅 2026-11-19 Unter Verwendung des Google::Cloud::Vision::ImageAnnotator  <https://cloud.google.com/vision/docs/request?hl=de> siehe <https://twitter.com/ulid000/status/1174061217477996546?s=20>
+* [weg-li](https://weg.li) - Website for citizens to report parking violations on sidewalks and bike paths. weg-li [is opensource](https://github.com/weg-li/weg-li/) ⭐ 281 | 🐛 9 | 🌐 Ruby | 📅 2026-11-20, uses OCR and image-recognition to do ALPR (automated license plate recognition) and other automations to make the process as simple and fast as possible. Falschparkeranzeige erstellen (mit Kennzeichenerkennung, benutzt Google)
+  * [Github](https://github.com/weg-li/weg-li) ⭐ 281 | 🐛 9 | 🌐 Ruby | 📅 2026-11-20 Unter Verwendung des Google::Cloud::Vision::ImageAnnotator  <https://cloud.google.com/vision/docs/request?hl=de> siehe <https://twitter.com/ulid000/status/1174061217477996546?s=20>
   * [Website](https://weg.li)
 
 * <https://biking.michael-simons.eu> - Michael Simons's private web tool to manage his bikes and tracks but also a sample application ([Repository](https://github.com/michael-simons/biking2) ⭐ 183 | 🐛 0 | 🌐 Java | 📅 2025-10-24) to learn both modern server side Java with Spring Boot and software architecture documentation using on the Arc42 template
 
 * [bikedata](https://github.com/ropensci/bikedata) ⭐ 81 | 🐛 19 | 🌐 R | 📅 2026-11-06 - R package to extract data from public hire bicycle systems.
 
-* [CommonsBooking](https://github.com/wielebenwir/commonsbooking) ⭐ 58 | 🐛 162 | 🌐 PHP | 📅 2026-11-17 - A Wordpress plugin for management and booking of commons goods especially cargo bikes.
+* [CommonsBooking](https://github.com/wielebenwir/commonsbooking) ⭐ 58 | 🐛 161 | 🌐 PHP | 📅 2026-11-20 - A Wordpress plugin for management and booking of commons goods especially cargo bikes.
 
 * [OSM Conflator](https://github.com/mapsme/osm_conflate) ⭐ 48 | 🐛 9 | 🌐 Python | 📅 2021-02-01. This is a script for merging points from some third-party source with OpenStreetMap data. After merging and uploading, the data can be updated.
 
@@ -48,7 +48,7 @@ Jump to
 
 * [OSM Bike Ottawa Tagging Guide](https://github.com/BikeOttawa/OSM-Bike-Ottawa-Tagging-Guide) ⭐ 37 | 🐛 4 | 🌐 JavaScript | 📅 2023-05-09
 
-* [sport-activities-features](https://github.com/firefly-cpp/sport-activities-features) ⭐ 22 | 🐛 1 | 🌐 Python | 📅 2026-11-16 - A minimalistic toolbox for extracting features from sports activity files written in Python
+* [sport-activities-features](https://github.com/firefly-cpp/sport-activities-features) ⭐ 22 | 🐛 0 | 🌐 Python | 📅 2026-11-20 - A minimalistic toolbox for extracting features from sports activity files written in Python
 
 * [Verkehrswende Wordpress Locations](https://github.com/steampixel/RadentscheidWordpressLocations) ⭐ 17 | 🐛 6 | 🌐 JavaScript | 📅 2023-08-29 - This Wordpress plugin can be used to track infrastructural problems like missing sidewalks or bike lanes and provides users with interactive maps. Users can also contribute to the map by uploading coordinates and images.
 
@@ -143,7 +143,7 @@ Jump to
     ![grafik](https://user-images.githubusercontent.com/1151915/187042815-bd585220-23c7-4852-a073-c46b95bb41eb.png)
 
 * BikeTag - A photo mystery tag game on bicycles, completely open-source and free to play forever, written in TypeScript and VueJs.
-  * [GitHub](https://github.com/keneucker/biketag-vue) ⭐ 30 | 🐛 35 | 🌐 TypeScript | 📅 2026-11-19
+  * [GitHub](https://github.com/keneucker/biketag-vue) ⭐ 30 | 🐛 36 | 🌐 TypeScript | 📅 2026-11-20
   * [Website](https://biketag.org)
   * [About](https://biketag.bike)
 
@@ -305,7 +305,7 @@ von Markenherstellern
 #### [No. 4 - 19.06.2019, CityLab](https://www.meetup.com/de-DE/Datacycle-Meetup-Fahrraddaten-fur-Berlin/events/262280570/)
 
 * Moritz Metz – selbst durchgeführten Geschwindigkeitsmessungen am "Friedel-Speedway"
-  * <https://github.com/pageauc/speed-camera> ⭐ 1,111 | 🐛 20 | 🌐 Python | 📅 2026-09-23
+  * <https://github.com/pageauc/speed-camera> ⭐ 1,112 | 🐛 20 | 🌐 Python | 📅 2026-09-23
   * [Blogpost](https://fahrradfreundliches-neukoelln.de/blog/neukoellner-friedelspeedway)
   * [Moritz' eigene Messdaten (Google Docs)](https://docs.google.com/spreadsheets/d/1gKip7CnoZp2_j6kxtpKJqL_ge3OTGbvFXNo2uK8GUdo/edit#gid=1095001652)
   * PDF Messdaten Bezirk Neukölln, <http://moritzmetz.de/upload/friedelspeed-geschwindigkeitsmessungen-bezirk.pdf>
@@ -356,4 +356,4 @@ von Markenherstellern
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-20._
