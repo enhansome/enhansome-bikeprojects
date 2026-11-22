@@ -211,8 +211,8 @@
             "id": 253730181,
             "language": "PHP",
             "license": "GPL-2.0",
-            "last_commit": "2026-11-20T17:09:06Z",
-            "open_issues": 161,
+            "last_commit": "2026-11-22T15:53:59Z",
+            "open_issues": 163,
             "owner": "wielebenwir",
             "repo": "commonsbooking",
             "stars": 58,
@@ -695,7 +695,7 @@
                 "language": "Swift",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-19T10:49:54Z",
-                "open_issues": 13,
+                "open_issues": 9,
                 "owner": "simra-project",
                 "repo": "simra-ios",
                 "stars": 4,
@@ -1053,7 +1053,7 @@
                 "id": 1184696555,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-15T20:51:32Z",
+                "last_commit": "2026-11-22T17:21:05Z",
                 "open_issues": 3,
                 "owner": "MunichWays",
                 "repo": "tempo-30-potenzialanalyse",
@@ -1253,7 +1253,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T20:11:09.801Z",
+    "last_updated": "2026-11-22T20:25:28.282Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome projects around the bicycle 🚲",

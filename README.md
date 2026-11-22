@@ -40,7 +40,7 @@ Jump to
 
 * [bikedata](https://github.com/ropensci/bikedata) ⭐ 81 | 🐛 19 | 🌐 R | 📅 2026-11-06 - R package to extract data from public hire bicycle systems.
 
-* [CommonsBooking](https://github.com/wielebenwir/commonsbooking) ⭐ 58 | 🐛 161 | 🌐 PHP | 📅 2026-11-20 - A Wordpress plugin for management and booking of commons goods especially cargo bikes.
+* [CommonsBooking](https://github.com/wielebenwir/commonsbooking) ⭐ 58 | 🐛 163 | 🌐 PHP | 📅 2026-11-22 - A Wordpress plugin for management and booking of commons goods especially cargo bikes.
 
 * [OSM Conflator](https://github.com/mapsme/osm_conflate) ⭐ 48 | 🐛 9 | 🌐 Python | 📅 2021-02-01. This is a script for merging points from some third-party source with OpenStreetMap data. After merging and uploading, the data can be updated.
 
@@ -107,7 +107,7 @@ Jump to
 * [Die gefährlichsten Radwege in Deutschland](https://radwege.greenpeace.de/) - Interactive map. Add your own "hot spots" and observations. Map and server set up by Greenpeace. Current disadvantages: map uses Google, not OSM; users appear not to be able to create an url as a deep link to a certain position and zoom level.
 
 * SimRa - Kostenlose SimRa App. TU Berlin-Projekt. Datensparsame Datensammel-App, die Fahrtrouten aufzeichnet und Beschleunigungsdaten zum Detektieren von Gefahrensituationen nutzt wie plötzliches Bremsen, Ausweichen, Stürze. 3-Jahres-Förderung durch die Citizen-Science-Initiative der TU Berlin.
-  * [GitHub](https://github.com/simra-project/simra-ios) ⭐ 4 | 🐛 13 | 🌐 Swift | 📅 2026-11-19
+  * [GitHub](https://github.com/simra-project/simra-ios) ⭐ 4 | 🐛 9 | 🌐 Swift | 📅 2026-11-19
   * [Website](https://www.digital-future.berlin/forschung/projekte/simra/)
 
 * Cyface - Software zur Analyse der Qualität und Nutzung von Verkehrswegen. Cyface Android App und Cyface Sensorbox (RaspberryPi) zur Erfassung von Straßen- und Verkehrsdaten. Ausgründung der TU Dresden.
@@ -242,7 +242,7 @@ Jump to
 
 ### Germany
 
-* [Tempo 30 Potenzialkarte München](https://umap.openstreetmap.de/de/map/tempo-30-potentialkarte-munchen_127687): Map visualizing streets segments that qualify for a speed limit of 30 km/h due to the new regulations within the StVO 2024. The analysis is based on an automated determination of segments using OSM data. The map shows munich, but the corresponding [code](https://github.com/MunichWays/tempo-30-potenzialanalyse) ⭐ 4 | 🐛 3 | 🌐 Python | 📅 2026-11-15 can be used to analyze any german region.
+* [Tempo 30 Potenzialkarte München](https://umap.openstreetmap.de/de/map/tempo-30-potentialkarte-munchen_127687): Map visualizing streets segments that qualify for a speed limit of 30 km/h due to the new regulations within the StVO 2024. The analysis is based on an automated determination of segments using OSM data. The map shows munich, but the corresponding [code](https://github.com/MunichWays/tempo-30-potenzialanalyse) ⭐ 4 | 🐛 3 | 🌐 Python | 📅 2026-11-22 can be used to analyze any german region.
 * [Mobilität in Tabellen](https://www.mobilitaet-in-tabellen.de/mit/) - Tool to analyze data from the survey and report "Mobilität in Deutschland (MiD) 2017" by BMVI.
 * [Unfallatlas](https://unfallatlas.statistikportal.de) - Map and data download of accidents with personal injuries.
 * [MunichWays ](https://www.munichways.com/) visualization and analyzes of all major roads in Munich according to the traffic light principle. ([code](https://github.com/AppWerft/MunichWays)), ([map](https://usocialmaps.carto.com/builder/dfd7b295-73a7-4dfe-85e6-933dd7fe5787/embed))
@@ -356,4 +356,4 @@ von Markenherstellern
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-22._
