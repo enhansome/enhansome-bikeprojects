@@ -106,7 +106,7 @@
                 "open_issues": 5,
                 "owner": "weg-li",
                 "repo": "weg-li",
-                "stars": 281,
+                "stars": 280,
                 "topics": [
                   "rails",
                   "ruby",
@@ -127,7 +127,7 @@
             "open_issues": 5,
             "owner": "weg-li",
             "repo": "weg-li",
-            "stars": 281,
+            "stars": 280,
             "topics": [
               "rails",
               "ruby",
@@ -211,8 +211,8 @@
             "id": 253730181,
             "language": "PHP",
             "license": "GPL-2.0",
-            "last_commit": "2026-11-22T15:53:59Z",
-            "open_issues": 163,
+            "last_commit": "2026-11-23T08:53:05Z",
+            "open_issues": 161,
             "owner": "wielebenwir",
             "repo": "commonsbooking",
             "stars": 58,
@@ -359,7 +359,7 @@
             "id": 176778316,
             "language": "JavaScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-17T19:36:59Z",
+            "last_commit": "2026-11-23T20:34:39Z",
             "open_issues": 2,
             "owner": "nekromoff",
             "repo": "bicycle-master-plan",
@@ -810,7 +810,7 @@
                 "id": 327574065,
                 "language": "TypeScript",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-11-21T06:18:58Z",
+                "last_commit": "2026-11-23T09:06:06Z",
                 "open_issues": 36,
                 "owner": "KenEucker",
                 "repo": "biketag-vue",
@@ -1053,7 +1053,7 @@
                 "id": 1184696555,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-22T17:21:05Z",
+                "last_commit": "2026-11-23T21:39:27Z",
                 "open_issues": 3,
                 "owner": "MunichWays",
                 "repo": "tempo-30-potenzialanalyse",
@@ -1182,7 +1182,7 @@
                         "open_issues": 20,
                         "owner": "pageauc",
                         "repo": "speed-camera",
-                        "stars": 1112,
+                        "stars": 1113,
                         "topics": [
                           "matplotlib-pyplot",
                           "motion-tracking",
@@ -1253,7 +1253,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T20:25:28.282Z",
+    "last_updated": "2026-11-24T01:05:46.520Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome projects around the bicycle 🚲",
@@ -1265,7 +1265,7 @@
       "open_issues": 2,
       "owner": "mltbnz",
       "repo": "awesome-bikeprojects",
-      "stars": 204,
+      "stars": 203,
       "topics": [
         "awesome",
         "awesome-list",
