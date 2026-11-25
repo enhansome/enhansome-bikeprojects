@@ -26,7 +26,7 @@ Jump to
 
 ## Projects
 
-* [Verkehrszählung mit Open-Source-Tool OpenDataCam](https://www.heise.de/make/meldung/Open-Source-Tool-macht-Verkehrszaehlungen-einfacher-4517810.html) - Wie viele Autos, Fahrräder oder Schafe täglich die Straße nutzen, lässt sich mit der OpenDataCam ermitteln. Das Tool gibt es nun in Version 3.0. [Github](https://github.com/opendatacam/opendatacam) ⭐ 1,736 | 🐛 62 | 🌐 JavaScript | 📅 2026-04-23
+* [Verkehrszählung mit Open-Source-Tool OpenDataCam](https://www.heise.de/make/meldung/Open-Source-Tool-macht-Verkehrszaehlungen-einfacher-4517810.html) - Wie viele Autos, Fahrräder oder Schafe täglich die Straße nutzen, lässt sich mit der OpenDataCam ermitteln. Das Tool gibt es nun in Version 3.0. [Github](https://github.com/opendatacam/opendatacam) ⭐ 1,737 | 🐛 62 | 🌐 JavaScript | 📅 2026-04-23
 
 * [Streetmix](https://streetmix.net) - Design, remix and share your street. Add cycle paths, widen sidewalks or lanes, and find out how that affects your community ([source code](https://github.com/streetmix/streetmix) ⭐ 757 | 🐛 211 | 🌐 TypeScript | 📅 2026-11-17).
 
@@ -131,7 +131,7 @@ Jump to
 * [BBBike](http://www.bbbike.de/cgi-bin/bbbike.cgi) - A route-finder for cyclists in Berlin and Brandenburg. Developed since 1996 (10 years before the first release of Google Maps!) and still very useful due to own quality attributes like surface, number of traffic lights etc. that are not available in OSM or Google Maps.
 
 * [Bikerouter](https://bikerouter.de) - Web client for BRouter, a routing engine based on OpenStreetMap.
-  * [GitHub](https://github.com/nrenner/brouter-web) ⭐ 507 | 🐛 209 | 🌐 JavaScript | 📅 2026-11-24
+  * [GitHub](https://github.com/nrenner/brouter-web) ⭐ 507 | 🐛 210 | 🌐 JavaScript | 📅 2026-11-25
   * [Website](https://bikerouter.de)
 
 * MotionTag - App for [Android](https://play.google.com/store/apps/details?id=de.motiontag.motiontag\&hl=de) and [iOS](https://itunes.apple.com/de/app/motiontag/id1083164072) tracking your mobility behavior automatically offering reports with modal split and CO2 emission. Based on their [mobility analysis platform](https://www.motion-tag.com/en/mobility/).  (Closed source, disadvantage: no API for consumers to get your own data)
@@ -143,7 +143,7 @@ Jump to
     ![grafik](https://user-images.githubusercontent.com/1151915/187042815-bd585220-23c7-4852-a073-c46b95bb41eb.png)
 
 * BikeTag - A photo mystery tag game on bicycles, completely open-source and free to play forever, written in TypeScript and VueJs.
-  * [GitHub](https://github.com/keneucker/biketag-vue) ⭐ 30 | 🐛 36 | 🌐 TypeScript | 📅 2026-11-23
+  * [GitHub](https://github.com/keneucker/biketag-vue) ⭐ 29 | 🐛 36 | 🌐 TypeScript | 📅 2026-11-23
   * [Website](https://biketag.org)
   * [About](https://biketag.bike)
 
@@ -190,7 +190,7 @@ Jump to
 
 ## Verkehrszählung
 
-* [Open Data Cam](https://opendata.cam) - 'Open Data Cam' is a tool that helps to quantify the world. The best thing about it: You can make it yourself! With computer vision 'Open Data Cam' understands and quantifies what it sees. The simple setup allows everybody to become an urban data miner. [Github](https://github.com/opendatacam/opendatacam) ⭐ 1,736 | 🐛 62 | 🌐 JavaScript | 📅 2026-04-23
+* [Open Data Cam](https://opendata.cam) - 'Open Data Cam' is a tool that helps to quantify the world. The best thing about it: You can make it yourself! With computer vision 'Open Data Cam' understands and quantifies what it sees. The simple setup allows everybody to become an urban data miner. [Github](https://github.com/opendatacam/opendatacam) ⭐ 1,737 | 🐛 62 | 🌐 JavaScript | 📅 2026-04-23
 * [Telraam](https://telraam.net/) Verkehrszählungen (lokal und per Netzwerk/Karte) per Raspberrry Pi, Kamera und Software
   * <https://github.com/CargoBikoMeter/WZePaperDisplay> ⭐ 5 | 🐛 1 | 🌐 C++ | 📅 2023-01-12 e-Paper based mobility data display. "WZ" in "WZePaperDisplay" means "Wir Zählen".
   * [Karte/Map](https://telraam.net/en)
@@ -242,7 +242,7 @@ Jump to
 
 ### Germany
 
-* [Tempo 30 Potenzialkarte München](https://umap.openstreetmap.de/de/map/tempo-30-potentialkarte-munchen_127687): Map visualizing streets segments that qualify for a speed limit of 30 km/h due to the new regulations within the StVO 2024. The analysis is based on an automated determination of segments using OSM data. The map shows munich, but the corresponding [code](https://github.com/MunichWays/tempo-30-potenzialanalyse) ⭐ 4 | 🐛 3 | 🌐 Python | 📅 2026-11-24 can be used to analyze any german region.
+* [Tempo 30 Potenzialkarte München](https://umap.openstreetmap.de/de/map/tempo-30-potentialkarte-munchen_127687): Map visualizing streets segments that qualify for a speed limit of 30 km/h due to the new regulations within the StVO 2024. The analysis is based on an automated determination of segments using OSM data. The map shows munich, but the corresponding [code](https://github.com/MunichWays/tempo-30-potenzialanalyse) ⭐ 4 | 🐛 4 | 🌐 Python | 📅 2026-11-25 can be used to analyze any german region.
 * [Mobilität in Tabellen](https://www.mobilitaet-in-tabellen.de/mit/) - Tool to analyze data from the survey and report "Mobilität in Deutschland (MiD) 2017" by BMVI.
 * [Unfallatlas](https://unfallatlas.statistikportal.de) - Map and data download of accidents with personal injuries.
 * [MunichWays ](https://www.munichways.com/) visualization and analyzes of all major roads in Munich according to the traffic light principle. ([code](https://github.com/AppWerft/MunichWays)), ([map](https://usocialmaps.carto.com/builder/dfd7b295-73a7-4dfe-85e6-933dd7fe5787/embed))
@@ -305,7 +305,7 @@ von Markenherstellern
 #### [No. 4 - 19.06.2019, CityLab](https://www.meetup.com/de-DE/Datacycle-Meetup-Fahrraddaten-fur-Berlin/events/262280570/)
 
 * Moritz Metz – selbst durchgeführten Geschwindigkeitsmessungen am "Friedel-Speedway"
-  * <https://github.com/pageauc/speed-camera> ⭐ 1,113 | 🐛 20 | 🌐 Python | 📅 2026-09-23
+  * <https://github.com/pageauc/speed-camera> ⭐ 1,114 | 🐛 20 | 🌐 Python | 📅 2026-09-23
   * [Blogpost](https://fahrradfreundliches-neukoelln.de/blog/neukoellner-friedelspeedway)
   * [Moritz' eigene Messdaten (Google Docs)](https://docs.google.com/spreadsheets/d/1gKip7CnoZp2_j6kxtpKJqL_ge3OTGbvFXNo2uK8GUdo/edit#gid=1095001652)
   * PDF Messdaten Bezirk Neukölln, <http://moritzmetz.de/upload/friedelspeed-geschwindigkeitsmessungen-bezirk.pdf>
@@ -356,4 +356,4 @@ von Markenherstellern
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-25._
