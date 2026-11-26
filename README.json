@@ -212,7 +212,7 @@
             "language": "PHP",
             "license": "GPL-2.0",
             "last_commit": "2026-11-23T08:53:05Z",
-            "open_issues": 161,
+            "open_issues": 162,
             "owner": "wielebenwir",
             "repo": "commonsbooking",
             "stars": 58,
@@ -1120,7 +1120,7 @@
                 "open_issues": 27,
                 "owner": "openmobilityfoundation",
                 "repo": "mobility-data-specification",
-                "stars": 754,
+                "stars": 755,
                 "topics": [
                   "autonomous-vehicles",
                   "bike-share",
@@ -1253,7 +1253,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T22:38:44.824Z",
+    "last_updated": "2026-11-26T22:29:08.975Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome projects around the bicycle 🚲",
